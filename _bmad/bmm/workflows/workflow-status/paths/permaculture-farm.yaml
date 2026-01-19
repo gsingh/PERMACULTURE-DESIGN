@@ -1,0 +1,332 @@
+# Permaculture Farm Development Workflow Path
+# Custom workflow for regenerative agriculture and permaculture design projects
+# Aligned with permaculture design principles and zone planning methodology
+
+name: "Permaculture Farm Development"
+description: "Complete workflow for designing and implementing a permaculture farm with zone-based planning"
+author: "BMad - Custom Permaculture Track"
+version: "1.0"
+
+# Workflow phases following permaculture design process
+phases:
+  
+  # ============================================
+  # PHASE 1: SITE ANALYSIS & DISCOVERY
+  # ============================================
+  - phase: "1-site-analysis"
+    name: "Site Analysis & Discovery"
+    description: "Observe and gather data about your land, climate, and resources"
+    workflows:
+      
+      - id: "site-assessment"
+        name: "Site Assessment & Survey"
+        description: "Complete site survey including topography, existing features, access points"
+        agent: "analyst"
+        status: "recommended"
+        outputs:
+          - "site-assessment.md"
+          - "topographic-survey-data"
+        
+      - id: "soil-water-analysis"
+        name: "Soil & Water Analysis"
+        description: "Test soil composition, pH, water table, drainage patterns"
+        agent: "analyst"
+        status: "recommended"
+        outputs:
+          - "soil-water-analysis.md"
+        
+      - id: "climate-sector-analysis"
+        name: "Climate & Sector Analysis"
+        description: "Map sun paths, wind patterns, water flow, fire risk, access sectors"
+        agent: "analyst"
+        status: "required"
+        outputs:
+          - "climate-sector-analysis.md"
+  
+  # ============================================
+  # PHASE 2: MASTER PLANNING
+  # ============================================
+  - phase: "2-master-planning"
+    name: "Master Planning & System Design"
+    description: "Create comprehensive farm-wide plans for major systems"
+    workflows:
+      
+      - id: "zone-0-house-placement"
+        name: "Zone 0: House Placement Strategy"
+        description: "Design house placement, orientation, passive solar, connection to zones"
+        agent: "architect"
+        status: "required"
+        outputs:
+          - "zone-0-house-placement-strategy.md"
+        
+      - id: "water-management-design"
+        name: "Water Management System Design"
+        description: "Design swales, ponds, rainwater harvesting, irrigation systems"
+        agent: "architect"
+        status: "required"
+        outputs:
+          - "swale-design-plan.md"
+          - "rainwater-harvesting-plan.md"
+          - "pond-design.md"
+        
+      - id: "windbreak-strategy"
+        name: "Windbreak & Edge Protection"
+        description: "Design windbreaks, hedgerows, edge plantings for protection"
+        agent: "architect"
+        status: "required"
+        outputs:
+          - "windbreak-design.md"
+        
+      - id: "access-roads-paths"
+        name: "Access Roads & Pathways"
+        description: "Design vehicle access, walking paths, material transport routes"
+        agent: "architect"
+        status: "required"
+        outputs:
+          - "access-roads-pathways.md"
+          - "berms-for-roads-pathways.md"
+  
+  # ============================================
+  # PHASE 3: ZONE PLANNING (DETAILED)
+  # ============================================
+  - phase: "3-zone-planning"
+    name: "Detailed Zone Planning"
+    description: "Design each zone with specific plantings, animals, and systems"
+    workflows:
+      
+      - id: "zone-1-garden-design"
+        name: "Zone 1: Kitchen Garden Design"
+        description: "Intensive garden beds, herbs, daily-harvest vegetables, composting"
+        agent: "architect"
+        status: "required"
+        outputs:
+          - "zone-1-garden-design.md"
+        
+      - id: "zone-2-animal-integration"
+        name: "Zone 2: Food Forest & Animal Integration"
+        description: "Design food forest, animal systems (chickens, ducks), rotational grazing"
+        agent: "sm"
+        status: "required"
+        outputs:
+          - "zone-2-animal-integration-plan.md"
+        
+      - id: "zone-3-production-design"
+        name: "Zone 3: Production Areas Design"
+        description: "Orchards, annual crops, larger animal systems, storage"
+        agent: "architect"
+        status: "required"
+        outputs:
+          - "zone-3-production-design.md"
+        
+      - id: "zone-4-perimeter-design"
+        name: "Zone 4: Perimeter & Forage Design"
+        description: "Managed wild areas, timber, forage crops, wildlife corridors"
+        agent: "architect"
+        status: "optional"
+        outputs:
+          - "zone-4-perimeter-design.md"
+        
+      - id: "zone-5-wild-area"
+        name: "Zone 5: Wild Area Planning"
+        description: "Observation, wild foraging, nature conservation zones"
+        agent: "architect"
+        status: "optional"
+        outputs:
+          - "zone-5-wild-area.md"
+  
+  # ============================================
+  # PHASE 4: DETAILED SYSTEM DESIGN
+  # ============================================
+  - phase: "4-system-design"
+    name: "Detailed System Design"
+    description: "Detailed plans for specific farm systems and infrastructure"
+    workflows:
+      
+      - id: "plant-guilds-design"
+        name: "Plant Guilds & Polyculture Design"
+        description: "Design beneficial plant combinations, companion planting strategies"
+        agent: "architect"
+        status: "recommended"
+        outputs:
+          - "plant-guilds-design.md"
+        
+      - id: "seed-nursery-plan"
+        name: "Seed Saving & Nursery Plan"
+        description: "Design seed saving systems, nursery areas, propagation strategies"
+        agent: "architect"
+        status: "optional"
+        outputs:
+          - "seed-nursery-plan.md"
+        
+      - id: "composting-system"
+        name: "Composting & Nutrient Cycling"
+        description: "Design composting systems, worm bins, nutrient cycling strategies"
+        agent: "architect"
+        status: "recommended"
+        outputs:
+          - "composting-system-design.md"
+        
+      - id: "energy-systems"
+        name: "Energy Systems Design"
+        description: "Solar, biogas, renewable energy systems"
+        agent: "architect"
+        status: "optional"
+        outputs:
+          - "energy-systems-design.md"
+        
+      - id: "healing-center-integration"
+        name: "Healing Center Integration"
+        description: "Design healing center spaces, guest accommodations, workshop areas"
+        agent: "architect"
+        status: "conditional"
+        condition: "if_healing_center_planned"
+        outputs:
+          - "healing-center-integration.md"
+  
+  # ============================================
+  # PHASE 5: COMMUNITY COORDINATION (4-FAMILY)
+  # ============================================
+  - phase: "5-community-coordination"
+    name: "Community Coordination & Governance"
+    description: "Establish agreements, protocols, and systems for 4-family community"
+    workflows:
+      
+      - id: "family-agreements"
+        name: "Family Agreements & Legal Structure"
+        description: "Written agreements, decision-making protocols, conflict resolution"
+        agent: "pm"
+        status: "required"
+        outputs:
+          - "family-agreements.md"
+          - "legal-structure.md"
+        
+      - id: "labor-sharing-protocol"
+        name: "Labor Sharing & Task Rotation"
+        description: "Define shared labor, rotation schedules, responsibility assignments"
+        agent: "sm"
+        status: "required"
+        outputs:
+          - "labor-sharing-protocol.md"
+        
+      - id: "financial-tracking"
+        name: "Financial Tracking & Budgeting"
+        description: "Shared expenses, income distribution, investment tracking"
+        agent: "pm"
+        status: "required"
+        outputs:
+          - "financial-tracking-system.md"
+        
+      - id: "resource-sharing"
+        name: "Resource Sharing Protocols"
+        description: "Tool library, equipment, harvest distribution, egg sharing"
+        agent: "sm"
+        status: "recommended"
+        outputs:
+          - "resource-sharing-protocols.md"
+  
+  # ============================================
+  # PHASE 6: IMPLEMENTATION PLANNING
+  # ============================================
+  - phase: "6-implementation-planning"
+    name: "Implementation Planning & Phasing"
+    description: "Break down into actionable phases with timelines and budgets"
+    workflows:
+      
+      - id: "phase-1-earthworks"
+        name: "Phase 1: Earthworks Planning"
+        description: "Plan swale construction, pond excavation, road building, site prep"
+        agent: "sm"
+        status: "required"
+        outputs:
+          - "phase-1-earthworks-plan.md"
+        
+      - id: "phase-2-infrastructure"
+        name: "Phase 2: Infrastructure Planning"
+        description: "Plan house construction, animal housing, fencing, utilities"
+        agent: "sm"
+        status: "required"
+        outputs:
+          - "phase-2-infrastructure-plan.md"
+        
+      - id: "phase-3-planting"
+        name: "Phase 3: Planting Planning"
+        description: "Plan tree planting, garden establishment, windbreaks, ground covers"
+        agent: "sm"
+        status: "required"
+        outputs:
+          - "phase-3-planting-plan.md"
+        
+      - id: "phase-4-animal-introduction"
+        name: "Phase 4: Animal Introduction Planning"
+        description: "Plan animal purchases, introduction timing, training, systems"
+        agent: "sm"
+        status: "required"
+        outputs:
+          - "phase-4-animal-introduction-plan.md"
+  
+  # ============================================
+  # PHASE 7: EXECUTION & ESTABLISHMENT
+  # ============================================
+  - phase: "7-execution"
+    name: "Execution & Establishment"
+    description: "Implementation tracking and establishment monitoring"
+    workflows:
+      
+      - id: "sprint-planning"
+        name: "Sprint Planning & Task Management"
+        description: "Create sprints for implementation, assign tasks, track progress"
+        agent: "sm"
+        status: "required"
+        command: "sprint-planning"
+        outputs:
+          - "sprint-status.yaml"
+        
+      - id: "story-creation"
+        name: "Story Creation for Tasks"
+        description: "Break down implementation into detailed user stories"
+        agent: "sm"
+        status: "recommended"
+        command: "create-story"
+        outputs:
+          - "stories/*.md"
+        
+      - id: "establishment-monitoring"
+        name: "Establishment Monitoring"
+        description: "Track plant survival, animal health, system performance"
+        agent: "analyst"
+        status: "recommended"
+        outputs:
+          - "establishment-monitoring.md"
+  
+  # ============================================
+  # PHASE 8: RETROSPECTIVE & OPTIMIZATION
+  # ============================================
+  - phase: "8-retrospective"
+    name: "Retrospective & Continuous Improvement"
+    description: "Learn from experience, optimize systems, document successes"
+    workflows:
+      
+      - id: "season-retrospective"
+        name: "Seasonal Retrospective"
+        description: "Review what worked, what didn't, plan adjustments"
+        agent: "sm"
+        status: "recommended"
+        command: "retrospective"
+        outputs:
+          - "retrospectives/*.md"
+        
+      - id: "system-optimization"
+        name: "System Optimization"
+        description: "Refine rotations, adjust plantings, improve infrastructure"
+        agent: "architect"
+        status: "optional"
+        outputs:
+          - "optimization-notes.md"
+        
+      - id: "knowledge-documentation"
+        name: "Knowledge Documentation"
+        description: "Document learnings, create guides, share with community"
+        agent: "tech-writer"
+        status: "optional"
+        outputs:
+          - "knowledge-base/*.md"
