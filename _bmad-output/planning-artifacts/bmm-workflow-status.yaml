@@ -49,7 +49,7 @@ workflow_status:
   # ============================================
   zone-1-garden-design: "required"  # NEXT PRIORITY - Kitchen gardens for 4 families
   zone-2-animal-integration: "_bmad-output/implementation-artifacts/zone-2-animal-integration-plan.md"  # ✅ Completed!
-  zone-3-production-design: "required"  # Orchards, annual crops
+  zone-3-production-design: "_bmad-output/implementation-artifacts/zone-3-development-plan.md"  # ✅ Completed! Six Thinking Hats analysis
   zone-4-perimeter-design: "optional"  # Perimeter management
   zone-5-wild-area: "optional"  # Wild observation zones
   
@@ -136,16 +136,16 @@ suggested_next:
 # Progress summary
 progress:
   total_workflows: 38
-  completed: 5
+  completed: 6
   in_progress: 0
-  pending_required: 14
+  pending_required: 13
   pending_recommended: 9
   pending_optional: 10
-  completion_percentage: "13%"
+  completion_percentage: "16%"
   
   current_phase: "Phase 3: Zone Planning (Detailed)"
   phases_completed: 
     - "Phase 2: Master Planning (100%)"
   phases_in_progress:
     - "Phase 1: Site Analysis (33%)"
-    - "Phase 3: Zone Planning (40%)"
+    - "Phase 3: Zone Planning (60%)"
