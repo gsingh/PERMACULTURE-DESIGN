@@ -50,7 +50,8 @@ workflow_status:
   zone-1-garden-design: "required"  # NEXT PRIORITY - Kitchen gardens for 4 families
   zone-2-animal-integration: "_bmad-output/implementation-artifacts/zone-2-animal-integration-plan.md"  # ✅ Completed!
   zone-3-production-design: "_bmad-output/implementation-artifacts/zone-3-development-plan.md"  # ✅ Completed! Six Thinking Hats analysis
-  zone-4-perimeter-design: "optional"  # Perimeter management
+   zone-4-perimeter-design: "optional"  # Perimeter management
+  zone-3-production-design: "_bmad-output/implementation-artifacts/zone-3-development-plan.md"  # ✅ Completed! Six Thinking Hats analysis
   zone-5-wild-area: "optional"  # Wild observation zones
   
   # ============================================
