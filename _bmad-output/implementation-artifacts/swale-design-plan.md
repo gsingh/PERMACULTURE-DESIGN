@@ -1,6 +1,39 @@
 # Swale Design & Tree Plantation Plan
 ## UPDATED FOR 4-FAMILY CLUSTER VILLAGE LAYOUT
-## Site: 4 Acre x 1 Acre Land
+## Site: 1 Acre x 4 Acre Land (ROTATED PROPERTY)
+## Updated: January 26, 2026
+
+---
+
+## 🔄 CRITICAL PROPERTY ROTATION UPDATE
+
+### **Property Dimensions Changed:**
+- **OLD:** 4 acres (E-W) x 1 acre (N-S) = 836ft x 209ft (wide and shallow)
+- **NEW:** 1 acre (E-W) x 4 acres (N-S) = 209ft x 836ft (narrow and deep)
+
+### **Impact on Swale System:**
+
+| Aspect | OLD Design | NEW Design | Impact |
+|--------|-----------|-----------|---------|
+| **Swale Length** | 836 feet (long) | **209 feet (short)** | ✅ Easier to construct! |
+| **Number of Swales** | 3-4 swales | **12-14 swales** | ⬆️ 3X more swales |
+| **Spacing** | 50ft apart across 209ft width | **50-60ft apart down 836ft length** | Cascade system |
+| **Total Capacity** | ~152,000 gallons | **~115,000 gallons** | ⬇️ Slightly less |
+| **Total Trees** | 160-200 trees | **120-168 trees** | Similar total |
+| **Pond Location** | SE corner | **Southern end** | Different approach |
+
+### **Key Advantages of New Design:**
+1. ✅ **Shorter swales = much easier to dig and keep level** (209ft vs 836ft each)
+2. ✅ **Better cascade system** - water flows through 12+ swales instead of 3-4
+3. ✅ **More redundancy** - if one swale fails, 11+ others still working
+4. ✅ **Gradual infiltration** - water slows down through multiple stages
+5. ✅ **Flexible zoning** - can adjust land use more gradually down the property
+6. ✅ **Easier maintenance** - shorter swales mean less distance to walk for upkeep
+
+### **Key Challenges:**
+1. ⚠️ **More swales to maintain** (12-14 vs 3-4) - but each is simpler
+2. ⚠️ **More construction phases** - can be phased over 2-3 years though
+3. ⚠️ **Access paths** - need to cross more swales (use stepping stones/small bridges)
 
 ---
 
@@ -21,10 +54,10 @@ This document has been **REVISED** to integrate swale placement with the **Clust
 
 ### Land Dimensions
 - **Total Area**: 4 acres (approximately 174,240 sq ft or 16,187 sq m)
-- **Dimensions**: 4 acres (length) x 1 acre (width)
-  - Length (E-W): ~836 feet / 255 meters
-  - Width (N-S): ~209 feet / 64 meters
-- **Orientation**: Long axis runs East-West
+- **Dimensions**: 1 acre (width) x 4 acres (length)
+  - Width (E-W): ~209 feet / 64 meters
+  - Length (N-S): ~836 feet / 255 meters
+- **Orientation**: Long axis runs North-South
 - **Topography**: Mainly plain with slight gradient from North to South
 - **Slope Direction**: North to South (downslope)
 
@@ -33,8 +66,9 @@ This document has been **REVISED** to integrate swale placement with the **Clust
 2. **Housing cluster occupies northern 60-80 feet** (Zone 0 + immediate Zone 1)
 3. Swales run perpendicular to slope (East-West direction) **STARTING SOUTH OF HOUSING**
 4. **First swale positioned to capture runoff from housing/garden area**
-5. Swales protect gardens and prevent water logging near houses
-6. Pond placement (SE corner) receives water from swale system + benefits from housing microclimate
+5. **CRITICAL CHANGE:** Swales are now SHORTER (209ft vs 836ft) but property is DEEPER (836ft vs 209ft)
+6. Swales protect gardens and prevent water logging near houses
+7. Pond placement (southern end) receives water from swale system + benefits from housing microclimate
 
 ---
 
@@ -49,17 +83,18 @@ This document has been **REVISED** to integrate swale placement with the **Clust
 
 ### Design Parameters for Your Site
 
-#### Swale Dimensions (Recommended)
+#### Swale Dimensions (Recommended - UPDATED FOR ROTATED PROPERTY)
 - **Width**: 3-4 feet (0.9-1.2 m) at top
 - **Depth**: 1.5-2 feet (0.45-0.6 m)
-- **Length**: ~830 feet (253 m) - nearly full E-W length
+- **Length**: ~209 feet (64 m) - full E-W width (MUCH SHORTER than before!)
 - **Spacing**: 40-60 feet (12-18 m) apart (depends on slope angle)
 - **Berm height**: 1-1.5 feet (0.3-0.45 m) on downslope side
 
 #### Recommended Number of Swales
-Given your 209-foot width (N-S) and recommended spacing:
-- **4-5 swales** across the property
-- Spacing: approximately 50 feet apart
+Given your 836-foot LENGTH (N-S) and recommended spacing:
+- **12-15 swales** down the property (vs 4-5 previously)
+- Spacing: approximately 50-60 feet apart
+- This creates a SERIES of horizontal swales running across the narrow width
 
 ---
 
@@ -69,84 +104,113 @@ Given your 209-foot width (N-S) and recommended spacing:
 
 ```
 NORTH (Upslope)
-├──────────────────────────────────────────────────────┐
-│  🌳🌳🌳🌳 WINDBREAK (Northern boundary) 🌳🌳🌳🌳      │
-│  (15-20 ft) - Dense planting for wind protection    │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  🏘️ CLUSTER VILLAGE (4 Families) 🏘️                │
-│  ┌──────────────────────────────────────┐          │
-│  │  🏠 F1    [Common House]    F2 🏠    │  (40ft)  │
-│  │           • Kitchen/Dining            │          │
-│  │  🏠 F3    • Library/Guest    F4 🏠   │          │
-│  │           • Storage                   │          │
-│  │                                       │          │
-│  │     [Children's Play Area] 🎪         │  (20ft)  │
-│  │     [Shared Tool Shed] 🔧            │          │
-│  └──────────────────────────────────────┘          │
-│                                                      │
-├──────────────────────────────────────────────────────┤
-│  PRIVATE ZONE 1 STRIPS (Each family 100-150 sq m)   │ (15ft)
-│  🥬 F1  🥕 F2  🌿 F3  🍅 F4  (Kitchen gardens)       │
-├──────────────────────────────────────────────────────┤
-│  ═══════ SHARED ZONE 1 (Communal Gardens) ═══════   │ (25ft)
-│  Main vegetable production • Herb spirals            │
-│  Composting area • Seed saving                       │
-├──────────────────────────────────────────────────────┤
-│  ──────── @110ft from north boundary ────────       │
-│  ★ SWALE 1 (First major water capture) ★           │
-│  🌳🌳🌳 Trees on berms & banks 🌳🌳🌳                │ (50ft)
-│  Purpose: Protects gardens, captures housing runoff │
-│                                                      │
-├──────────────────────────────────────────────────────┤
-│  ZONE 2: Beginning of Food Forest                   │
-│  Duck/Chicken rotation • Young fruit trees          │
-├──────────────────────────────────────────────────────┤
-│  ──────── @160ft from north boundary ────────       │
-│  ★ SWALE 2 (Secondary capture) ★                    │
-│  🌳🌳🌳 Trees on berms & banks 🌳🌳🌳                │ (35ft)
-│  Inlet channel TO POND begins here →                │
-│                                                      │
-├──────────────────────────────────────────────────────┤
-│  ZONE 2-3: Established Food Forest / Orchard       │
-│  Mature fruit trees • Animal shelters               │
-├──────────────────────────────────────────────────────┤
-│  ──────── @195ft from north boundary ────────       │
-│  ★ SWALE 3 (Deep infiltration zone) ★              │
-│  🌳🌳🌳 Large trees, timber species 🌳🌳🌳          │
-│  Main inlet channel TO POND →                       │
-│                                                      │
-│                                            ┌─────────┤
-│  ZONE 3: Annual Crops / Rotation          │ 🌊 POND │ (SE)
-│  Cover crops • Swale-fed irrigation       │ 50x40ft │
-│                                            │ (Ducks) │
-└────────────────────────────────────────────┴─────────┘
+├────────────────────────┐
+│  🌳 WINDBREAK (N) 🌳   │ 15-20ft
+│  Narrower but dense    │
+├────────────────────────┤
+│  🏘️ HOUSING CLUSTER   │ 60-80ft
+│  4 Families stacked    │
+│  F1 + Common House     │
+│  F2                    │
+│  F3                    │
+│  F4                    │
+│  Children's Area       │
+├────────────────────────┤
+│  PRIVATE ZONE 1        │ 15ft
+│  Kitchen gardens       │
+├────────────────────────┤
+│  SHARED ZONE 1         │ 25ft
+│  Communal gardens      │
+├────────────────────────┤
+│ ═══ SWALE 1 @110ft ═══│
+├────────────────────────┤
+│  ZONE 2 Food Forest    │ 50ft
+├────────────────────────┤
+│ ═══ SWALE 2 @160ft ═══│
+├────────────────────────┤
+│  ZONE 2 Food Forest    │ 50ft
+├────────────────────────┤
+│ ═══ SWALE 3 @210ft ═══│
+├────────────────────────┤
+│  ZONE 2 Food Forest    │ 50ft
+├────────────────────────┤
+│ ═══ SWALE 4 @260ft ═══│
+├────────────────────────┤
+│  ZONE 2-3 Food Forest  │ 50ft
+├────────────────────────┤
+│ ═══ SWALE 5 @310ft ═══│
+├────────────────────────┤
+│  ZONE 3 Mixed Use      │ 50ft
+├────────────────────────┤
+│ ═══ SWALE 6 @360ft ═══│
+├────────────────────────┤
+│  ZONE 3 Mixed Use      │ 50ft
+├────────────────────────┤
+│ ═══ SWALE 7 @410ft ═══│
+├────────────────────────┤
+│  ZONE 3 Annual Crops   │ 50ft
+├────────────────────────┤
+│ ═══ SWALE 8 @460ft ═══│
+├────────────────────────┤
+│  ZONE 3 Annual Crops   │ 50ft
+├────────────────────────┤
+│ ═══ SWALE 9 @510ft ═══│
+├────────────────────────┤
+│  ZONE 3-4 Orchard      │ 60ft
+├────────────────────────┤
+│ ═══ SWALE 10 @570ft ══│
+├────────────────────────┤
+│  ZONE 3-4 Orchard      │ 60ft
+├────────────────────────┤
+│ ═══ SWALE 11 @630ft ══│
+├────────────────────────┤
+│  ZONE 4 Lower Use      │ 80ft
+├────────────────────────┤
+│ ═══ SWALE 12 @710ft ══│
+├────────────────────────┤
+│  ZONE 4-5              │ 60ft
+├────────────────────────┤
+│  🌊 POND (South end)   │ 50x40ft
+│  @ 770-820ft           │
+└────────────────────────┘
 SOUTH (Downslope)
 
-WEST ←──────────── 836 feet ────────────→ EAST
+WEST ←── 209 ft ───→ EAST
+(MUCH NARROWER!)
+
+Note: 12-14 swales total
+Each swale ~209ft long
+Spaced 50-60ft apart
 ```
 
 ### Critical Distance Measurements (From North Boundary)
 
-| Feature | Distance from North | Width | Purpose |
+| Feature | Distance from North | Depth | Purpose |
 |---------|-------------------|-------|---------|
 | Windbreak | 0-20 ft | 20 ft | Wind/dust protection |
-| Housing Cluster | 20-60 ft | 40 ft | 4 houses + common house |
-| Children's Area | 60-80 ft | 20 ft | Play space + tool shed |
+| Housing Cluster | 20-80 ft | 60 ft | 4 houses + common house |
 | Private Zone 1 | 80-95 ft | 15 ft | Family kitchen gardens |
 | Shared Zone 1 | 95-110 ft | 15 ft | Communal vegetables |
 | **SWALE 1** | **110 ft** | - | **First major water capture** |
 | Zone 2 | 110-160 ft | 50 ft | Young food forest |
-| **SWALE 2** | **160 ft** | - | **Secondary capture + pond inlet** |
-| Zone 2-3 | 160-195 ft | 35 ft | Mature food forest |
-| **SWALE 3** | **195 ft** | - | **Deep infiltration + pond** |
-| Pond (SE corner) | 750-800 ft E, 180-209 ft S | 50x40 ft | Water storage + aquaculture |
-| South buffer | 195-209 ft | 14 ft | Edge zone |
+| **SWALE 2** | **160 ft** | - | **Secondary capture** |
+| Zone 2 | 160-210 ft | 50 ft | Food forest |
+| **SWALE 3** | **210 ft** | - | **Continue cascade** |
+| Zone 2 | 210-260 ft | 50 ft | Food forest |
+| **SWALE 4** | **260 ft** | - | **Continue cascade** |
+| Zone 2-3 | 260-310 ft | 50 ft | Transition zone |
+| **SWALE 5** | **310 ft** | - | **Mid-property capture** |
+| Zone 3 | 310-360 ft | 50 ft | Mixed production |
+| **SWALE 6-12** | **360-710 ft** | 50ft spacing | **Cascade system continues** |
+| Zone 3-4 | 360-770 ft | 410 ft | Orchard, annual crops, lower zones |
+| **Pond (South end)** | **770-820 ft** | 50x40 ft | **Water storage + aquaculture** |
+| South buffer | 820-836 ft | 16 ft | Edge zone |
 
 ### Detailed Swale Specifications (INTEGRATED WITH HOUSING)
 
 #### Swale 1 (Critical for Housing Protection)
 - **Location**: 110 feet from north boundary (immediately south of Shared Zone 1)
+- **Length**: 209 feet (full E-W width)
 - **Purpose**: 
   - **PRIMARY**: Captures runoff from housing cluster, roofs, paved areas
   - Protects Zone 1 gardens from waterlogging
@@ -156,48 +220,56 @@ WEST ←──────────── 836 feet ────────�
   - Slightly wider (4 ft) and deeper (2 ft) to handle concentrated housing runoff
   - Multiple inlet points from greywater gardens (Zone 1)
   - Overflow to Swale 2 during heavy monsoon
-- **Trees**: Pioneer nitrogen fixers (Gliricidia, Subabul) for rapid soil building
+- **Trees**: Pioneer nitrogen fixers (Gliricidia, Subabul) for rapid soil building - ~20-25 trees
 - **Access**: Maintain clear path for all 4 families to reach this swale
 
-#### Swale 2 (Transition to Food Forest)
-- **Location**: 160 feet from north boundary
+#### Swales 2-5 (Food Forest Support - Cascade System)
+- **Locations**: 160ft, 210ft, 260ft, 310ft from north boundary
+- **Length**: 209 feet each
 - **Purpose**: 
-  - Secondary water capture for Zone 2 food forest
-  - **Inlet channel to pond begins here** (SE direction)
-  - Creates moisture for establishing fruit trees
+  - Sequential water capture cascading down property
+  - Support Zone 2 food forest establishment
+  - Create moisture zones for fruit trees
+  - Slow water flow down the long property
 - **Special considerations**:
-  - Spillway every 150 feet for overflow management
-  - Connection point for pond inlet channel (rock-lined, vegetated)
-- **Trees**: Mix of fruit trees (mango, jamun, guava) + nitrogen fixers
-- **Community function**: Families can harvest fruit along entire swale length
+  - Each swale overflows to next swale in sequence
+  - Shorter length (209ft) means less spillway complexity
+  - Can be simpler construction than original design
+- **Trees**: Mix of fruit trees (mango, jamun, guava) + nitrogen fixers - ~20-25 trees per swale
+- **Community function**: Families can harvest fruit; each family may "adopt" 2-3 swales
 
-#### Swale 3 (Deep Infiltration & Pond Feed)
-- **Location**: 195 feet from north boundary
+#### Swales 6-12 (Production Zones & Pond Feed)
+- **Locations**: 360ft through 710ft (spaced 50-60ft apart)
+- **Length**: 209 feet each
 - **Purpose**: 
-  - Deep water infiltration for Zone 3 production
-  - **Main pond inlet channel** (most water flows here to pond)
-  - Supports mature food forest and annual crop areas
+  - Support Zone 3-4 production (orchard, annual crops)
+  - **Lower swales (10-12) feed into pond** at southern end
+  - Deep water infiltration
+  - Lower maintenance perennial zones
 - **Special considerations**:
-  - Larger spillway structures (manages heavy water flow to pond)
-  - Main inlet channel well-designed (2-3 ft wide, rock-lined)
-- **Trees**: Large canopy species, timber trees, bamboo clusters
-- **Production focus**: Lower maintenance perennials, biomass production
+  - Lower swales (10-12) have inlet channels directing to pond
+  - Can be shallower in lower zones (more infiltration, less runoff)
+  - Strategic placement around orchard trees
+- **Trees**: Large canopy species, timber trees, bamboo clusters - ~15-20 trees per swale
+- **Production focus**: Lower maintenance, less frequent access needed
 
-### KEY CHANGES FROM ORIGINAL PLAN:
+### KEY CHANGES FROM ORIGINAL PLAN (FOR ROTATED PROPERTY):
 
 **What Changed:**
-- ❌ **Removed**: Swale at 35 ft (would interfere with housing)
-- ❌ **Removed**: Swale at 85 ft (too close to private Zone 1 gardens)
-- ✅ **Added**: First swale at 110 ft (perfect placement after gardens)
-- ✅ **Added**: Reduced from 4 swales to 3 swales (adequate for remaining space)
-- ✅ **Enhanced**: Pond integration stronger with 3 well-spaced swales
+- ⚠️ **CRITICAL ROTATION**: Property now 1 acre (E-W) x 4 acres (N-S) instead of 4 acres (E-W) x 1 acre (N-S)
+- ✅ **Swale length**: Now 209 feet (shorter) vs 836 feet (much easier to construct!)
+- ✅ **Number of swales**: Increased from 3-4 swales to 12-14 swales (cascade system)
+- ✅ **Spacing**: 50-60 feet apart down the long property
+- ✅ **Pond location**: Moved to southern end (vs SE corner)
+- ✅ **Access**: Easier E-W access across narrow width
 
 **Why This Works Better:**
-1. **Housing protected**: No water pooling near houses or gardens
-2. **Zone 1 usable**: Intensive gardens not interrupted by swales
-3. **Better spacing**: 50 ft between swales (ideal for tree growth and access)
-4. **Simpler maintenance**: Fewer swales, clearer community responsibility zones
-5. **Enhanced water flow**: Concentrated flow to pond more efficient
+1. **Shorter swales**: Each swale 209ft = easier/faster to dig, less material
+2. **Better cascade**: Multiple swales create stepped infiltration down slope
+3. **More tree planting**: 12-14 swales = more linear feet of berm for trees
+4. **Flexible zoning**: Can adjust use zones more gradually down the property
+5. **Simpler construction**: Shorter swales easier to keep level
+6. **Better redundancy**: If one swale fails, 11+ others still function
 
 ---
 
@@ -305,8 +377,8 @@ Houses → Daily Path → Private Zone 1 → Shared Zone 1
 #### Zone A: On the Berm (Downslope side)
 - **Best location** - trees benefit from water infiltrating from swale
 - **Spacing**: 15-20 feet apart
-- **Trees per swale**: ~40-50 trees
-- **Total for 4 swales**: ~160-200 trees
+- **Trees per swale**: ~10-14 trees (209ft length / 15-20ft spacing)
+- **Total for 12 swales**: ~120-168 trees (similar total to original design!)
 
 #### Zone B: Swale Banks (Both sides)
 - Additional planting on swale edges
@@ -375,18 +447,19 @@ Pattern Unit (repeat along swale):
 
 ## 5. WATER MANAGEMENT CALCULATIONS
 
-### Water Harvesting Potential
+### Water Harvesting Potential (UPDATED FOR ROTATED PROPERTY)
 
 #### Per Swale Capacity
-- Length: 830 feet (253 m)
+- Length: 209 feet (64 m) - MUCH SHORTER
 - Width: 3.5 feet average (1.1 m)
 - Depth: 1.75 feet (0.53 m)
-- **Volume per swale**: ~5,100 cubic feet (144 cubic meters)
-- **Gallons per swale**: ~38,000 gallons (144,000 liters)
+- **Volume per swale**: ~1,280 cubic feet (36 cubic meters)
+- **Gallons per swale**: ~9,580 gallons (36,250 liters)
 
 #### Total System Capacity
-- **4 swales**: ~152,000 gallons (576,000 liters)
-- This equals approximately **3.5 inches of rainfall** across your 4-acre site
+- **12 swales**: ~115,000 gallons (435,000 liters)
+- This equals approximately **2.6 inches of rainfall** across your 4-acre site
+- Note: Slightly less total capacity but MORE swales = better distribution
 
 ### Annual Rainfall Benefit
 Assuming 30 inches annual rainfall:

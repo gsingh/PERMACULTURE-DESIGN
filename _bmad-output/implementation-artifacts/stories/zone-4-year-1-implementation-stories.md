@@ -2,10 +2,11 @@
 ## Agile Sprint Planning for Tree Planting Season 2026
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
 
-**Date Created:** January 21, 2026  
+**Date Created:** January 21, 2026 - UPDATED FOR ROTATED PROPERTY  
 **Planning Period:** Year 1 (Jan 2026 - Dec 2026)  
 **Team:** 4 Families (Kumar, Sharma, Singh, Verma)  
-**Total Investment:** ₹62,500-1,15,000  
+**Property:** 209ft (E-W) × 836ft (N-S) - Zone 4 now 0.26 acres (75% smaller)  
+**Total Investment:** ₹15,000-28,000 (REDUCED from ₹62,500-1,15,000)  
 
 ---
 
@@ -20,11 +21,12 @@
 **Acceptance Criteria:**
 - [ ] All 4 families attend consensus meeting (2-3 hours)
 - [ ] Complete Zone 4 plan reviewed section by section
-- [ ] Financial commitment confirmed (₹15,625-28,750 per family)
+- [ ] **UPDATED**: Financial commitment confirmed (₹3,750-7,000 per family) - REDUCED due to smaller zone
 - [ ] Written agreement signed by all family heads
 - [ ] Roles assigned to each family (nursery, site prep, water, documentation)
 - [ ] Shared bank account opened (Zone 4 fund)
 - [ ] Initial deposits made (25% upfront, 75% by June)
+- [ ] **NOTE**: Property rotation discussed - Zone 4 now 75% smaller (209ft width vs 836ft)
 
 **Story Points:** 5  
 **Sprint:** Sprint 1 (Jan 2026)  
@@ -46,15 +48,16 @@
 **I want to** finalize the exact species and quantities for all 5 rows  
 **So that** we can place accurate nursery orders
 
-**Acceptance Criteria:**
-- [ ] Row 1 species finalized (40-50 trees: Shisham, Neem, Eucalyptus, Mango, Jamun)
-- [ ] Row 2 species finalized (50-70 trees: Babul, Khejri, Siris, Gliricidia, Subabul)
-- [ ] Row 3 species finalized (80-100 plants: Bamboo, Moringa, Jatropha, Vitex)
-- [ ] Row 4 species finalized (100-120 shrubs: Ber, Karonda, Lantana, Wild Rose)
-- [ ] Row 5 seed mix finalized (native grasses + wildflowers)
+**Acceptance Criteria (UPDATED FOR ROTATED PROPERTY):**
+- [ ] Row 1 species finalized (10-12 trees: Shisham, Neem, Eucalyptus, Mango, Jamun) - REDUCED from 40-50
+- [ ] Row 2 species finalized (13-18 trees: Babul, Khejri, Siris, Gliricidia, Subabul) - REDUCED from 50-70
+- [ ] Row 3 species finalized (20-25 plants: Bamboo, Moringa, Jatropha, Vitex) - REDUCED from 80-100
+- [ ] Row 4 species finalized (25-30 shrubs: Ber, Karonda, Lantana, Wild Rose) - REDUCED from 100-120
+- [ ] Row 5 seed mix finalized (native grasses + wildflowers) - REDUCED quantities
 - [ ] Varieties specified (e.g., "Kesar Mango" not just "Mango")
 - [ ] Quantities documented in spreadsheet
 - [ ] Substitutes identified (backup if nursery out of stock)
+- [ ] **TOTAL: ~79 trees/plants** (reduced from 316 due to 209ft width)
 
 **Story Points:** 3  
 **Sprint:** Sprint 1 (Jan 2026)  
@@ -68,40 +71,42 @@
 - Mix of fast-growing (bamboo, eucalyptus) + long-term timber (Shisham)
 - Native species preference for Row 4-5 (biodiversity)
 
-**Species Mix (Recommended):**
+**Species Mix (UPDATED FOR 209ft WIDTH):**
 ```
-Row 1 (40-50 trees):
-- Shisham: 18 trees (40%)
-- Neem: 9 trees (20%)
-- Eucalyptus: 9 trees (20%)
-- Mango (Kesar/Dasheri): 5 trees (10%)
-- Jamun: 5 trees (10%)
+Row 1 (10-12 trees) - REDUCED 75%:
+- Shisham: 5 trees (42%)
+- Neem: 2 trees (17%)
+- Eucalyptus: 2 trees (17%)
+- Mango (Kesar/Dasheri): 2 trees (17%)
+- Jamun: 1 tree (8%)
 
-Row 2 (50-70 trees):
-- Babul: 20 trees (30%)
-- Khejri: 20 trees (30%)
-- Siris: 12 trees (20%)
-- Gliricidia: 10 trees (15%)
-- Subabul: 8 trees (10%)
+Row 2 (13-18 trees) - REDUCED 75%:
+- Babul: 5 trees (30%)
+- Khejri: 5 trees (30%)
+- Siris: 3 trees (18%)
+- Gliricidia: 3 trees (18%)
+- Subabul: 2 trees (12%)
 
-Row 3 (80-100 plants):
-- Bamboo (Dendrocalamus): 45 clumps (50%)
-- Moringa: 22 trees (25%)
-- Jatropha: 12 plants (15%)
-- Vitex: 8 shrubs (10%)
+Row 3 (20-25 plants) - REDUCED 75%:
+- Bamboo (Dendrocalamus): 11 clumps (50%)
+- Moringa: 6 trees (27%)
+- Jatropha: 3 plants (14%)
+- Vitex: 2 shrubs (9%)
 
-Row 4 (100-120 shrubs):
-- Ber (Banarasi/Gola): 45 shrubs (40%)
-- Karonda: 35 shrubs (30%)
-- Lantana: 18 shrubs (15%)
-- Wild Rose: 15 shrubs (15%)
+Row 4 (25-30 shrubs) - REDUCED 75%:
+- Ber (Banarasi/Gola): 11 shrubs (40%)
+- Karonda: 9 shrubs (30%)
+- Lantana: 5 shrubs (17%)
+- Wild Rose: 4 shrubs (13%)
 
-Row 5 (Ground Layer):
-- Khas grass: 0.3 kg seed
-- Doob grass: 0.2 kg seed
-- Native wildflower mix: 0.5 kg seed
-- Marigold: 0.3 kg seed
-TOTAL: 1.3 kg seed mix
+Row 5 (Ground Layer) - REDUCED:
+- Khas grass: 0.08 kg seed
+- Doob grass: 0.05 kg seed
+- Native wildflower mix: 0.12 kg seed
+- Marigold: 0.08 kg seed
+TOTAL: 0.33 kg seed mix (75% reduction)
+
+GRAND TOTAL: ~79 trees/plants (vs 316 previously)
 ```
 
 ---

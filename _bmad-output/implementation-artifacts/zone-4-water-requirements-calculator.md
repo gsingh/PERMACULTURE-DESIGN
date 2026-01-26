@@ -445,9 +445,9 @@
 
 ### Source 1: Swale 3 (Northern Boundary of Zone 4)
 
-**Capacity:**
-- Swale dimensions: 836 ft long x 3 ft wide x 1.5 ft deep (avg)
-- Volume: 836 x 3 x 1.5 = 3,762 cubic ft = 106,500 liters (1.06 lakh liters)
+**Capacity:** (UPDATED FOR ROTATED PROPERTY)
+- Swale dimensions: 209 ft long x 3 ft wide x 1.5 ft deep (avg)
+- Volume: 209 x 3 x 1.5 = 940 cubic ft = 26,625 liters (NOTE: Much smaller per swale, but 12+ swales total)
 
 **Recharge:**
 - Monsoon (July-Sept): 500mm rainfall = 2,145,000 liters captured

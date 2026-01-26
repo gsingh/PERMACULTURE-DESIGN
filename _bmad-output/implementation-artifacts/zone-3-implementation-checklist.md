@@ -3,7 +3,7 @@
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
 
 **Location**: 160-195 feet from north boundary (between Swale 2 and Swale 3)  
-**Size**: 0.67 acres (35 ft N-S × 836 ft E-W)  
+**Size**: 0.16 acres (35 ft N-S × 209 ft E-W) - UPDATED FOR ROTATED PROPERTY  
 **Purpose**: High-production orchards, annual crops, biomass, compost production  
 **Maintenance**: Moderate to high (1-3 visits/week)
 
@@ -33,8 +33,8 @@ Zone 3 is your **main production powerhouse** - providing bulk calories, fruits,
 - [ ] Mark Zone 3 boundaries clearly:
   - [ ] **Northern boundary:** Swale 2 (@ 160ft from north)
   - [ ] **Southern boundary:** Swale 3 (@ 195ft from north)
-  - [ ] **Width:** 35 feet (N-S)
-  - [ ] **Length:** 836 feet (E-W)
+  - [ ] **Depth:** 35 feet (N-S)
+  - [ ] **Width:** 209 feet (E-W) - ROTATED PROPERTY
 - [ ] Install corner stakes (4 corners)
 - [ ] Run marking string or paint lime line
 - [ ] Take GPS coordinates of all corners

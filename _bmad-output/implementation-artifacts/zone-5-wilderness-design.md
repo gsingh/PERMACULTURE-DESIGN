@@ -11,11 +11,11 @@
 
 ## EXECUTIVE SUMMARY
 
-**Zone 5 Location**: 700-836 feet from north boundary (southern end of property)  
+**Zone 5 Location**: Lower zones after swale cascade (southern portions of property)  
 **Primary Function**: Wilderness preservation, wildlife sanctuary, native ecosystem regeneration  
-**Dimensions**: 209 feet (E-W) × 136 feet (N-S) = 28,424 sq ft = **0.65 acres**  
+**Dimensions**: 209 feet (E-W) × Variable depth (N-S) - UPDATED FOR ROTATED PROPERTY  
 **Management Approach**: Minimal to ZERO intervention after Year 1 establishment  
-**Integration:** Provides ecosystem services to Zones 1-4, includes pond in SE corner
+**Integration:** Provides ecosystem services to Zones 1-4, includes pond at southern end
 
 **Key Features:**
 - Native forest regeneration (indigenous species only)

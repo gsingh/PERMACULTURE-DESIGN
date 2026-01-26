@@ -2,23 +2,23 @@
 ## 20-Year Financial & Operational Plan (Years 10-30)
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
 
-**Date:** January 21, 2026  
+**Date:** January 21, 2026 - UPDATED FOR ROTATED PROPERTY  
 **Planning Horizon:** 2036-2056 (Years 10-30 post-planting)  
 **Planted:** July-August 2026  
-**Total Timber Trees:** 116 (Row 1-2 only, excludes Row 3-4)  
-**Estimated Cumulative Value (Year 10-30):** ₹40,00,000-1,20,00,000 (₹40 lakh - 1.2 crore!)
+**Total Timber Trees:** 29 (REDUCED from 116 - 75% reduction due to 209ft width)  
+**Estimated Cumulative Value (Year 10-30):** ₹10,00,000-30,00,000 (₹10-30 lakh) - REDUCED
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-**Timber Species (Harvestable):**
-- **Shisham (18 trees):** Premium timber, 25-30 year harvest, ₹1,00,000-1,50,000 per tree
-- **Neem (9 trees):** Multi-purpose timber, 20-25 year harvest, ₹20,000-40,000 per tree
-- **Eucalyptus (9 trees):** Fast timber, 8-12 year harvest + rotations, ₹5,000-10,000 per tree
-- **Mango (5 trees):** Fruit primary, timber secondary (30-40 years), ₹30,000-50,000 per tree
-- **Jamun (5 trees):** Fruit primary, timber secondary (30-40 years), ₹20,000-30,000 per tree
-- **Row 2 Nitrogen Fixers (70 trees):** Fuelwood via coppicing (3-5 year cycles), ₹5,000-8,000 per ton
+**Timber Species (Harvestable) - UPDATED FOR ROTATED PROPERTY:**
+- **Shisham (5 trees):** Premium timber, 25-30 year harvest, ₹1,00,000-1,50,000 per tree - REDUCED from 18
+- **Neem (2 trees):** Multi-purpose timber, 20-25 year harvest, ₹20,000-40,000 per tree - REDUCED from 9
+- **Eucalyptus (2 trees):** Fast timber, 8-12 year harvest + rotations, ₹5,000-10,000 per tree - REDUCED from 9
+- **Mango (2 trees):** Fruit primary, timber secondary (30-40 years), ₹30,000-50,000 per tree - REDUCED from 5
+- **Jamun (1 tree):** Fruit primary, timber secondary (30-40 years), ₹20,000-30,000 per tree - REDUCED from 5
+- **Row 2 Nitrogen Fixers (17 trees):** Fuelwood via coppicing (3-5 year cycles), ₹5,000-8,000 per ton - REDUCED from 70
 
 **Harvest Strategy:**
 - **Thinning approach:** Harvest 5-10% of trees every 2-3 years (not clear-cut!)

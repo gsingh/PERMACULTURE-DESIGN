@@ -3,9 +3,9 @@
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
 
 **Location**: 110-160 feet from north boundary (between Swale 1 and Swale 2)  
-**Size**: 0.96 acres (50 ft N-S × 836 ft E-W)  
+**Size**: 0.24 acres (50 ft N-S × 209 ft E-W) - UPDATED FOR ROTATED PROPERTY  
 **Purpose**: Food forest establishment + rotational animal integration  
-**Animals**: Chickens (20-25), Ducks (12-15), Optional goats (Year 2+)
+**Animals**: Chickens (12-15 reduced), Ducks (8-10 reduced), Optional goats (Year 2+)
 
 ---
 
@@ -19,8 +19,9 @@ Zone 2 is your **integrated food and animal system** - combining productive food
 - **Ecosystem services**: Pollination, biomass, nutrient cycling
 
 **Implementation Timeline**: 18-24 months to full establishment  
-**Investment**: ₹1.2-1.8 lakhs (₹30,000-45,000 per family)  
-**Maintenance**: Daily (animals), weekly (food forest), low-moderate intensity
+**Investment**: ₹80,000-1,20,000 (₹20,000-30,000 per family) - REDUCED for smaller zone  
+**Maintenance**: Daily (animals), weekly (food forest), low-moderate intensity  
+**CRITICAL NOTE**: Zone now 25% of original size due to property rotation
 
 ---
 
@@ -269,22 +270,18 @@ Based on test results, plan amendments:
 
 ### 2. ROTATION PADDOCK SYSTEM (CHICKENS)
 
-#### 2.1 Paddock Fencing Installation
-- [ ] **Paddock 1 (NW):** 100 ft × 25 ft
+#### 2.1 Paddock Fencing Installation (UPDATED FOR ROTATED PROPERTY)
+- [ ] **Paddock 1 (West half):** 52 ft × 25 ft (1,300 sq ft)
   - [ ] Install corner posts (4 corners)
   - [ ] String electric netting or woven wire
   - [ ] Connect to energizer (if electric)
   - [ ] Create gate/opening to Paddock 2
   - [ ] Test fence integrity (walk perimeter, check gaps)
-- [ ] **Paddock 2 (N-Center):** 100 ft × 25 ft
+- [ ] **Paddock 2 (East half):** 52 ft × 25 ft (1,300 sq ft)
   - [ ] Repeat fencing process
-  - [ ] Connect to Paddock 1 and Paddock 3
-- [ ] **Paddock 3 (NE):** 100 ft × 25 ft
-  - [ ] Repeat fencing process
-  - [ ] Connect to Paddock 2 and Paddock 4
-- [ ] **Paddock 4 (Far NE):** 100 ft × 25 ft
-  - [ ] Repeat fencing process
-  - [ ] Connect to Paddock 3
+  - [ ] Connect to Paddock 1
+  - [ ] NOTE: Only 2 paddocks now (vs 4 previously) due to 209ft width
+  - [ ] 8-week rotation: Each paddock used 4 weeks, rests 4 weeks
 
 #### 2.2 Paddock Infrastructure
 Each paddock needs:
@@ -295,7 +292,7 @@ Each paddock needs:
 - [ ] **Water access:**
   - [ ] Portable waterers (move with chickens)
   - [ ] OR install hose bib for filling waterers
-  - [ ] 2-3 waterers per paddock (25 chickens = 2-3 gallons/day)
+  - [ ] 1-2 waterers per paddock (12-15 chickens = 1.5-2 gallons/day) - REDUCED
 - [ ] **Feeder stations:**
   - [ ] Portable feeders (move with chickens)
   - [ ] Rodent-proof design
@@ -391,18 +388,16 @@ Each paddock needs:
 
 ### 1. TREE SELECTION & PROCUREMENT
 
-#### 1.1 Fruit Tree Species (Canopy Layer)
-**Total needed: 40-50 trees across Zone 2**
+#### 1.1 Fruit Tree Species (Canopy Layer) - UPDATED FOR SMALLER ZONE
+**Total needed: 10-12 trees across Zone 2** (REDUCED from 40-50 due to 209ft width)
 
 | Species | Quantity | Spacing | Purpose | Cost Estimate |
 |---------|----------|---------|---------|---------------|
-| **Mango** (Mangifera indica) | 10-12 | 25-30 ft | Primary fruit, canopy | ₹200-400 each |
-| **Guava** (Psidium guajava) | 8-10 | 15-20 ft | Secondary fruit, multi-season | ₹80-150 each |
-| **Jamun** (Syzygium cumini) | 6-8 | 25-30 ft | Fruit, shade, fire-resistant | ₹150-250 each |
-| **Ber/Jujube** (Ziziphus mauritiana) | 5-7 | 15-20 ft | Fruit, nitrogen-fixer, wildlife | ₹80-120 each |
-| **Amla** (Phyllanthus emblica) | 4-5 | 20-25 ft | Medicinal, fruit, vitamin C | ₹100-180 each |
-| **Pomegranate** (Punica granatum) | 8-10 | 10-15 ft | Fruit, fire-resistant | ₹120-200 each |
-| **Fig** (Ficus carica) | 3-4 | 15-20 ft | Fruit, fast-growing | ₹150-250 each |
+| **Mango** (Mangifera indica) | 2-3 | 25-30 ft | Primary fruit, canopy | ₹200-400 each |
+| **Guava** (Psidium guajava) | 2-3 | 15-20 ft | Secondary fruit, multi-season | ₹80-150 each |
+| **Jamun** (Syzygium cumini) | 1-2 | 25-30 ft | Fruit, shade, fire-resistant | ₹150-250 each |
+| **Ber/Jujube** (Ziziphus mauritiana) | 2 | 15-20 ft | Fruit, nitrogen-fixer, wildlife | ₹80-120 each |
+| **Pomegranate** (Punica granatum) | 2-3 | 10-15 ft | Fruit, fire-resistant | ₹120-200 each |
 
 **Procurement:**
 - [ ] Source from reputable nurseries (local or state forest dept)
@@ -411,24 +406,23 @@ Each paddock needs:
 - [ ] Check health (no pests, diseases, root-bound)
 - [ ] Transport carefully (keep roots moist, avoid direct sun)
 
-#### 1.2 Nitrogen-Fixing Support Species
-**Total needed: 15-20 trees**
+#### 1.2 Nitrogen-Fixing Support Species - REDUCED
+**Total needed: 4-6 trees** (REDUCED from 15-20)
 
 | Species | Quantity | Purpose | Cost |
 |---------|----------|---------|------|
-| **Subabul/Leucaena** | 5-7 | Fast nitrogen fixer, fodder, chop-and-drop | ₹30-50 each |
-| **Gliricidia** | 5-7 | Nitrogen fixer, living fence, biomass | ₹30-50 each |
-| **Moringa** (Drumstick) | 5-6 | Edible leaves/pods, nitrogen, fast-growing | ₹50-80 each |
-| **Sesbania** | 3-4 | Green manure, fodder, quick biomass | ₹20-40 each |
+| **Subabul/Leucaena** | 1-2 | Fast nitrogen fixer, fodder, chop-and-drop | ₹30-50 each |
+| **Gliricidia** | 1-2 | Nitrogen fixer, living fence, biomass | ₹30-50 each |
+| **Moringa** (Drumstick) | 2-3 | Edible leaves/pods, nitrogen, fast-growing | ₹50-80 each |
 
-#### 1.3 Understory Species (Shrub Layer)
-**Total needed: 20-30 shrubs**
+#### 1.3 Understory Species (Shrub Layer) - REDUCED
+**Total needed: 8-12 shrubs** (REDUCED from 20-30)
 
 | Species | Quantity | Purpose | Cost |
 |---------|----------|---------|------|
-| **Curry Leaf** (Murraya koenigii) | 5-7 | Culinary, aromatic, insect-repellent | ₹80-120 each |
-| **Aloe Vera** | 10-15 | Medicinal, fire-resistant, low-water | ₹20-40 each |
-| **Lemongrass** | 10-15 | Culinary, insect-repellent, mulch | ₹30-50 each |
+| **Curry Leaf** (Murraya koenigii) | 2-3 | Culinary, aromatic, insect-repellent | ₹80-120 each |
+| **Aloe Vera** | 3-5 | Medicinal, fire-resistant, low-water | ₹20-40 each |
+| **Lemongrass** | 3-4 | Culinary, insect-repellent, mulch | ₹30-50 each |
 | **Turmeric/Ginger** | As desired | Shade-tolerant, edible rhizomes | ₹20-30/kg |
 
 #### 1.4 Ground Cover & Herbaceous Layer

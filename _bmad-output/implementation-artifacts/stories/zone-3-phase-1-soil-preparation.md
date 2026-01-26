@@ -5,14 +5,15 @@
 **Epic:** Zone 3 Development Plan  
 **Story Number:** 3.1  
 **Status:** ready-for-dev  
-**Date:** January 19, 2026  
-**Community Model:** 4-Family Cluster Village (Option 1)
+**Date:** January 19, 2026 - UPDATED FOR ROTATED PROPERTY  
+**Community Model:** 4-Family Cluster Village (Option 1)  
+**Property Dimensions:** 209ft (E-W) × 836ft (N-S) - ROTATED
 
 ---
 
 ## Story
 
-As a **4-family community member**, I want to prepare Zone 3 soil for productive agriculture so that our **0.67 acres** (35ft x 836ft) produces abundant food for all four families while building soil health through organic matter and regenerative practices.
+As a **4-family community member**, I want to prepare Zone 3 soil for productive agriculture so that our **0.16 acres** (35ft N-S × 209ft E-W - UPDATED FOR ROTATED PROPERTY) produces abundant food for all four families while building soil health through organic matter and regenerative practices.
 
 ---
 
@@ -21,14 +22,14 @@ As a **4-family community member**, I want to prepare Zone 3 soil for productive
 - [ ] 5 soil samples taken across Zone 3 locations (north, center, NE corner, SE corner, SW corner)
 - [ ] Soil analysis report created (pH: 7.5-8.5, organic matter: 1-2%, NPK levels, texture, drainage rate)
 - [ ] Baseline soil health documented for future comparison
-- [ ] 3-bay compost system built (each bay 4x4ft = 64 sq ft) at Zone 3 southern edge
-- [ ] Initial compost sourced and delivered (10-15 tons from Zone 2 animal manure + kitchen scraps + crop residues)
-- [ ] Drip irrigation infrastructure installed along future orchard row (Row 1, 10ft width)
+- [ ] **UPDATED**: 2-bay compost system built (each bay 3x3ft = 18 sq ft) - SMALLER due to reduced zone size
+- [ ] **UPDATED**: Initial compost sourced (3-5 tons) - REDUCED from 10-15 tons
+- [ ] Drip irrigation infrastructure installed along future orchard row (Row 1, 10ft width × 209ft length)
 - [ ] Water connection tested (from Swale 2 gravity-fed or tubewell pumped)
-- [ ] Raised beds prepared for annual crop area (Row 2, 15ft width)
-- [ ] Access paths defined along Zone 3 northern and southern edges
+- [ ] Raised beds prepared for annual crop area (Row 2, 15ft width × 209ft length) - NARROWER
+- [ ] Access paths defined along Zone 3 northern and southern edges (209ft E-W paths)
 - [ ] Soil preparation complete and ready for Phase 2 planting (Month 6 target)
-- [ ] Total cost tracked and within budget (₹25,000-40,000)
+- [ ] **UPDATED**: Total cost tracked (₹8,000-15,000) - REDUCED 65% due to smaller zone
 
 ---
 
@@ -73,29 +74,23 @@ As a **4-family community member**, I want to prepare Zone 3 soil for productive
 - [ ] Mark 12x16 ft area (192 sq ft) for compost system
 - [ ] Verify adequate drainage (slight slope away from Zone 3 crops)
 
-**AC 2.2 - Build Bay 1 (Fresh Manure)**
-- [ ] Construct 4x4ft bay (64 sq ft) using wooden pallets or bamboo
+**AC 2.2 - Build Bay 1 (Active Composting) - UPDATED FOR SMALLER ZONE**
+- [ ] Construct 3x3ft bay (18 sq ft) using wooden pallets or bamboo - REDUCED SIZE
 - [ ] Build 2-3ft high walls with open front for easy loading
 - [ ] Use wire mesh or bamboo slats for airflow
 - [ ] Ground level (no floor needed - sits directly on earth)
-- **Materials:** 20 wooden pallets + bamboo poles + wire mesh
-- **Estimated cost:** ₹4,000-6,000
+- **Materials:** 10 wooden pallets + bamboo poles + wire mesh - REDUCED
+- **Estimated cost:** ₹2,000-3,000 - REDUCED
 
-**AC 2.3 - Build Bay 2 (Active Composting)**
-- [ ] Construct 4x4ft bay (64 sq ft) with wooden pallets
+**AC 2.3 - Build Bay 2 (Finished Compost) - UPDATED**
+- [ ] Construct 3x3ft bay (18 sq ft) with wooden pallets - REDUCED SIZE
 - [ ] Build 2-3ft high walls with open front
 - [ ] Add removable wooden cover (protects from heavy rain)
-- [ ] Ensure turning access space (for pitchfork or tractor)
-- **Materials:** 20 wooden pallets + bamboo poles + tarp cover
-- **Estimated cost:** ₹4,000-6,000
+- [ ] Ensure turning access space (for pitchfork)
+- **Materials:** 10 wooden pallets + bamboo poles + tarp cover - REDUCED
+- **Estimated cost:** ₹2,000-3,000 - REDUCED
 
-**AC 2.4 - Build Bay 3 (Finished Compost)**
-- [ ] Construct 4x4ft bay (64 sq ft) using wooden pallets
-- [ ] Build 2-3ft high walls
-- [ ] Add access ramp for wheelbarrow
-- [ ] Ground level with proper drainage
-- **Materials:** 20 wooden pallets + bamboo poles
-- **Estimated cost:** ₹4,000-6,000
+**NOTE:** Only 2 bays needed for smaller Zone 3 (was 3 bays in original plan)
 
 **AC 2.5 - Create access paths between bays**
 - [ ] Lay down 6-inch mulched pathway between compost bays (15 ft total)

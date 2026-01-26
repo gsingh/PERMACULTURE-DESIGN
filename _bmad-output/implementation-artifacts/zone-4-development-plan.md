@@ -10,11 +10,12 @@
 
 ## EXECUTIVE SUMMARY
 
-**Zone 4 Location**: 195-250 feet from north boundary (between Swale 3 and southern boundary)  
+**Zone 4 Location**: Distributed across multiple swale zones (UPDATED FOR ROTATED PROPERTY)  
 **Primary Function**: Windbreak, timber production, forage, wildlife habitat, perimeter buffer  
-**Scale**: ~55 feet wide (N-S) x 836 feet (E-W) = ~45,980 sq ft (~1.06 acres)  
+**Scale**: ~55 feet wide (N-S) x 209 feet (E-W) = ~11,495 sq ft (~0.26 acres) **75% SMALLER!**  
 **Design Approach**: Low maintenance, semi-wild, minimal human intervention (1-2 visits/month)  
-**Integration:** Protects Zones 1-3 from harsh weather, provides long-term timber, habitat corridor
+**Integration:** Protects Zones 1-3 from harsh weather, provides long-term timber, habitat corridor  
+**CRITICAL NOTE:** Zone dramatically reduced due to property rotation from 836ft to 209ft width
 
 **Key Features:**
 - Multi-layered windbreak system (3-5 rows deep)
@@ -42,9 +43,9 @@ NORTH (from Zone 3)
 │                                                      │
 │  ★ ZONE 4: SEMI-WILD PERIMETER ZONE ★              │
 │  Location: 195-250 feet from north boundary         │
-│  Width: 55 feet (N-S)                               │
-│  Length: 836 feet (E-W)                             │
-│  Area: ~45,980 sq ft (~1.06 acres)                  │
+│  Depth: 55 feet (N-S)                               │
+│  Width: 209 feet (E-W) **ROTATED!**                │
+│  Area: ~11,495 sq ft (~0.26 acres)                  │
 │                                                      │
 │  Layout (North to South):                           │
 │  ┌────────────────────────────────────────┐         │
@@ -88,7 +89,7 @@ NORTH (from Zone 3)
 └──────────────────────────────────────────────────────┘
 SOUTH
 
-WEST ←───────────── 836 feet ──────────────→ EAST
+WEST ←─── 209 feet (ROTATED!) ───→ EAST
 ```
 
 ---
@@ -98,9 +99,9 @@ WEST ←───────────── 836 feet ───────�
 ### Site-Specific Facts
 
 **Location & Dimensions:**
-- **Boundaries:** Swale 3 (north) to southern property line (south)
-- **Dimensions:** 55 feet wide x 836 feet long
-- **Total Area:** ~45,980 square feet (1.06 acres)
+- **Boundaries:** Swale zones (distributed) to lower property areas
+- **Dimensions:** 55 feet deep x 209 feet wide **ROTATED PROPERTY**
+- **Total Area:** ~11,495 square feet (0.26 acres) **75% REDUCTION**
 - **Shape:** Linear perimeter zone, east-west orientation
 - **Orientation:** Full north-south exposure for windbreak function
 

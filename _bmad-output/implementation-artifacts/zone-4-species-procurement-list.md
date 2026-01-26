@@ -9,36 +9,37 @@
 
 ---
 
-## PROCUREMENT SUMMARY
+## PROCUREMENT SUMMARY (UPDATED FOR ROTATED PROPERTY)
 
-**Total Trees/Plants Required:** 316  
-**Estimated Budget:** ₹25,000-45,000 (saplings only)  
-**Recommended Nurseries:** 3-5 (diversify risk)  
+**Total Trees/Plants Required:** 79 (REDUCED from 316 - 75% reduction!)  
+**Estimated Budget:** ₹6,000-11,000 (saplings only) - REDUCED  
+**Recommended Nurseries:** 2-3 (diversify risk)  
 **Order Timing:** February-March 2026 (early!)  
-**Payment Terms:** 25% advance, 75% on delivery
+**Payment Terms:** 25% advance, 75% on delivery  
+**REASON FOR REDUCTION:** Property rotated - Zone 4 now 209ft wide vs 836ft
 
 ---
 
-## ROW 1: CANOPY TREES (Premium Timber + Fruit)
+## ROW 1: CANOPY TREES (Premium Timber + Fruit) - REDUCED
 
-### Target: 46 Trees
+### Target: 12 Trees (REDUCED from 46 due to 209ft width)
 
 | Species | Common Name | Quantity | Size Spec | Price Range (₹/sapling) | Subtotal (₹) | Nursery Source |
 |---------|-------------|----------|-----------|------------------------|--------------|----------------|
-| **Dalbergia sissoo** | Shisham (Indian Rosewood) | 18 | 2-4 ft, 1-2 yr old | 100-200 | 1,800-3,600 | Forest Dept, Local |
-| **Azadirachta indica** | Neem | 9 | 2-4 ft, 1-2 yr old | 40-80 | 360-720 | Forest Dept, Local |
-| **Eucalyptus** (hybrid) | Eucalyptus | 9 | 2-4 ft, 1-2 yr old | 30-60 | 270-540 | Forest Dept, Local |
-| **Mangifera indica** 'Kesar' | Mango (Kesar variety) | 3 | 2-3 ft, grafted | 150-250 | 450-750 | Private Nursery |
-| **Mangifera indica** 'Dasheri' | Mango (Dasheri variety) | 2 | 2-3 ft, grafted | 150-250 | 300-500 | Private Nursery |
-| **Syzygium cumini** | Jamun (Indian Blackberry) | 5 | 2-3 ft, 1-2 yr old | 80-150 | 400-750 | Forest Dept, Local |
+| **Dalbergia sissoo** | Shisham (Indian Rosewood) | 5 | 2-4 ft, 1-2 yr old | 100-200 | 500-1,000 | Forest Dept, Local |
+| **Azadirachta indica** | Neem | 2 | 2-4 ft, 1-2 yr old | 40-80 | 80-160 | Forest Dept, Local |
+| **Eucalyptus** (hybrid) | Eucalyptus | 2 | 2-4 ft, 1-2 yr old | 30-60 | 60-120 | Forest Dept, Local |
+| **Mangifera indica** 'Kesar' | Mango (Kesar variety) | 1 | 2-3 ft, grafted | 150-250 | 150-250 | Private Nursery |
+| **Mangifera indica** 'Dasheri' | Mango (Dasheri variety) | 1 | 2-3 ft, grafted | 150-250 | 150-250 | Private Nursery |
+| **Syzygium cumini** | Jamun (Indian Blackberry) | 1 | 2-3 ft, 1-2 yr old | 80-150 | 80-150 | Forest Dept, Local |
 
-**Row 1 Subtotal:** 46 trees, ₹3,580-6,860
+**Row 1 Subtotal:** 12 trees, ₹1,020-1,930 (75% REDUCTION)
 
 ---
 
 ### Species Details (Row 1)
 
-#### 1. Shisham (Dalbergia sissoo) - 18 trees - HIGHEST PRIORITY
+#### 1. Shisham (Dalbergia sissoo) - 5 trees (REDUCED from 18) - HIGHEST PRIORITY
 
 **Common Names:** Indian Rosewood, Sheesham, Tahli  
 **Why This Species:**

@@ -1,8 +1,10 @@
 # Permaculture Farm Development - Workflow Status
 # ================================================
+# UPDATED FOR ROTATED PROPERTY - January 26, 2026
 # This file tracks progress through your 4-acre, 4-family permaculture farm development
 # Location: Kurukshetra, Haryana
-# Design Approach: Cluster Village (Option 1) with integrated zones
+# Property: 209ft (E-W) × 836ft (N-S) - ROTATED from original 836ft × 209ft
+# Design Approach: Linear Co-Housing (Option 3 - BEST FIT) with integrated zones
 
 # STATUS DEFINITIONS:
 # ==================
@@ -17,14 +19,15 @@
 #   - skipped: Optional/conditional workflow that was skipped
 
 generated: "2026-01-19"
+updated: "2026-01-26"
 project: "Permaculture-design"
 project_type: "permaculture-farm"
 project_level: "comprehensive"
 selected_track: "permaculture"
 field_type: "greenfield"
 workflow_path: "permaculture-farm"
-location: "Kurukshetra, Haryana - 4 acres (836ft x 209ft)"
-community_model: "4-family cluster village"
+location: "Kurukshetra, Haryana - 4 acres (209ft E-W × 836ft N-S) - ROTATED PROPERTY"
+community_model: "4-family Cluster Village (Option 1 RECOMMENDED - best social cohesion)"
 
 # Current workflow status
 workflow_status:
@@ -40,18 +43,24 @@ workflow_status:
   # PHASE 2: MASTER PLANNING
   # ============================================
   zone-0-house-placement: "_bmad-output/implementation-artifacts/zone-0-house-placement-strategy.md"  # ✅ Completed
-  water-management-design: "_bmad-output/implementation-artifacts/swale-design-plan.md"  # ✅ Completed (3 swales + pond)
-  windbreak-strategy: "_bmad-output/implementation-artifacts/windbreak-design-kurukshetra.md"  # ✅ Completed
-  access-roads-paths: "_bmad-output/implementation-artifacts/berms-for-roads-pathways.md"  # ✅ Completed
+  water-management-design: "_bmad-output/implementation-artifacts/swale-design-plan.md"  # ✅ UPDATED (12-14 swales cascade + pond)
+  windbreak-strategy: "_bmad-output/implementation-artifacts/windbreak-design-kurukshetra.md"  # ✅ UPDATED (N: 209ft, W: 836ft)
+  access-roads-paths: "_bmad-output/implementation-artifacts/berms-for-roads-pathways.md"  # ✅ UPDATED for N-S primary circulation
+  internal-roads-schematic: "_bmad-output/internal-roads-schematic-diagram.md"  # ✅ UPDATED for rotated property
+  fire-mitigation: "_bmad-output/implementation-artifacts/fire-mitigation-plan.md"  # ✅ UPDATED for rotated property
+  emergency-power: "_bmad-output/implementation-artifacts/emergency-power-backup-plan.md"  # ✅ Completed
   
   # ============================================
   # PHASE 3: ZONE PLANNING (DETAILED)
   # ============================================
-  zone-1-garden-design: "required"  # NEXT PRIORITY - Kitchen gardens for 4 families
-  zone-2-animal-integration: "_bmad-output/implementation-artifacts/zone-2-animal-integration-plan.md"  # ✅ Completed!
-  zone-3-production-design: "_bmad-output/implementation-artifacts/zone-3-development-plan.md"  # ✅ Completed! Six Thinking Hats analysis
-  zone-3-production-design: "_bmad-output/implementation-artifacts/zone-3-development-plan.md"  # ✅ Completed! Six Thinking Hats analysis
-  zone-5-wild-area: "optional"  # Wild observation zones
+  zone-1-garden-design: "_bmad-output/implementation-artifacts/zone-1-kitchen-garden-design.md"  # ✅ COMPLETED - Kitchen gardens for 4 families
+  zone-2-animal-integration: "_bmad-output/implementation-artifacts/zone-2-animal-integration-plan.md"  # ✅ UPDATED for rotated property
+  zone-2-implementation: "_bmad-output/implementation-artifacts/zone-2-implementation-checklist.md"  # ✅ UPDATED for rotated property
+  zone-3-production-design: "_bmad-output/implementation-artifacts/zone-3-implementation-checklist.md"  # ✅ UPDATED for rotated property
+  zone-4-development: "_bmad-output/implementation-artifacts/zone-4-development-plan.md"  # ✅ UPDATED for rotated property
+  zone-4-species-procurement: "_bmad-output/implementation-artifacts/zone-4-species-procurement-list.md"  # ✅ UPDATED for rotated property
+  zone-4-timber-harvest: "_bmad-output/implementation-artifacts/zone-4-timber-harvest-planner-years-10-30.md"  # ✅ UPDATED for rotated property
+  zone-5-wild-area: "_bmad-output/implementation-artifacts/zone-5-wilderness-design.md"  # ✅ UPDATED for rotated property
   
   # ============================================
   # PHASE 4: DETAILED SYSTEM DESIGN
@@ -92,60 +101,95 @@ workflow_status:
   system-optimization: "optional"  # Continuous improvement
   knowledge-documentation: "optional"  # Document learnings
 
-# Project metadata
+# Project metadata - UPDATED FOR ROTATED PROPERTY
 metadata:
   land_size: "4 acres"
-  land_dimensions: "836 feet (E-W) x 209 feet (N-S)"
+  land_dimensions: "209 feet (E-W) x 836 feet (N-S) - ROTATED from original"
+  property_rotation: "90 degrees - width and length swapped"
   families: 4
   climate: "Semi-arid, hot summers (40°C+), cool winters (5-10°C)"
   water_source: "1 tubewell with electricity"
   soil_condition: "Alkaline, recovering from chemical farming"
   
-  # Design decisions locked in:
-  housing_layout: "Cluster Village (Option 1)"
-  housing_location: "Northern portion (20-80 ft from north boundary)"
-  swale_count: 3
+  # Design decisions locked in - UPDATED:
+  housing_layout: "Cluster Village (Option 1 RECOMMENDED) - 4 houses in 2x2 with central hub"
+  housing_location: "Northern portion (0-40 ft from north boundary)"
+  housing_arrangement: "2x2 cluster with common hub center, fits 209ft width comfortably"
+  swale_count: "12-14 (INCREASED from 3) - cascade system"
   swale_locations: 
     - "Swale 1: 110 ft from north"
     - "Swale 2: 160 ft from north"
-    - "Swale 3: 195 ft from north"
-  pond_location: "Southeast corner (50x40 ft)"
-  windbreak: "Northern boundary + western edge"
+    - "Swale 3-12: Every 50-60ft down property (cascade)"
+  swale_length: "209 feet each (shorter but more swales)"
+  pond_location: "Southern end (not SE corner) at ~770-820ft from north"
+  windbreak: 
+    - "Northern: 209ft length (SHORTER - ~40 plants)"
+    - "Western: 836ft length (LONGER - ~350 plants) - PRIMARY windbreak"
   
-  # Zones defined:
-  zone_0: "Houses (4 families + common house)"
-  zone_1: "Private strips (80-95 ft) + Shared gardens (95-110 ft)"
-  zone_2: "Food forest + Animals (110-160 ft) - chickens, ducks"
-  zone_3: "Annual crops + Orchards (160-195 ft)"
-  zone_4: "Perimeter + Forage (195-209 ft + edges)"
-  zone_5: "Wild observation areas (corners, edges)"
+  # Zones defined - UPDATED:
+  zone_0: "Houses (4 families, linear arrangement)"
+  zone_1: "Kitchen gardens (40-110 ft) - 0.34 acres total: Private strips (52×30ft each) + Shared garden (209×40ft). Production: 1,500 kg/family/year. Investment: ₹21,500-31,550 per family Year 1."
+  zone_2: "Food forest + Animals (110-310 ft) - REDUCED to 0.24 acres, 12-15 chickens, 8-10 ducks"
+  zone_3: "Annual crops + Orchards (310-455 ft) - REDUCED to 0.16 acres"
+  zone_4: "Perimeter/Timber (455-836 ft) - REDUCED to 0.26 acres (~79 trees vs 316)"
+  zone_5: "Distributed along lower zones and southern end"
+  
+  # Key changes summary:
+  rotation_impact:
+    - "Zones now 75% smaller in E-W direction (209ft vs 836ft)"
+    - "Property extends deeper N-S (836ft vs 209ft)"
+    - "Main circulation changed from E-W to N-S"
+    - "Multiple swales create cascade water system"
+    - "Western windbreak now primary (4x longer)"
+    - "Cluster Village (Option 1) recommended for best social cohesion"
 
 # Next steps (automatically determined)
 next_workflow:
-  id: "zone-1-garden-design"
-  name: "Zone 1: Kitchen Garden Design"
-  agent: "architect"
+  id: "family-agreements"
+  name: "Family Agreements & Cost-Sharing"
+  agent: "pm"
   status: "required"
-  note: "Design intensive gardens for 4 families - private strips + shared communal areas"
+  note: "CRITICAL - Create agreements with updated costs/quantities before spending money"
   
 suggested_next:
-  primary: "Work on Zone 1 kitchen garden design (zone-1-garden-design)"
-  secondary: "Create family agreements before starting implementation (family-agreements)"
-  tertiary: "Design Zone 3 production areas (zone-3-production-design)"
+  primary: "Create family agreements with all updated costs/quantities (family-agreements)"
+  secondary: "Design plant guilds for Zones 2-3 (plant-guilds-design)"
+  tertiary: "Begin implementation planning - Phase 1 earthworks (phase-1-earthworks)"
+  note: "All zone designs complete! Zone 1 added (1,500kg/family/year). Ready for family agreements and implementation."
 
-# Progress summary
+# Progress summary - UPDATED
 progress:
   total_workflows: 38
-  completed: 6
+  completed: 18
+  updated_for_rotation: 15
   in_progress: 0
-  pending_required: 13
+  pending_required: 12
   pending_recommended: 9
   pending_optional: 10
-  completion_percentage: "16%"
+  completion_percentage: "47%"
   
-  current_phase: "Phase 3: Zone Planning (Detailed)"
+  current_phase: "Phase 3: Zone Planning (Detailed) - 100% COMPLETE!"
   phases_completed: 
     - "Phase 2: Master Planning (100%)"
+    - "Phase 3: Zone Planning (100%)"
+    - "Property Rotation Update (100%)"
   phases_in_progress:
     - "Phase 1: Site Analysis (33%)"
-    - "Phase 3: Zone Planning (60%)"
+    - "Phase 4: Detailed System Design (0%)"
+    - "Phase 5: Community Coordination (0%)"
+  
+  major_updates_completed:
+    - "Swale design updated (3 → 12-14 swales)"
+    - "Windbreak design updated (N: 209ft, W: 836ft)"
+    - "Zone 0 house placement updated (Linear Option 3 recommended)"
+    - "Zone 1 kitchen garden design COMPLETED (1,500 kg/family/year)"
+    - "Zone 2 updated (0.96 → 0.24 acres, reduced animals)"
+    - "Zone 3 updated (0.67 → 0.16 acres)"
+    - "Zone 4 updated (1.06 → 0.26 acres, 316 → 79 trees)"
+    - "Zone 5 updated (distributed zones)"
+    - "Fire mitigation updated"
+    - "Internal roads updated (N-S primary)"
+    - "Berms/pathways updated"
+    - "Emergency power (no changes needed)"
+    - "Story files updated (Zone 3 & 4)"
+    - "All implementation checklists updated"

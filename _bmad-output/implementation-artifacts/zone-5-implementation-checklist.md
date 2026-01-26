@@ -1,8 +1,8 @@
 # ZONE 5 WILDERNESS AREA - IMPLEMENTATION CHECKLIST
 ## Kurukshetra 4-Acre Permaculture Farm
 
-**Location**: Southern boundary (250-435 feet from north boundary)  
-**Size**: 1.85 acres (185 ft N-S × 836 ft E-W)  
+**Location**: Southern boundary (varies by swale cascade system)  
+**Size**: Variable acres (depth varies N-S × 209 ft E-W) - UPDATED FOR ROTATED PROPERTY  
 **Purpose**: Self-sustaining wilderness ecosystem for biodiversity conservation
 
 ---

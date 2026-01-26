@@ -1,10 +1,11 @@
 # CORRECTED SITE DIMENSIONS - MASTER REFERENCE
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
-## CRITICAL CORRECTION TO ALL PREVIOUS DOCUMENTS
+## UPDATED FOR 12-14 SWALE CASCADE SYSTEM
 
-**Date:** January 23, 2026  
+**Date:** January 23, 2026 - UPDATED January 26, 2026  
 **Status:** MASTER CORRECTION DOCUMENT  
-**Priority:** CRITICAL - All previous dimension references are INCORRECT
+**Priority:** CRITICAL - Reflects rotated property with cascade swale system  
+**Major Update:** Swale count increased from 3 to 12-14 for better water management
 
 ---
 
@@ -94,29 +95,40 @@ TOTAL: 174,724 sq ft = 4.01 acres
 **Dimensions:** 209 ft (E-W) × 40 ft (N-S)  
 **Area:** 8,360 sq ft = 0.19 acres
 
-**Layout (East to West):**
+**Layout (Cluster Village - Option 1 RECOMMENDED):**
 ```
 NORTH BOUNDARY
 ├────────────────────────────────────────┐
-│ [House 1] [House 2] [House 3] [House 4] │ 40 ft
-│   50 ft     50 ft     50 ft     50 ft   │ (N-S)
-│                                          │
-│ <----- 209 feet total width (E-W) ----> │
-└──────────────────────────────────────────┘
+│                                        │
+│  🏠 Family 1      🏠 Family 2          │
+│    (800sf)          (800sf)            │
+│                                        │  40 ft
+│      [Common Hub Center]               │  (N-S)
+│      • Play area                       │  depth
+│      • Shared facilities               │
+│                                        │
+│  🏠 Family 3      🏠 Family 4          │
+│    (800sf)          (800sf)            │
+│                                        │
+│ <----- 209 feet width (E-W) ------->  │
+└────────────────────────────────────────┘
 ```
 
 **Configuration:**
-- **4 Houses in ROW** (East-West alignment)
-- **Each house footprint:** ~50 ft (E-W) × 30 ft (N-S) = 1,500 sq ft
-- **Spacing between houses:** 2-3 feet
-- **Northern setback:** 5 feet from boundary
+- **4 Houses in CLUSTER** (2×2 arrangement with central common space)
+- **Each house footprint:** ~800-1,000 sq ft (multiple configurations possible)
+- **Common hub:** Central play area, shared tool shed, meeting space
+- **Spacing between houses:** 15-25 feet (comfortable community distance)
+- **Northern setback:** 5-10 feet from boundary
 - **Southern setback:** 5-10 feet (transition to Zone 1)
 
-**Key Features:**
-- Houses aligned along northern edge (maximize southern sun access)
-- Shared central courtyard (optional)
-- Individual kitchen gardens (small) immediately south of each house
-- Access paths between houses
+**Key Features (Option 1 - Cluster Village):**
+- Maximum community interaction and social cohesion
+- Children can play safely in central visible area
+- Shared infrastructure (water, electricity) most efficient
+- Shortest utility runs between houses
+- Strong sense of community and mutual support
+- Best balance of privacy and shared spaces
 
 ---
 
@@ -126,27 +138,34 @@ NORTH BOUNDARY
 **Dimensions:** 209 ft (E-W) × 70 ft (N-S)  
 **Area:** 14,630 sq ft = 0.34 acres
 
-**Layout:**
+**Layout (Supporting Cluster Village):**
 ```
 ┌──────────────────────────────────────────┐
 │                                          │
-│  [Family 1] [Family 2] [Family 3] [Family 4]
-│   Garden     Garden     Garden     Garden │ 70 ft
-│   52 ft      52 ft      52 ft      52 ft  │ (N-S)
+│  PRIVATE STRIPS (per family)             │
+│  ┌──────┬──────┬──────┬──────┐          │
+│  │ F1   │ F2   │ F3   │ F4   │          │  30 ft
+│  │ 52ft │ 52ft │ 52ft │ 53ft │          │  (N-S)
+│  └──────┴──────┴──────┴──────┘          │
+│                                          │
+│  SHARED COMMUNAL GARDEN                  │  40 ft
+│  ═════════════════════════════           │  (N-S)
+│  (209 ft × 40 ft = 8,360 sq ft)         │
 │                                          │
 │ <----- 209 feet total width (E-W) ----> │
 └──────────────────────────────────────────┘
        ↓
-   SWALE 1
+   SWALE 1 @ 110 ft
 ```
 
-**Each Family Garden:**
-- **Dimensions:** ~52 ft (E-W) × 70 ft (N-S) = 3,640 sq ft each
-- **Access:** From their house (easy daily access 5-30 ft away)
+**Zone 1 Configuration:**
+- **Private strips:** Each family gets 52-53 ft × 30 ft strip (1,560-1,590 sq ft)
+- **Shared garden:** All families work together in 209 ft × 40 ft communal space
+- **Total Zone 1:** 14,630 sq ft = 0.34 acres
+- **Access:** Easy daily access from cluster homes (10-40 ft away)
 - **Features:**
-  - Raised beds (vegetables, herbs)
-  - Composting area
-  - Tool storage
+  - Private: Raised beds, herbs, daily vegetables
+  - Shared: Bulk crops, storage vegetables, nursery, tool shed, compost
   - Rainwater harvesting (from house roofs)
 
 ---
@@ -302,61 +321,71 @@ DEPTH: 641 feet (N-S)
 
 ---
 
-## SWALE SYSTEM (CORRECTED)
+## SWALE SYSTEM (UPDATED - CASCADE DESIGN)
 
 ### Swale Orientation: PERPENDICULAR TO SLOPE
 
 **Slope direction:** North (high) to South (low)  
 **Swale orientation:** Running EAST-WEST (perpendicular to slope)  
-**Swale length:** 209 feet each (full width of property)
+**Swale length:** 209 feet each (full width of property)  
+**MAJOR CHANGE:** 12-14 swales in CASCADE SYSTEM (not 3!)
 
-### SWALE 1 @ 110 feet from north boundary
+### CASCADE SWALE SYSTEM OVERVIEW
 
-**Dimensions:**
+**Design Philosophy:** Multiple shorter swales create stepped infiltration down 836ft depth
+
+**Swale Specifications (Each):**
 - **Length:** 209 feet (E-W, full width)
-- **Depth:** 2-3 feet
-- **Width:** 4-5 feet (bottom), 8-10 feet (top)
-- **Berm:** Downslope side (south side) - 3-4 feet high, 6-8 feet wide
+- **Depth:** 1.5-2 feet (0.45-0.6 m)
+- **Width:** 3-4 feet (top), 2-3 feet (bottom)
+- **Berm:** Downslope side - 1-1.5 feet high
+- **Spacing:** 50-60 feet apart (N-S direction)
+- **Capacity per swale:** ~940 cubic ft = 7,030 gallons
 
-**Tree Planting on Berms:**
+### KEY SWALE LOCATIONS (12-14 Total)
+
+**Swale 1 @ 110 ft** - First major water capture (after Zone 1)  
+**Swale 2 @ 160 ft** - Zone 2 protection  
+**Swale 3 @ 210 ft** - Continue cascade  
+**Swale 4 @ 260 ft** - Zone 2 transition  
+**Swale 5 @ 310 ft** - Mid-property  
+**Swale 6 @ 360 ft** - Continue cascade  
+**Swale 7 @ 410 ft** - Zone 3 area  
+**Swale 8 @ 460 ft** - Continue cascade  
+**Swale 9 @ 510 ft** - Lower zones  
+**Swale 10 @ 570 ft** - Continue cascade  
+**Swale 11 @ 630 ft** - Lower production  
+**Swale 12 @ 690 ft** - Continue cascade  
+**Swales 13-14 @ 750-810 ft** - Pond feed area (optional)
+
+### Tree Planting on Berms (CASCADE ADVANTAGE)
+
+**Per Swale:**
 - **Spacing:** 15-20 feet
-- **Total trees:** 10-14 trees on Swale 1 berm
-- **Species:** Nitrogen fixers (Gliricidia, Subabul), fruit trees
+- **Trees per swale:** 10-14 trees
+- **Total trees (12 swales):** 120-168 trees (similar to original 3-swale design!)
+- **Species:** Nitrogen fixers, fruit trees, distributed across all swales
 
-**Water Capacity:**
-- **Swale volume:** 209 ft × 4.5 ft (avg width) × 2.5 ft (avg depth) = 2,350 cubic feet
-- **Gallons:** 17,580 gallons per rain event
-- **Infiltration:** Feeds Zone 1 (upslope) and Zone 2 (downslope)
+### Water Capacity - CASCADE SYSTEM
 
-### SWALE 2 @ 160 feet from north boundary
+**Per Swale:**
+- **Volume:** 209 ft × 3.5 ft (avg width) × 1.75 ft (avg depth) = 1,280 cubic feet
+- **Gallons:** 9,580 gallons per swale
 
-**Dimensions:** Same as Swale 1  
-**Length:** 209 feet (E-W)  
-**Capacity:** 17,580 gallons  
-**Function:**
-- Captures runoff from Zone 1 & 2
-- Feeds Zone 2 (north side) and Zone 3 (south side)
-- Inlet channel to POND (starts at eastern end)
+**Total System (12 swales):**
+- **Total capacity:** 12 × 9,580 = **115,000 gallons captured**
+- **Comparison:** Similar to original 3-swale system (was 52,740 gallons)
+- **Annual capture:** 10-15 rain events = **1.15-1.73 million gallons**
 
-**Pond Inlet Channel:**
-- **Start:** Eastern end of Swale 2 (160 ft from north, 209 ft from west)
-- **End:** Pond (SE corner, ~780 ft from north, 180-209 ft from west)
-- **Length:** ~620 feet (running north-south along eastern edge)
-- **Design:** Gentle grade (0.5-1%), lined with vegetation
+### CASCADE ADVANTAGES
 
-### SWALE 3 @ 195 feet from north boundary
-
-**Dimensions:** Same as Swale 1 & 2  
-**Length:** 209 feet (E-W)  
-**Capacity:** 17,580 gallons  
-**Function:**
-- Captures runoff from Zone 3
-- Feeds Zone 3 (north side) and Zone 4 (south side)
-- Secondary inlet to pond (if needed)
-
-**Total Swale System Capacity:**
-- 3 swales × 17,580 gallons = **52,740 gallons captured per rain event**
-- Annual monsoon (10-15 rain events) = **528,000-791,100 gallons total capture**
+✅ **Better distribution:** Water captured at multiple points  
+✅ **More tree planting:** 12 berms = more linear feet for trees  
+✅ **Redundancy:** If one swale fails, 11 others still work  
+✅ **Gradual infiltration:** Water slows through multiple stages  
+✅ **Fire breaks:** Each swale acts as firebreak (12 firebreaks!)  
+✅ **Easier construction:** Shorter swales (209ft) easier to keep level  
+✅ **Flexible zoning:** Can adjust land use between swales
 
 ---
 
@@ -567,8 +596,8 @@ DEPTH: 641 feet (N-S)
 
 ✅ **Total area:** 4.01 acres (correct!)  
 ✅ **Zone concept:** 0 (housing) → 1 (intensive) → 2 (food forest) → 3 (production) → 4 (perimeter)  
-✅ **Swale system:** 3 swales at 110 ft, 160 ft, 195 ft  
-✅ **4-family cluster village:** Still viable and appropriate  
+✅ **Swale system:** 12-14 cascade swales (UPDATED from 3 - better water management!)  
+✅ **4-family cluster village (Option 1):** RECOMMENDED layout - best social cohesion  
 ✅ **Permaculture principles:** All still apply - stacking functions, integration, diversity
 
 ### WHAT NEEDS RETHINKING

@@ -1,10 +1,11 @@
-# REVISED ZONE ALLOCATION - MAINTAINING PRODUCTION CAPACITY
+# REVISED ZONE ALLOCATION - CASCADE SWALE SYSTEM
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
-## Corrected Dimensions with Expanded Zones 2 & 3
+## Updated for 12-14 Swale Cascade & Rotated Property
 
-**Date:** January 23, 2026  
-**Status:** REVISED ALLOCATION - Production Capacity Maintained  
-**Strategy:** Expand Zones 2 & 3 southward to maintain original production targets
+**Date:** January 23, 2026 - UPDATED January 26, 2026  
+**Status:** FINAL ALLOCATION - Cascade Swale System Integrated  
+**Major Update:** 12-14 swales replace original 3-swale design  
+**Strategy:** Zones distributed along 836ft depth with cascade water management
 
 ---
 
@@ -88,7 +89,8 @@ LENGTH: 836 feet (North-South)
 **Location:** 0-40 ft from north  
 **Dimensions:** 209 ft (E-W) × 40 ft (N-S)  
 **Area:** 8,360 sq ft = **0.19 acres**  
-**UNCHANGED** - same as original design
+**Layout:** **Option 1 - Cluster Village (RECOMMENDED)** - 4 houses in 2×2 arrangement with central common hub  
+**UNCHANGED** - same area as original design
 
 ---
 
@@ -307,28 +309,45 @@ DEPTH: 381 feet (N-S) - REDUCED FROM 641 FT
 
 ---
 
-## SWALE SYSTEM (REVISED POSITIONS)
+## SWALE SYSTEM (CASCADE DESIGN - 12-14 SWALES)
 
-### SWALE 1 @ 110 ft (UNCHANGED)
-- **Location:** Between Zone 1 and Zone 2
-- **Length:** 209 ft (E-W, full width)
-- **Capacity:** 17,580 gallons
-- **Function:** Captures runoff from Zone 1, feeds Zone 2
+### CASCADE SWALE OVERVIEW
 
-### SWALE 2 @ 310 ft (MOVED SOUTH 150 FT)
-- **Location:** Between Zone 2 and Zone 3
-- **Length:** 209 ft (E-W, full width)
-- **Capacity:** 17,580 gallons
-- **Function:** Captures Zone 2 runoff, feeds Zone 3
-- **Pond inlet:** Starts at eastern end
+**Major Design Change:** 3 swales → 12-14 swales  
+**Reason:** Better water distribution down 836ft property depth  
+**Spacing:** 50-60 feet apart (N-S)  
+**Length:** 209 feet each (E-W, full width)  
+**Capacity per swale:** 9,580 gallons
 
-### SWALE 3 @ 455 ft (MOVED SOUTH 260 FT)
-- **Location:** Between Zone 3 and Zone 4
-- **Length:** 209 ft (E-W, full width)
-- **Capacity:** 17,580 gallons
-- **Function:** Captures Zone 3 runoff, feeds Zone 4
+### KEY SWALE LOCATIONS
 
-**Total System Capacity:** 52,740 gallons per rain event ✓
+**ZONE 1-2 TRANSITION:**
+- **Swale 1 @ 110 ft** - Primary capture after Zone 1
+- **Swale 2 @ 160 ft** - Zone 2 protection
+
+**ZONE 2 CASCADE:**
+- **Swale 3 @ 210 ft** - Mid-Zone 2
+- **Swale 4 @ 260 ft** - Continue cascade
+- **Swale 5 @ 310 ft** - Zone 2/3 boundary
+
+**ZONE 3 CASCADE:**
+- **Swale 6 @ 360 ft** - Zone 3 beginning
+- **Swale 7 @ 410 ft** - Mid-Zone 3
+- **Swale 8 @ 455 ft** - Zone 3/4 transition
+
+**ZONE 4 CASCADE:**
+- **Swales 9-12 @ 510-690 ft** - Lower zones (every 60ft)
+- **Swales 13-14 @ 750-810 ft** - Pond feed area (optional)
+
+### CASCADE ADVANTAGES
+
+✅ **Total Capacity:** 12 swales × 9,580 gal = **115,000 gallons** (vs 52,740 before)  
+✅ **Better Distribution:** Water captured at 12 points instead of 3  
+✅ **More Tree Berms:** 12 berms = 120-168 trees possible  
+✅ **Fire Breaks:** Each swale = firebreak (12 firebreaks!)  
+✅ **Gradual Infiltration:** Water slows through multiple stages  
+✅ **Easier Construction:** 209ft swales easier to level  
+✅ **Redundancy:** Multiple swales provide system reliability
 
 ---
 

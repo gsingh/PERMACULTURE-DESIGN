@@ -1,9 +1,9 @@
 # Zone 0 House Placement Strategy
 ## Using Six Thinking Hats Analysis & Permaculture Design Principles
 
-**Location:** 4-acre land, Kurukshetra, Haryana  
+**Location:** 4-acre land, Kurukshetra, Haryana (1 acre E-W × 4 acres N-S - ROTATED)  
 **Climate:** Semi-arid, hot summers (40°C+), cool winters (5-10°C)  
-**Date:** January 1, 2026  
+**Date:** January 1, 2026 - UPDATED FOR ROTATED PROPERTY  
 **Status:** Planning Phase - Strategic Placement Guide
 
 ---
@@ -24,76 +24,80 @@ Zone 0 represents the house itself—the heart of your permaculture system. This
 
 **Scale Advantage:** 4 acres for 4 families = Ideal permaculture community density
 - Each family: ~1 acre effective footprint
+- Property dimensions: 209ft (E-W) × 836ft (N-S) - NARROW AND DEEP
 - Shared infrastructure reduces individual costs by 40-60%
 - Community labor-sharing multiplies capability
 - Social resilience and knowledge exchange
+- **CRITICAL**: Narrow width (209ft) favors LINEAR or CLUSTER arrangements over CORNERS
 
 ### 🎯 Three Primary Layout Patterns
 
-#### **OPTION 1: Cluster Village (RECOMMENDED)**
+#### **OPTION 1: Cluster Village (RECOMMENDED) - UPDATED FOR NARROW PROPERTY**
 
 ```
-         North (Windbreak trees)
-    ┌────────────────────────────┐
-    │   🌳🌳🌳 Windbreak 🌳🌳🌳    │
-    │                            │
-    │  🏠        🏠              │ Houses on north
-    │   (F1)      (F2)           │ 
-    │                            │
-    │     [Community Hub]        │ Central shared space
-    │     • Common house         │
-    │     • Tool shed            │
-    │     • Children's play      │
-    │                            │
-    │  🏠        🏠              │
-    │   (F3)      (F4)           │
-    │                            │
-    │  ═══ Shared Zone 1 ═══    │ Communal gardens
-    │  🥬 🥕 🌿 🍅 🌶️ 🥒         │
-    │                            │
-    │    Zone 2: Food Forest     │
-    │    🌳 🦆 🐓 🌳             │
-    │                            │
-    │    Zone 3: Annuals +       │
-    │    Zone 4: Perimeter       │
-    └────────────────────────────┘
-         South (Access road)
+         North (Windbreak)
+    ┌─────────────────┐ 209ft wide
+    │   🌳🌳 WB 🌳🌳   │ (NARROWER)
+    │                 │
+    │  🏠 F1  🏠 F2   │ Side-by-side
+    │                 │ (fits 209ft)
+    │  [Common Hub]   │ Compact
+    │  • Tools        │
+    │  • Play area    │
+    │                 │
+    │  🏠 F3  🏠 F4   │ Side-by-side
+    │                 │
+    │  ═══ Zone 1 ═══ │ Shared gardens
+    │  🥬 🥕 🌿       │
+    │                 │
+    │  Zone 2: Food   │
+    │  🌳 🦆 🐓       │
+    │                 │
+    │  Swale 1 ═══    │
+    │  Swale 2 ═══    │
+    │  Zone 3: Annual │
+    │  Swale 3-12 ═══ │
+    │  Zone 4-5: Deep │
+    │                 │
+    │  🌊 Pond (S)    │
+    └─────────────────┘
+         South (836ft deep!)
 ```
 
-**Advantages:**
+**Advantages (UPDATED):**
 ✅ Maximum community interaction
 ✅ Shared infrastructure (water, electricity hubs)
 ✅ Children can safely play in center
 ✅ Efficient shared Zone 1 gardening
 ✅ Strong social cohesion
 ✅ Lower per-family construction costs
+✅ **FITS NARROW 209ft WIDTH** - houses side-by-side work perfectly
+✅ Easy N-S circulation down property depth
 
 **Challenges:**
 ⚠️ Requires high social compatibility
-⚠️ Less private outdoor space per family
+⚠️ Less private outdoor space per family (width constraint)
 ⚠️ Noise/activity spillover between families
+⚠️ **Limited E-W expansion** due to narrow width
 
 ---
 
-#### **OPTION 2: Corners Pattern (Privacy-Focused)**
+#### **OPTION 2: Corners Pattern (Privacy-Focused) - NOT RECOMMENDED FOR NARROW PROPERTY**
 
 ```
          North (Windbreak)
-    ┌────────────────────────────┐
-    │                            │
-    │ 🏠(F1)          🏠(F2)     │ NW & NE corners
-    │  +Z1            Z1+        │ Each has private
-    │                            │ Zone 1 garden
-    │                            │
-    │   [Shared Central Zone]    │
-    │   • Community garden       │
-    │   • Animals 🦆🐓           │
-    │   • Food forest 🌳         │
-    │   • Pond                   │
-    │                            │
-    │ 🏠(F3)          🏠(F4)     │ SW & SE corners  
-    │  +Z1            Z1+        │
-    └────────────────────────────┘
+    ┌─────────────────┐ 209ft
+    │                 │ (TOO NARROW
+    │ 🏠F1    🏠F2    │  for corners!)
+    │  Z1      Z1     │ Cramped
+    │                 │
+    │  [Shared Zone]  │ Very limited
+    │  • Garden       │ central space
+    │  • Animals      │
+    │                 │
+    │ 🏠F3    🏠F4    │ 
+    │  Z1      Z1     │ 
+    └─────────────────┘
          South (Access)
 ```
 
@@ -101,49 +105,59 @@ Zone 0 represents the house itself—the heart of your permaculture system. This
 ✅ Maximum privacy per family
 ✅ Each family has dedicated Zone 1 space
 ✅ Shared Zone 2-4 in center
-✅ Flexible social interaction
-✅ Can accommodate different lifestyle rhythms
 
-**Challenges:**
+**Challenges (WORSE WITH NARROW PROPERTY):**
 ⚠️ Longer infrastructure runs (utilities)
 ⚠️ Less efficient land use
 ⚠️ Requires more coordination for shared spaces
 ⚠️ Children more isolated from each other
+⚠️ **CRITICAL: Doesn't fit 209ft width well - houses too close together!**
+⚠️ **Very limited central space** with narrow width
+⚠️ **NOT RECOMMENDED** for rotated property dimensions
 
 ---
 
-#### **OPTION 3: Linear Co-Housing (East-West Row)**
+#### **OPTION 3: Linear Co-Housing (East-West Row) - BEST FIT FOR NARROW PROPERTY!**
 
 ```
     North (Protected by houses + windbreak)
-    ┌────────────────────────────────────┐
-    │  🌳🌳 Windbreak behind houses 🌳🌳  │
-    │                                    │
-    │ 🏠─🏠─🏠─🏠  (All facing south)    │
-    │ F1  F2  F3  F4                     │
-    │ │   │   │   │                      │
-    │ ▼   ▼   ▼   ▼  Private Zone 1     │
-    │ Z1  Z1  Z1  Z1  (Each family)      │
-    │                                    │
-    │ ═══════ Shared Zone 1 Gardens ════ │
-    │                                    │
-    │      Zone 2: Food Forest           │
-    │      🌳 Animals 🐓🦆 Pond 🌳       │
-    │                                    │
-    │      Zone 3 + 4                    │
-    └────────────────────────────────────┘
+    ┌─────────────────┐ 209ft width
+    │  🌳 Windbreak 🌳 │ (PERFECT FIT!)
+    │                 │
+    │ 🏠🏠🏠🏠        │ 4 houses
+    │ F1 F2 F3 F4     │ side-by-side
+    │ │  │  │  │      │ (52ft each)
+    │ ▼  ▼  ▼  ▼      │
+    │ Z1 Z1 Z1 Z1     │ Private strips
+    │                 │
+    │ ═══ Shared ═══  │ Gardens
+    │                 │
+    │  Zone 2: Food   │
+    │  🌳 🐓 🦆       │
+    │                 │
+    │  Swale cascade  │ 12-14 swales
+    │  ═══ ═══ ═══    │ down length
+    │                 │
+    │  Zone 3-4-5     │ Deep zones
+    │                 │
+    │  🌊 Pond (S)    │
+    └─────────────────┘
+         South (836ft!)
 ```
 
-**Advantages:**
+**Advantages (ENHANCED FOR NARROW PROPERTY):**
 ✅ Each house identical south-facing passive solar
 ✅ Clear private (front) vs shared (back) zones
 ✅ Easy utility connections (linear runs)
 ✅ Efficient construction (similar designs)
 ✅ Good balance of privacy and community
+✅ **PERFECT FIT for 209ft width** - 4 houses @ 52ft each
+✅ **Maximizes N-S property depth** for production zones
+✅ **MOST RECOMMENDED** for rotated property
 
 **Challenges:**
 ⚠️ Less interesting community space design
-⚠️ Western houses get more wind exposure
+⚠️ Western houses get more wind exposure (but less than before due to shorter width)
 ⚠️ Can feel "suburban" if not designed carefully
 
 ---

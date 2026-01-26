@@ -1,10 +1,10 @@
 # COMPREHENSIVE FIRE MITIGATION PLAN
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
 
-**Date:** January 2026  
+**Date:** January 2026 - UPDATED FOR ROTATED PROPERTY  
 **Status:** Strategic Fire Protection Framework  
 **Community Model:** 4-Family Cluster Village  
-**Property Layout:** Zones 0-5 (North to South)
+**Property Layout:** Zones 0-5 (North to South) - 209ft (E-W) × 836ft (N-S)
 
 ---
 
@@ -53,49 +53,50 @@ This comprehensive plan integrates fire mitigation across all five zones using:
 
 ## 🗺️ PROPERTY-WIDE FIRE PROTECTION STRATEGY
 
-### Overall Layout (North to South):
+### Overall Layout (North to South) - UPDATED FOR 209ft × 836ft:
 
 ```
 NORTH
-├──────────────────────────────────────────────────────┐
-│  🌳🌳🌳 NORTHERN WINDBREAK (Fire-resistant species)  │
-│  • Dense, moisture-rich canopy                       │
-│  • Fire retardant: Neem, Peepal, Jamun              │
-├──────────────────────────────────────────────────────┤
-│  🏘️ ZONE 0: HOUSES (4-Family Cluster)              │
-│  • Primary protection priority                       │
-│  • Defensible space around buildings                │
-│  • Emergency water access                           │
-├──────────────────────────────────────────────────────┤
-│  🥬 ZONE 1: Kitchen Gardens                         │
-│  • High moisture content (irrigated daily)          │
-│  • Natural firebreak (green vegetation)             │
-├──────────────────────────────────────────────────────┤
-│  🌳 ZONE 2: Food Forest & Animals                   │
-│  • Multi-layered canopy (shade = moisture)          │
-│  • Pond creates firebreak                           │
-│  • Animal areas kept clear of dry material          │
-├──────────────────────────────────────────────────────┤
-│  🌾 ZONE 3: Production (HIGHEST RISK)               │
-│  • Annual crops = seasonal dry fuel                 │
-│  • Swales provide water access                      │
-│  • Firebreaks between sections                      │
-├──────────────────────────────────────────────────────┤
-│  🌲 ZONE 4: Semi-Wild Perimeter (HIGH RISK)        │
-│  • Dense timber/windbreak plantings                 │
-│  • Southern firebreak CRITICAL                      │
-│  • Fire-resistant species selection                 │
-├──────────────────────────────────────────────────────┤
-│  🦌 ZONE 5: Wilderness (HIGHEST EXTERNAL RISK)     │
-│  • Southern boundary = external fire threat         │
-│  • 10-foot cleared firebreak on boundary            │
-│  • Controlled burning zones if needed               │
-│  • Early warning monitoring                         │
-└──────────────────────────────────────────────────────┘
-SOUTH (External Fields - Neighbor Stubble Burning Risk)
+├────────────────────┐ 209ft width
+│  🌳 NORTHERN WB 🌳 │ (Shorter but
+│  Fire-resistant    │  still critical)
+├────────────────────┤
+│  🏘️ ZONE 0:       │ 
+│  4 HOUSES          │ Cluster/Linear
+│  • Defensible      │ arrangement
+│  • Water access    │
+├────────────────────┤
+│  🥬 ZONE 1:        │ 
+│  Kitchen Gardens   │ Irrigated
+│  • Firebreak       │ (green fuel)
+├────────────────────┤
+│  🌳 ZONE 2:        │ 
+│  Food Forest       │ Smaller zone
+│  🦆 🐓             │ (0.24 acres)
+├────────────────────┤
+│  Swale 1 ═══       │
+├────────────────────┤
+│  Swale 2 ═══       │
+├────────────────────┤
+│  🌾 ZONE 3: Annual │ Smaller but
+│  Production        │ still present
+├────────────────────┤
+│  Swale 3-12 ═══    │ CASCADE of
+│                    │ 12-14 swales
+├────────────────────┤ (water access!)
+│  🌲 ZONE 4-5:      │
+│  Lower zones       │ Deep property
+│  • Fire-resistant  │ advantage
+│  • Southern break  │
+├────────────────────┤
+│  🌊 POND (South)   │ Major firebreak
+│                    │
+└────────────────────┘
+SOUTH (External Risk) 836ft deep!
 
-CRITICAL FIRE DIRECTION: South → North (neighbor fires)
-SECONDARY RISK: West (prevailing wind direction)
+CRITICAL FIRE DIRECTION: South → North
+SECONDARY RISK: West (prevailing wind)
+ADVANTAGE: Multiple swales = fire breaks
 ```
 
 ---

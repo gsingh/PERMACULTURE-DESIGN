@@ -2,9 +2,35 @@
 ## Comprehensive Guide for Northern Boundary Protection
 
 **Location:** 4-acre permaculture farm, Kurukshetra, Haryana  
+**Property Dimensions:** 1 acre (E-W) x 4 acres (N-S) - 209ft x 836ft  
 **Climate Zone:** Semi-arid subtropical (hot summers, cool winters)  
 **Primary Wind Direction:** West and Northwest (hot, dusty winds in summer)  
-**Date:** January 4, 2026
+**Date:** January 26, 2026 (UPDATED FOR ROTATED PROPERTY)
+
+---
+
+## 🔄 CRITICAL PROPERTY ROTATION UPDATE
+
+### **Property Dimensions Changed:**
+- **OLD:** 4 acres (E-W) x 1 acre (N-S) = 836ft x 209ft
+- **NEW:** 1 acre (E-W) x 4 acres (N-S) = 209ft x 836ft
+
+### **Impact on Windbreaks:**
+
+| Windbreak | OLD Design | NEW Design | Change |
+|-----------|-----------|-----------|---------|
+| **Northern** | 836ft long, ~160 plants | **209ft long, ~40 plants** | ⬇️ 75% reduction |
+| **Northern Cost** | ₹9,400-19,300 | **₹2,400-4,700** | ⬇️ 75% reduction |
+| **Western** | 209ft long, ~85 plants | **836ft long, ~350 plants** | ⬆️ 300% increase! |
+| **Western Cost** | ₹5,000-8,800 | **₹20,800-34,750** | ⬆️ 350% increase! |
+| **TOTAL** | ~245 plants, ₹14k-28k | **~390 plants, ₹23k-39k** | ⬆️ 60% more plants |
+
+### **Key Takeaways:**
+1. ✅ **Northern windbreak is now MUCH simpler and cheaper** (only 209ft to plant)
+2. ⚠️ **Western windbreak is now MUCH more complex and expensive** (836ft to plant)
+3. ⭐ **Western windbreak is MORE CRITICAL than ever** - it's now the longest boundary
+4. 💡 **Phased approach recommended:** Plant western windbreak in 2-3 sections over 1-2 years
+5. 🌱 **Priority order unchanged:** Western first (even more important now!), Northern second
 
 ---
 
@@ -361,39 +387,39 @@ Row 3: SHRUB LAYER (2-4m)       🌿🌿🌿🌿🌿
 
 ## 🎯 COMPLETE WINDBREAK DESIGN FOR YOUR PROPERTY
 
-### Recommended Species Mix (Northern Boundary - 836 feet / 255 meters)
+### Recommended Species Mix (Northern Boundary - 209 feet / 64 meters) - UPDATED
 
 #### **Row 1 (Tall Canopy) - 8m spacing**
-- **32 trees total:**
-  - 15 Neem (45%)
-  - 10 Shisham (30%)
-  - 5 Eucalyptus (15% - strategic placement)
-  - 2 Jamun (10% - for fruit diversity)
+- **8 trees total** (209ft / 8m = ~8 trees):
+  - 4 Neem (50%)
+  - 2 Shisham (25%)
+  - 1 Eucalyptus (12% - corner placement)
+  - 1 Jamun (13% - for fruit diversity)
 
-**Cost:** ₹2,400-4,800
+**Cost:** ₹600-1,200
 
 #### **Row 2 (Medium Layer) - 6m spacing**
-- **42 trees total:**
-  - 20 Ber (48%)
-  - 12 Guava (29%)
-  - 10 Bel (23%)
+- **10-11 trees total** (209ft / 6m = ~10-11 trees):
+  - 5 Ber (45%)
+  - 3 Guava (27%)
+  - 2-3 Bel (27%)
 
-**Cost:** ₹3,000-6,000
+**Cost:** ₹800-1,500
 
 #### **Row 3 (Shrub Layer) - 3m spacing**
-- **85 plants total:**
-  - 40 Karonda (47%)
-  - 25 Pomegranate (29%)
-  - 20 Curry Leaf (24%)
+- **21-22 plants total** (209ft / 3m = ~21-22 plants):
+  - 10 Karonda (45%)
+  - 6 Pomegranate (27%)
+  - 5-6 Curry Leaf (27%)
   - Lemongrass fill-ins between larger shrubs
 
-**Cost:** ₹4,000-8,500
+**Cost:** ₹1,000-2,000
 
-### **TOTAL WINDBREAK:**
-- **Trees/Plants:** ~160 units
-- **Total Cost:** ₹9,400-19,300 (₹2,350-4,825 per family if sharing)
-- **Width:** 20-25 meters (north to south)
-- **Length:** 836 feet (full E-W boundary)
+### **TOTAL NORTHERN WINDBREAK:**
+- **Trees/Plants:** ~40 units (vs 160 previously - MUCH SMALLER!)
+- **Total Cost:** ₹2,400-4,700 (₹600-1,175 per family if sharing)
+- **Width:** 20-25 meters (north to south into property)
+- **Length:** 209 feet (full E-W boundary - MUCH SHORTER!)
 
 ---
 
@@ -687,13 +713,14 @@ You're absolutely correct - the prevailing winds come from **West to Northwest**
 4. ⚠️ **"Loo" winds** travel West → East across North India
 5. ⚠️ **Housing cluster** on north side needs protection from western exposure
 
-### **Western Boundary Specifications**
+### **Western Boundary Specifications (UPDATED FOR ROTATED PROPERTY)**
 
 **Your Western Edge:**
-- **Length:** 209 feet (64 meters) - SHORTER but MORE CRITICAL
-- **Orientation:** Runs North-South
+- **Length:** 836 feet (255 meters) - NOW MUCH LONGER and MORE CRITICAL!
+- **Orientation:** Runs North-South (full length of property)
 - **Current condition:** Likely exposed, no protection
 - **Priority level:** ⭐⭐⭐⭐⭐ URGENT (should be planted BEFORE northern windbreak)
+- **KEY CHANGE:** Western windbreak is now 4X LONGER than before (836ft vs 209ft)
 
 ---
 
@@ -820,46 +847,48 @@ Row 4: GROUND LAYER    🌱🌱🌱
 
 ## 📐 WESTERN WINDBREAK LAYOUT
 
-### **Complete Western Edge Planting Plan**
+### **Complete Western Edge Planting Plan (UPDATED FOR 836ft LENGTH!)**
 
-**Boundary Length:** 209 feet (64 meters)
+**Boundary Length:** 836 feet (255 meters) - 4X LONGER THAN BEFORE!
 
 #### **Row 1 (Tall) - 6m spacing:**
-- **Trees needed:** 10-11 trees
-  - 6 Neem
-  - 3 Prosopis
-  - 1-2 Eucalyptus
+- **Trees needed:** 42-43 trees
+  - 25 Neem (60%)
+  - 11 Prosopis (25%)
+  - 6-7 Eucalyptus (15% - strategic placement)
 
-**Cost:** ₹800-1,500
+**Cost:** ₹3,200-6,000
 
 #### **Row 2 (Medium) - 5m spacing:**
-- **Trees needed:** 12-13 trees
-  - 6-7 Ber
-  - 4 Acacia/Babul
-  - 2-3 Moringa
+- **Trees needed:** 50-51 trees
+  - 25 Ber (50%)
+  - 15 Acacia/Babul (30%)
+  - 10-11 Moringa (20%)
 
-**Cost:** ₹1,000-1,800
+**Cost:** ₹4,000-7,000
 
 #### **Row 3 (Shrubs) - 3m spacing:**
-- **Shrubs needed:** 20-22 units
-  - 8-10 Jatropha
-  - 8-9 Karonda
-  - 3-4 Others
+- **Shrubs needed:** 85-87 units
+  - 34-35 Jatropha (40%)
+  - 30 Karonda (35%)
+  - 13 Lantana/others (15%)
+  - 8-9 Agave/Aloe (10%)
 
-**Cost:** ₹2,000-3,500
+**Cost:** ₹8,500-13,000
 
 #### **Row 4 (Ground) - 1.5m spacing:**
-- **Grasses needed:** 40-45 clumps
-  - 30-35 Vetiver
-  - 10-15 Lemongrass
+- **Grasses needed:** 170-175 clumps
+  - 120-125 Vetiver (70%)
+  - 50 Lemongrass (30%)
 
-**Cost:** ₹1,200-2,000
+**Cost:** ₹5,100-8,750
 
-### **WESTERN WINDBREAK TOTAL:**
-- **Plants:** 82-91 units (much denser than northern!)
+### **WESTERN WINDBREAK TOTAL (UPDATED):**
+- **Plants:** 347-356 units (MUCH LARGER than original 82-91!)
 - **Width:** 18-22 meters (west to east)
-- **Total Cost:** ₹5,000-8,800 (₹1,250-2,200 per family)
+- **Total Cost:** ₹20,800-34,750 (₹5,200-8,688 per family)
 - **Priority:** PLANT THIS FIRST (before or simultaneously with northern)
+- **Construction note:** Consider phased approach - plant in 2-3 sections over 2 years if budget limited
 
 ---
 
@@ -1027,28 +1056,29 @@ WEST →→→→ [WESTERN] ──→ Entire property protected
 
 ## 📊 COMPLETE WINDBREAK COMPARISON
 
-### **Northern vs Western Windbreak Summary**
+### **Northern vs Western Windbreak Summary (UPDATED FOR ROTATED PROPERTY)**
 
-| Factor | Northern (836 ft) | Western (209 ft) |
+| Factor | Northern (209 ft) | Western (836 ft) |
 |--------|-------------------|------------------|
-| **Length** | 836 feet | 209 feet (1/4 length) |
+| **Length** | **209 feet (NOW SHORTER!)** | **836 feet (NOW 4X LONGER!)** |
 | **Layers** | 3 layers | 4 layers (denser) |
-| **Plants needed** | ~160 units | ~85 units |
-| **Cost** | ₹9,400-19,300 | ₹5,000-8,800 |
-| **Priority** | Medium | **URGENT** |
+| **Plants needed** | **~40 units (REDUCED!)** | **~350 units (INCREASED!)** |
+| **Cost** | **₹2,400-4,700 (REDUCED!)** | **₹20,800-34,750 (INCREASED!)** |
+| **Priority** | Medium | **CRITICAL/URGENT** |
 | **Wind exposure** | Moderate | **Extreme** |
 | **Time to maturity** | 5-7 years | 5-7 years |
 | **Primary benefit** | Overall property protection | Direct housing/garden protection |
 | **Recommended timing** | Year 1-2 | **Year 1 (immediate!)** |
 
-### **Combined System Investment:**
+### **Combined System Investment (UPDATED):**
 
 **Total for BOTH windbreaks:**
-- **Plants:** ~245 units
-- **Total cost:** ₹14,400-28,100
-- **Cost per family:** ₹3,600-7,025
+- **Plants:** ~390 units (vs 245 previously - 60% more!)
+- **Total cost:** ₹23,200-39,450 (vs ₹14,400-28,100 - more expensive but MUCH better protection)
+- **Cost per family:** ₹5,800-9,863 (vs ₹3,600-7,025 previously)
 - **Protection:** 75-80% wind reduction across entire property
-- **Economic returns:** ₹1.5-4 lakhs annually (Year 10+)
+- **Economic returns:** ₹2-5 lakhs annually (Year 10+) - higher due to more trees
+- **Phased approach recommended:** Plant western windbreak in 2-3 sections over 2 years if needed
 
 ---
 
@@ -1072,10 +1102,16 @@ WEST →→→→ [WESTERN] ──→ Entire property protected
 
 ---
 
-**Document Updated:** January 5, 2026  
-**Critical Addition:** Western Windbreak (Primary Protection)  
-**Status:** Complete Dual Windbreak Strategy  
-**Next Steps:** Mark western boundary, order Vetiver, prepare for monsoon planting
+**Document Updated:** January 26, 2026  
+**Critical Update:** PROPERTY ROTATED - 1 acre (E-W) x 4 acres (N-S)  
+**Major Changes:**  
+- Northern windbreak: NOW SHORTER (209ft vs 836ft) - ~40 plants vs 160
+- Western windbreak: NOW LONGER (836ft vs 209ft) - ~350 plants vs 85
+- Western windbreak cost increased significantly but provides MUCH better protection
+- Phased planting approach recommended for western windbreak
+
+**Status:** Complete Dual Windbreak Strategy (Updated for Rotated Property)  
+**Next Steps:** Mark BOTH boundaries, order Vetiver for western edge (170+ clumps!), prepare for monsoon planting, consider phased western windbreak installation
 
 ---
 

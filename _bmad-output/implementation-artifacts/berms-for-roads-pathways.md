@@ -56,22 +56,24 @@ AFTER: Water is Captured & Used
 
 Based on your cluster village layout, you need:
 
-#### 1. **Main Access Road** (From property boundary to housing cluster)
+#### 1. **Main Access Road** (From property boundary to housing cluster) - UPDATED FOR ROTATED PROPERTY
 - **Location**: Enters from west or north boundary → reaches housing zone
-- **Length**: ~200-400 feet depending on entry point
+- **Length**: ~50-150 feet (MUCH SHORTER due to north location of houses)
 - **Width needed**: 12-15 feet (vehicle access for construction, deliveries)
 - **Traffic**: Daily vehicle use (residents, deliveries, guests)
+- **NOTE**: Houses now closer to north boundary, reducing road length needed
 
-#### 2. **Internal Pathways** (Within property)
-- **North-South paths**: Connecting zones (housing → gardens → swales → pond)
-- **East-West paths**: Along property, between zones
-- **Length**: ~1,000-1,500 feet total
+#### 2. **Internal Pathways** (Within property) - UPDATED
+- **North-South paths**: PRIMARY PATHS now (connecting zones down 836ft length)
+- **East-West paths**: SHORTER cross-paths (209ft width only)
+- **Length**: ~1,000-1,200 feet total N-S paths (longer than before)
 - **Width needed**: 4-6 feet (walking, wheelbarrow, small cart)
 - **Traffic**: Daily foot traffic, weekly heavy use
+- **CRITICAL CHANGE**: Main circulation is now N-S (not E-W)
 
 #### 3. **Perimeter Access** (Property boundary maintenance)
 - **Location**: Along all four boundaries
-- **Length**: ~2,100 feet (perimeter of 4 acres)
+- **Length**: ~2,090 feet total perimeter (209+209+836+836) - SAME TOTAL
 - **Width needed**: 3-4 feet (minimal access for maintenance)
 - **Traffic**: Monthly/quarterly access
 

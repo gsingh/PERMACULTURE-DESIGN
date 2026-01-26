@@ -19,13 +19,13 @@
 
 ## 1. ZONE 2 SPECIFICATIONS (FROM YOUR DESIGN)
 
-### Physical Parameters
+### Physical Parameters (UPDATED FOR ROTATED PROPERTY)
 - **Location**: Between Swale 1 (@ 110ft) and Swale 2 (@ 160ft)
-- **Width (N-S)**: 50 feet
-- **Length (E-W)**: ~836 feet
-- **Total Area**: ~41,800 sq ft (~0.96 acres / ~3,900 sq m)
+- **Width (E-W)**: ~209 feet (PROPERTY NOW ROTATED!)
+- **Depth (N-S)**: 50 feet
+- **Total Area**: ~10,450 sq ft (~0.24 acres / ~970 sq m)
 - **Topography**: Slight slope north to south
-- **Water Access**: Swale 1 (north edge), Swale 2 (south edge), pond (SE corner)
+- **Water Access**: Swale 1 (north edge), Swale 2 (south edge), pond (southern end)
 
 ### Current Design Elements
 - Young food forest establishment
@@ -120,84 +120,58 @@
 
 ```
 NORTH
-├──────────────────────────────────────────────────────┐
-│  SWALE 1 (@ 110ft from north boundary)              │
-│  🌳 Trees on berms 🌳                                 │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  ★ SUB-ZONE 2A (Northern 25 feet) ★                 │
-│  PRIMARY CHICKEN ROTATION                           │
-│  ┌────────────────────────────────────────┐         │
-│  │  🏠 Chicken Coop (8x10 ft)              │  (WEST)│
-│  │  Fixed location: NW corner Zone 2      │         │
-│  │  - Nesting boxes                        │         │
-│  │  - Roosting bars                        │         │
-│  │  - Easy egg collection from path        │         │
-│  │                                         │         │
-│  │  [Rotation Paddock 1] 🐔🐔🐔           │         │
-│  │  100 ft x 25 ft (2,500 sq ft)          │  (WEST) │
-│  │  ├─ Week 1-2: Chickens active          │         │
-│  │  ├─ Scratching, foraging               │         │
-│  │  └─ Fertilizing young fruit trees      │         │
-│  │                                         │         │
-│  │  [Rotation Paddock 2] 🌱🌱              │         │
-│  │  100 ft x 25 ft                         │  (CENTER)│
-│  │  ├─ Week 3-4: Chickens active          │         │
-│  │  └─ Paddock 1 resting/regenerating     │         │
-│  │                                         │         │
-│  │  [Rotation Paddock 3] 🌿🌿              │         │
-│  │  100 ft x 25 ft                         │  (EAST) │
-│  │  ├─ Week 5-6: Chickens active          │         │
-│  │  └─ Paddocks 1-2 resting               │         │
-│  │                                         │         │
-│  │  [Rotation Paddock 4] 🍃🍃              │         │
-│  │  100 ft x 25 ft (Buffer)               │  (FAR   │
-│  │  ├─ Week 7-8: Chickens active          │   EAST) │
-│  │  └─ Paddocks 1-3 resting (regrowth)    │         │
-│  └────────────────────────────────────────┘         │
-│  • 8-week rotation cycle                            │
-│  • Each paddock rests 6 weeks (parasite break)      │
-│  • Young fruit trees planted throughout             │
-│  • Access path along northern edge                  │
-│                                                      │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  ★ SUB-ZONE 2B (Southern 25 feet) ★                 │
-│  DUCK ROTATION + POND ACCESS                        │
-│  ┌────────────────────────────────────────┐         │
-│  │  [Duck Forage Zone 1] 🦆🦆              │  (WEST) │
-│  │  200 ft x 25 ft                         │         │
-│  │  ├─ Week 1-3: Ducks foraging           │         │
-│  │  ├─ Heavy pest control zone            │         │
-│  │  └─ Morning access to pond             │         │
-│  │                                         │         │
-│  │  [Duck Forage Zone 2] 🌾🌾              │  (CENTER│
-│  │  200 ft x 25 ft                         │   -EAST)│
-│  │  ├─ Week 4-6: Ducks foraging           │         │
-│  │  ├─ Zone 1 resting                     │         │
-│  │  └─ Midday access to pond              │         │
-│  │                                         │         │
-│  │  [Pond Primary Access] 🌊               │  (SE    │
-│  │  Main pathway to pond ──────►          │   CORNER)│
-│  │  Duck house (6x8 ft) near pond         │         │
-│  │  • Night housing                        │         │
-│  │  • Nesting areas                        │         │
-│  │  • Shade structure                      │         │
-│  │  • Floating platform in pond           │         │
-│  └────────────────────────────────────────┘         │
-│  • 6-week rotation cycle (ducks less destructive)   │
-│  • Daily pond access for all ducks                  │
-│  • Pest control focus: slugs, snails, insects       │
-│  • Water plants (Azolla) in pond for duck feed      │
-│                                                      │
-├──────────────────────────────────────────────────────┤
-│  SWALE 2 (@ 160ft from north boundary)              │
-│  🌳 Trees on berms 🌳                                 │
-│  Inlet channel to pond begins here ──────►          │
-└──────────────────────────────────────────────────────┘
-SOUTH (toward Pond in SE corner)
+├────────────────────────┐
+│  SWALE 1 (@110ft)      │
+│  🌳 Trees on berms 🌳   │
+├────────────────────────┤
+│ ★ SUB-ZONE 2A (N 25ft)│
+│ CHICKEN ROTATION       │
+│ ┌──────────────────┐   │
+│ │ 🏠 Coop (8x10ft) │   │
+│ │ NW corner        │   │
+│ └──────────────────┘   │
+│                        │
+│ [Paddock 1] 🐔        │
+│ 52ft x 25ft (W half)  │
+│ Week 1-4              │
+│                        │
+│ [Paddock 2] 🐔        │
+│ 52ft x 25ft (E half)  │
+│ Week 5-8              │
+│                        │
+│ • 8-week cycle        │
+│ • Each rests 4 weeks  │
+│ • 2 paddocks (not 4)  │
+│ • Trees throughout    │
+│                        │
+├────────────────────────┤
+│ ★ SUB-ZONE 2B (S 25ft)│
+│ DUCK ROTATION + POND  │
+│ ┌──────────────────┐   │
+│ │[Duck Zone] 🦆    │   │
+│ │105ft x 25ft      │   │
+│ │(W half)          │   │
+│ │Week 1-3          │   │
+│ └──────────────────┘   │
+│ ┌──────────────────┐   │
+│ │[Duck Zone] 🦆    │   │
+│ │105ft x 25ft      │   │
+│ │(E half)          │   │
+│ │Week 4-6          │   │
+│ └──────────────────┘   │
+│                        │
+│ 🌊 Pond pathway       │
+│ Duck house near pond  │
+│ (Southern end)        │
+│                        │
+├────────────────────────┤
+│  SWALE 2 (@160ft)      │
+│  🌳 Trees on berms 🌳   │
+└────────────────────────┘
+SOUTH
 
-WEST ←───────────── 836 feet ──────────────→ EAST
+WEST ←─ 209 ft ─→ EAST
+(MUCH NARROWER!)
 ```
 
 ---
