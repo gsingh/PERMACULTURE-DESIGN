@@ -111,61 +111,64 @@ Based on the zone allocation for Cluster Village (Option 1):
 - **Year 2:** Dig Swales 8-12 (Zone 4 timber area)
 - **Optional Year 3:** Dig Swales 13-14 (Zone 5 if budget/time allows)
 
-### Pond Specifications
+### Pond Specifications - ZONE 2 PRODUCTION POND
 
-**Location:** Zone 3/4 border, approximately 470 ft from north boundary (between Swale 8 and Swale 9)
+**Location:** Zone 2B SE corner, approximately 245 ft from north boundary (between duck house and Swale 5)
 
 **Dimensions:**
-- **Diameter at top:** 40-50 feet (circular or oval)
-- **Depth at center:** 6-8 feet (minimum 6 feet for fish, evaporation buffer)
-- **Depth at edges:** 2-3 feet (gradual slope for wildlife access)
+- **Diameter at top:** 30 feet (circular - smaller than original for intensive management)
+- **Depth at center:** 5 feet (adequate for fish, easier to maintain)
+- **Depth at edges:** 1-2 feet (gradual slope for duck access)
 - **Side slope:** 3:1 ratio (3 feet horizontal for every 1 foot vertical) - prevents collapse
-- **Surface area:** ~1,250-2,000 sq ft
-- **Volume:** 100,000-130,000 gallons (target: 115,000 gallons)
+- **Surface area:** ~700 sq ft
+- **Volume:** 35,000 gallons (smaller, but ideal for intensive duck/fish integration)
 
 **Pond Design Features:**
-1. **Shallow edge (North side):** 1-2 ft deep, 8-10 ft wide - managed area for duck access, fishing platform
-2. **Deep center:** 6-8 ft - prevents total evaporation in summer, allows fish farming
-3. **South edge (semi-wild):** Gradual slope, native wetland plants, wildlife corridor
-4. **Overflow channel:** 6-inch deep spillway on south side leading to Swale 9, then continues cascade
-5. **Inlet channel:** Connects from Swale 7-8 overflow (water flows into pond during heavy rain)
-6. **Access ramp:** Gentle slope on north side for duck access and maintenance/pump access
+1. **Duck access edge (North/West sides):** 1-2 ft deep, 6-8 ft wide - gentle slope for easy duck entry/exit
+2. **Deep center:** 5 ft - prevents evaporation, provides fish habitat, thermal stability
+3. **Fishing/maintenance edge (East side):** Small platform or gentle slope for fish harvest, water access
+4. **Overflow channel:** 6-inch deep spillway on south side leading to Swale 5 (245-310ft away)
+5. **Inlet channel:** Connects from Swale 4 overflow (260ft) - short channel to pond
+6. **Floating duck platform:** 4x6 ft in center for duck resting
 
 **Soil Management:**
-- Excavated soil creates berm AROUND pond (3-4 ft high)
+- Excavated soil creates berm AROUND pond (2-3 ft high - smaller pond)
 - Use clay-heavy soil to line pond bottom (if available) for water retention
-- Surplus soil used to build up berms on other swales
+- Surplus soil used to build up berms on nearby swales (Swale 4-5)
 
-**Pond Management Philosophy:**
+**Pond Management Philosophy - INTENSIVE PRODUCTION:**
 
-This pond location at the Zone 3/4 border represents a **compromise between intensive production and wilderness**:
+This pond in Zone 2B is a **fully managed production system** - the heart of duck/fish integration:
 
-**North Side (Managed - toward Zones 2-3):**
-- Duck access from Zone 2 (260-300ft pathway along eastern edge)
-- Fishing platform for occasional harvest (tilapia, local species)
-- Water plant cultivation (azolla for duck food, limited lotus)
-- Irrigation pump access for Zones 3-4 during dry season
-- Maintained clearing around access area (mowed 2-4 times/year)
+**Primary Functions:**
+1. **Duck swimming/cooling** - 12-15 ducks access daily, 50-100ft from duck house
+2. **Fish farming** - 50-100 Tilapia or local species, harvest 2x/year = 50-80 kg
+3. **Azolla cultivation** - Floating water plants (duck food, nitrogen fixer) in designated area
+4. **Water plant production** - Water spinach, limited lotus (human food)
+5. **Irrigation reservoir** - Pump for Zone 2-3 during dry season (35,000 gallon capacity)
+6. **Microclimate creation** - Cools surrounding food forest, increases humidity
 
-**South Side (Semi-Wild - toward Zones 4-5):**
-- Native wetland plants allowed to establish naturally
-- Wildlife corridor (frogs, dragonflies, water birds)
-- Minimal human disturbance (observation only)
-- Natural vegetation on pond edges (unmowed)
+**Management Intensity:**
+- **Daily:** Duck access (morning and afternoon), egg collection nearby
+- **Weekly:** Check fish health, water quality, azolla harvest
+- **Monthly:** Clean excess duck waste from shallow edges
+- **Bi-annual:** Fish harvest (2x/year), pond partial drain/refill if needed
+- **Annual:** Desilt if necessary (Year 3+)
 
-**This dual approach:**
-- ✅ Allows duck integration without daily long-distance walks (260ft vs 500ft)
-- ✅ Permits limited fish farming (sustainable harvest, not intensive)
-- ✅ Protects Zone 5 wilderness integrity (no managed interfaces needed)
-- ✅ Creates transition zone teaching opportunity (gradient from managed to wild)
-- ✅ Still provides water storage and irrigation for productive zones
+**Why Zone 2 Location is IDEAL:**
+- ✅ **Duck welfare:** 50-100ft walk = 5-10x shorter than Zone 5 (500ft)
+- ✅ **Daily monitoring:** Easy to check duck health, fish activity, water quality
+- ✅ **Educational value:** Highly visible integrated system for families to observe
+- ✅ **Zone 5 preserved:** Wilderness area remains 100% hands-off (no compromises)
+- ✅ **Efficient irrigation:** Central to productive Zones 1-3
+- ✅ **Predator safety:** Short walk = ducks spend less time vulnerable
 
-**Duck Pathway Details:**
-- Route: Zone 2 duck house (210ft) → along eastern property edge → pond (470ft)
-- Distance: 260-300ft (moderate, manageable for daily duck walks)
-- Width: 4-6ft (wide enough for ducks + 1-2 people to walk)
-- Maintenance: Mow/clear 3-4 times/year, keep predator sight lines open
-- Protection: Consider low fencing or dense plantings on western side (guide ducks, deter predators)
+**Duck Access:**
+- **Distance:** 50-100ft from duck house (very short, safe)
+- **Route:** Direct path from duck house (SE Zone 2) to pond (no long pathway needed)
+- **Width:** 6-8ft informal path (ducks waddle, families walk alongside)
+- **Maintenance:** Minimal - grass naturally trampled by daily duck traffic
+- **Cost:** ₹0 - no formal pathway infrastructure needed (unlike 260ft pathway in Option 3)
 
 ### Water Flow System
 
@@ -178,20 +181,49 @@ MONSOON RAIN (450-600mm/year)
         ↓ (Runoff flows south)
    ═══ SWALE 1 (110ft) ═══  ← Captures first flush
         ↓ (Overflow)
-   ═══ SWALE 2-7 ═══  ← Cascade through Zones 2-3
-        ↓ (Overflow from Swale 7-8)
-      [POND] (470ft - Zone 3/4 border)
-        ↓ (Overflow from pond)
-   ═══ SWALE 9-14 ═══  ← Continues cascade to Zone 4-5
-        ↓ (Final overflow)
-    Safe discharge off property (south boundary) or Zone 5 seasonal wetland
+   ═══ SWALE 2-3 ═══  ← Cascade through Zone 2
+        ↓ (Overflow from Swale 4 @ 260ft)
+      [ZONE 2 POND] (245ft) ← Small production pond
+        ↓ (Overflow to Swale 5)
+   ═══ SWALE 5-12 ═══  ← Continue cascade through Zones 3-4
+        ↓ (Overflow from Swale 13-14)
+    [ZONE 5 SEASONAL WETLAND] (700-836ft) ← Natural formation, NOT excavated
+        ↓ (Final infiltration)
+    Minimal discharge off property (most water infiltrated)
 ```
 
 **Key Principles:**
 1. **Primary function:** Each swale INFILTRATES water (80-90% soaks into ground)
 2. **Overflow:** Only during heavy monsoon, water overflows to next swale
 3. **Cascade effect:** Water slows down through 12-14 stages instead of rushing off property
-4. **Pond as backup:** Catches overflow from upper swales, provides dry-season irrigation
+4. **Zone 2 pond:** Small intensive production pond (35,000 gallons, ducks + fish)
+5. **Zone 5 wetland:** Natural seasonal formation (NOT excavated, wilderness only)
+
+### Zone 5 Seasonal Wetland (Natural, NOT Excavated)
+
+**IMPORTANT:** Unlike the Zone 2 pond, Zone 5 does NOT have an excavated pond. Instead, a seasonal wetland may form naturally.
+
+**What this means:**
+- **NO digging in Zone 5** - Let nature determine water pooling
+- **Natural formation only** - Final swale overflow (Swale 13-14) may create shallow pools
+- **Seasonal variation** - Fills during monsoon, may dry partially in summer (this is natural)
+- **Zero management** - No clearing, no planting, no harvesting, no intervention
+
+**If wetland forms naturally:**
+- Depth: 6 inches to 3 feet (shallow, determined by natural topography)
+- Size: Variable (nature decides based on overflow volume and soil)
+- Plants: Native wetland species volunteer (cattails, sedges, reeds)
+- Wildlife: Frogs, toads, dragonflies, water birds colonize naturally
+- Purpose: 100% wildlife habitat, NOT human production
+
+**Cost for Zone 5 wetland:** ₹0 (no excavation, no management)
+
+**This two-pond approach provides:**
+- ✅ **Zone 2 pond:** Intensive production (ducks daily, fish harvest, irrigation)
+- ✅ **Zone 5 wetland:** Pure wilderness (no human use, maximum ecosystem services)
+- ✅ **Clear separation:** Production vs. conservation - no conflicts
+- ✅ **Lower cost:** One small excavated pond instead of one large pond
+- ✅ **Better outcomes:** Optimal duck welfare + true wilderness protection
 
 ---
 
@@ -238,10 +270,10 @@ MONSOON RAIN (450-600mm/year)
 - Tool maintenance/replacement: ₹3,000-5,000
 - **TOTAL:** ₹17,600-26,900 + tools = **₹27,700-43,000**
 
-**Add pond excavation:**
-- Pond requires ~200-250 person-days (much deeper digging)
-- Recommend hiring excavator JUST for pond: ₹15,000-20,000
-- **TOTAL MANUAL + POND:** ₹42,700-63,000 (₹10,675-15,750 per family)
+**Add pond excavation (Zone 2 - smaller pond):**
+- Zone 2 pond requires ~80-100 person-days (smaller, shallower than original design)
+- Recommend hiring excavator JUST for pond: ₹10,000-14,000 (smaller excavation)
+- **TOTAL MANUAL + POND:** ₹37,700-57,000 (₹9,425-14,250 per family)
 
 #### METHOD B: Excavator (Recommended for speed & less labor)
 

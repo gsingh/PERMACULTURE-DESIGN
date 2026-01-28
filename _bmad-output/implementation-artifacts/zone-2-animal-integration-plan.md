@@ -25,7 +25,7 @@
 - **Depth (N-S)**: 50 feet
 - **Total Area**: ~10,450 sq ft (~0.24 acres / ~970 sq m)
 - **Topography**: Slight slope north to south
-- **Water Access**: Swale 1 (north edge), Swale 2 (south edge), pond (southern end)
+- **Water Access**: Swale 1 (north edge), Swale 2-5 (distributed), pond IN Zone 2B (245ft from north, SE corner)
 
 ### Current Design Elements
 - Young food forest establishment
@@ -79,12 +79,13 @@
 - Fertilizer: Nutrient-rich manure
 
 **Housing Requirements**:
-- **Location**: SE corner of Zone 2 (approximately 210-230ft from north boundary)
+- **Location**: SE corner of Zone 2B (approximately 210-230ft from north boundary)
 - **Duck house**: 6x8 feet (48 sq ft) = 3-4 sq ft per duck
-- **Access to pond**: Pathway along eastern edge (260-300ft distance to pond at Zone 3/4 border)
-- **Nesting areas**: Ground-level boxes
-- **Shade structure**: 8x10 feet for hot days (near duck house)
-- **Floating platform**: 4x6 feet in pond for resting (at pond location 470ft from north)
+- **Access to pond**: Direct pathway 50-100ft to Zone 2 pond (very short, safe)
+- **Pond location**: SE Zone 2B at 245ft from north (integrated with duck housing)
+- **Nesting areas**: Ground-level boxes in duck house
+- **Shade structure**: 8x10 feet near duck house for hot days
+- **Floating platform**: 4x6 feet in Zone 2 pond for resting/cooling
 
 ---
 
@@ -215,24 +216,25 @@ WEST ←─ 209 ft ─→ EAST
 ### Duck Rotation Protocol (6-Week Cycle)
 
 **Week 1-3: Forage Zone 2A** (Western section of Zone 2)
-- Ducks spend mornings foraging in Zone 2A (near duck house)
-- Mid-morning walk to pond (260-300ft along eastern pathway)
+- Ducks spend mornings foraging in Zone 2A
+- Easy access to pond (50-100ft from duck house - very short walk)
 - Afternoons at pond (swimming, feeding on Azolla, cooling off)
-- Evenings return to duck house (walk back 260-300ft)
+- Evenings return to duck house (50-100ft walk back)
 - Focus: Pest control around young fruit trees
 
 **Week 4-6: Forage Zone 2B** (Eastern section of Zone 2)
-- Shift to fresh foraging area
+- Shift to fresh foraging area (includes area around pond)
 - Zone 2A rests (less pressure than chickens, 3-week rest adequate)
-- Continue daily pond access (slightly shorter walk from 2B)
+- Continue daily pond access (pond is IN Zone 2B, immediate access)
 - Heavy pest reduction
 
 **Daily Schedule** (Ducks):
-- **6-7 AM**: Release from duck house → Forage in Zone 2
-- **9-10 AM**: Walk to pond (260-300ft along managed pathway)
-- **10 AM-3 PM**: Pond access (swimming, feeding, cooling)
-- **3-4 PM**: Walk back from pond, forage in afternoon
-- **6-7 PM**: Herd to duck house (lock in for predator protection)
+- **6-7 AM**: Release from duck house → Forage in Zone 2 (5-10 min walk to different areas)
+- **8 AM-4 PM**: Alternate between foraging and pond throughout day
+  - Pond breaks for cooling (10 AM, 1 PM, 3 PM as needed)
+  - Total pond time: 3-5 hours (spread throughout day)
+- **4-6 PM**: Final forage session before bedtime
+- **6-7 PM**: Return to duck house (50-100ft from pond, 2-3 min walk), lock in for safety
 
 **Benefits**:
 - ✅ Outstanding pest control (slugs, snails decimated)
@@ -243,47 +245,30 @@ WEST ←─ 209 ft ─→ EAST
 
 ---
 
-### Duck Pathway to Pond (260-300ft)
+### Duck-Pond Integration (Ideal Distance: 50-100ft)
 
-**Route**: Zone 2 duck house (210-230ft from north) → along eastern property edge → pond (470ft from north)
+**Route**: Duck house (SE Zone 2B, 210-230ft from north) → direct path → pond (245ft from north)
 
 **Pathway Specifications:**
-- **Width**: 4-6 feet (wide enough for ducks walking + 1-2 people)
-- **Total length**: 260-300 feet
-- **Surface**: Natural grass/ground (no paving needed, ducks prefer soft surface)
-- **Maintenance**: Mow/trim 3-4 times per year to keep clear
-- **Predator protection**:
-  - Keep sight lines open (trim overhanging branches)
-  - Consider low hedge or fencing on western side (guides ducks, deters predators from field side)
-  - Plant thorny natives along western edge (natural barrier): Ber, thorny Acacia
+- **Distance**: 50-100 feet (VERY SHORT - optimal for duck welfare)
+- **Width**: 6-8 feet informal path (natural grass, trampled by daily duck traffic)
+- **Surface**: Natural ground (no formal construction needed)
+- **Maintenance**: MINIMAL - grass naturally kept short by daily duck walking
+- **Cost**: ₹0 - No pathway infrastructure needed (informal route, very short distance)
 
-**Pathway Management:**
-- Clear of tall weeds (mow before monsoon, after monsoon, mid-winter)
-- Remove fallen branches, debris
-- Check for predator signs (tracks, holes, burrows)
-- Simple wooden stakes every 20-30ft with reflective tape (helps ducks find path at dawn/dusk)
+**Why This is IDEAL:**
+- ✅ **Duck welfare**: 50-100ft = 1-2 minute walk (vs 5-10 min for 260-300ft)
+- ✅ **Safety**: Short distance = less predator exposure, easier to monitor
+- ✅ **Spontaneous access**: Ducks can walk to/from pond multiple times daily as needed
+- ✅ **Visual monitoring**: Families can see ducks at pond from duck house area
+- ✅ **Zero pathway cost**: No formal infrastructure, hedge planting, or maintenance
+- ✅ **Egg collection**: Ducks lay eggs near pond OR in duck house (both very close)
 
-**Infrastructure Along Pathway:**
-- **Mid-point resting area** (optional, at 140ft): Small shade structure (6x6ft) with water dish
-  - Gives ducks break on hot days
-  - Cost: ₹2,000-3,000 (4 posts + palm thatch roof)
-- **Pathway markers**: Every 50ft, simple post or stone (helps families find ducks if needed)
-
-**Cost:**
-- Pathway clearing (initial): ₹1,000-2,000 (manual labor, one-time)
-- Hedge planting (western edge): ₹2,000-4,000 (optional, 60-70 Ber/Acacia plants)
-- Annual maintenance: ₹500-1,000 (mowing, clearing)
-- **TOTAL**: ₹3,500-7,000 one-time + ₹500-1,000 annually
-
-**Duck Safety Considerations:**
-- 260-300ft is **moderate distance** (not ideal, but manageable)
-- Ducks walk 0.5-1 mph = 5-10 minute walk each way
-- Risk: Predators (dogs, foxes) on long pathway
-- Mitigation: 
-  - Keep ducks in groups (12-15 together, safety in numbers)
-  - Walk with ducks first 1-2 weeks (they learn route)
-  - Check pathway daily for predator signs
-  - Consider herding ducks to pond (walk behind them) if predator pressure high
+**Management:**
+- No formal pathway needed (ducks create their own trail within days)
+- Check area for predator signs weekly (holes, tracks)
+- Keep 2-3 meter radius around pond edge relatively clear (trim tall grass 2-3x/year)
+- That's it! Much simpler than 260ft managed pathway.
 
 ---
 
