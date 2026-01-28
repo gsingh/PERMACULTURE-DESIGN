@@ -144,16 +144,23 @@ Based on test results, plan amendments:
   - [ ] Pond pump installation point
   - [ ] Hose bibs along main path
 
-#### 3.3 Pond Connection
-- [ ] **Verify pond location** (SE corner of property)
-- [ ] **Create duck access pathway** from Zone 2B to pond
-  - [ ] 4-foot wide path
-  - [ ] Gentle slope (no steep drops)
-  - [ ] Vegetated corridor (shade for ducks)
-- [ ] **Install pond features** (for ducks):
-  - [ ] Floating platform (4 ft × 6 ft) for duck resting
-  - [ ] Shallow entry area (graduated depth for safe access)
-  - [ ] Emergent vegetation around edges (cover)
+#### 3.3 Pond Integration (Option 2 Design)
+- [ ] **Confirm pond excavation** in Zone 2B SE corner (245ft from north, see Phase 1 Earthworks plan)
+  - [ ] 30ft diameter, 5ft deep
+  - [ ] 35,000 gallon capacity
+  - [ ] 50-100ft from duck house (OPTIMAL distance)
+- [ ] **No formal pathway needed** - Ducks create informal trail naturally (very short distance)
+  - [ ] Simply keep 6-8ft width relatively clear of tall grass
+  - [ ] Check weekly for predator signs (holes, tracks)
+- [ ] **Install pond features**:
+  - [ ] Floating platform (4 ft × 6 ft) for duck resting - ₹1,500-2,500
+  - [ ] Shallow entry area on north/west sides (1-2ft depth, gentle slope)
+  - [ ] Azolla cultivation area (northeast corner, starter plants)
+  - [ ] Water spinach planting (pond edges)
+  - [ ] Optional: 2-3 lotus roots (for human harvest)
+- [ ] **Stock fish** after pond stabilizes (Month 8-12):
+  - [ ] 100 tilapia fingerlings - ₹1,500-2,500
+  - [ ] Feed supplemented by duck waste (integrated system)
 
 ---
 

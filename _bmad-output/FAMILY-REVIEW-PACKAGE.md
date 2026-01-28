@@ -19,7 +19,7 @@ This document presents a **complete, implementation-ready design** for a 4-acre 
 ✅ **Financial projections** - Investment costs, ROI, payback periods  
 ✅ **Implementation roadmap** - Phased construction over 3 years  
 ✅ **Community systems** - Labor sharing, harvest distribution, decision-making  
-✅ **Water management** - 12-14 cascade swales + pond (115,000 gallon capacity)  
+✅ **Water management** - 12-14 cascade swales + Zone 2 production pond (35,000 gallons) + Zone 5 seasonal wetland  
 ✅ **Animal integration** - Chickens, ducks with rotation systems  
 ✅ **Timber revenue** - 30-year harvest plan (₹10L-30L total value)  
 ✅ **Wilderness zone** - 16% of farm for wildlife, pollinators, ecosystem services
@@ -289,20 +289,32 @@ After analyzing 3 housing layout options, **Cluster Village is RECOMMENDED** bec
 - **Fertilizer:** Nitrogen-rich manure for gardens
 - **Soil tillage:** Scratch and aerate soil naturally
 
-#### Sub-Zone 2B: Duck Forage + Food Forest
+#### Sub-Zone 2B: Duck Forage + Food Forest + Production Pond
 **Size:** 209 ft × 100 ft = 20,900 sq ft
 
+**Production Pond (SE corner):**
+- **Location:** 245ft from north boundary, integrated with duck house
+- **Size:** 30 feet diameter, 5 feet deep (35,000 gallons)
+- **Purpose:** Duck swimming, fish farming, water plants, irrigation
+- **Distance from duck house:** 50-100 feet (optimal - very short, safe walk)
+
 **Animals:**
-- 8-10 ducks (shared flock)
-- Duck house (SE area, near pond path)
-- Pathway to pond for swimming
+- 12-15 ducks (shared flock) - increased from original plan
+- Duck house (SE area, 50-100ft from pond)
+- Direct pathway to pond (informal, no construction needed)
 
 **What ducks provide:**
-- **Eggs:** 6-8 eggs/day = 2,190-2,920 eggs/year (547-730 per family!)
+- **Eggs:** 10-12 eggs/day = 3,600-4,380 eggs/year (900-1,095 per family!)
 - **Meat:** Optional harvest
-- **Slug/snail control:** Major pest reduction
-- **Fertilizer:** High-nitrogen manure
-- **Water patrol:** Keep pond clean
+- **Slug/snail control:** Major pest reduction (ducks eat 50-100 slugs/day each)
+- **Fertilizer:** High-nitrogen manure enriches pond water (feeds fish)
+- **Pond integration:** Duck waste fertilizes fish, creates integrated system
+
+**What pond provides:**
+- **Fish:** 50-80 kg tilapia/year (12-20 kg per family) - 2 harvests/year
+- **Water plants:** Azolla (duck food), water spinach, lotus (human food)
+- **Irrigation:** 35,000 gallons for Zone 2-3 dry season watering
+- **Microclimate:** Cools surrounding food forest, increases humidity
 
 #### Food Forest Trees (Throughout Zone 2)
 
@@ -429,7 +441,7 @@ After analyzing 3 housing layout options, **Cluster Village is RECOMMENDED** bec
 
 **Area:** 209 ft × 136 ft = 28,424 sq ft (0.65 acres) - **16% of total farm**
 
-**Location:** 700-836 ft from north boundary (southern end, includes pond)
+**Location:** 700-836 ft from north boundary (southern end) - **NO pond, only natural seasonal wetland**
 
 **Philosophy:** This is nature's zone - MINIMAL to ZERO human intervention
 
@@ -473,9 +485,9 @@ Even though you never harvest Zone 5, it works FOR you:
 
 **5. Water Quality**
 - Deep-rooted natives improve infiltration
-- Wetland buffer around pond filters nutrients
-- Maintains groundwater recharge
-- **Value:** Clean water, reduced erosion
+- Seasonal wetland (if forms naturally) filters final swale overflow
+- Maintains groundwater recharge in southern property
+- **Value:** Clean water, reduced erosion, final infiltration zone
 
 **6. Carbon Storage**
 - Undisturbed ecosystems store more carbon than managed
@@ -498,26 +510,31 @@ Even though you never harvest Zone 5, it works FOR you:
 ```
     ┌─────────────────────────────────┐
     │                                 │
-    │  WESTERN SECTION (70%):         │
-    │  - Native forest regeneration   │  } 136 ft
+    │  NATIVE FOREST & MEADOW (80%):  │
+    │  - Native tree regeneration     │  } 136 ft
     │  - Wildflower meadow            │    (N-S)
-    │  - Wildlife habitat             │    depth
-    │  - Observation trail (3 ft)     │
+    │  - Wildlife habitat (birds)     │    depth
+    │  - Observation trail (3 ft max) │
     │  - Brush piles (5 locations)    │
     │  - Nest boxes (10 boxes)        │
     │  - NO HARVESTING                │
     │  - NO GRAZING                   │
     │  - NO MOWING                    │
     │                                 │
-    │  EASTERN SECTION (30%):         │
-    │  🌊 POND + WETLAND BUFFER       │
-    │  - Pond: 80-100 ft × 50-60 ft   │
-    │  - Wetland plants (wild)        │
-    │  - Duck access (managed edge)   │
-    │  - Frog/dragonfly habitat       │
+    │  SEASONAL WETLAND AREA (20%):   │
+    │  🌊 NATURAL WETLAND (if forms)  │
+    │  - NOT excavated, nature decides│
+    │  - Forms from Swale 13-14 flow  │
+    │  - Wetland plants (volunteer)   │
+    │  - Frog/toad/dragonfly habitat  │
+    │  - NO duck access (wilderness)  │
+    │  - Observation only, no entry   │
     │                                 │
     └─────────────────────────────────┘
          209 feet (E-W) width
+         
+NOTE: Production pond is in ZONE 2 (245ft from north),
+NOT in Zone 5. Zone 5 is 100% wilderness.
 ```
 
 ### What You'll Plant (Native Species Only)
@@ -529,7 +546,7 @@ Even though you never harvest Zone 5, it works FOR you:
 - **Jamun** (drought-resistant, edible fruit for wildlife)
 - **Ber/Jujube** (nitrogen fixer, thorny cover)
 - **Amaltas** (Golden Shower tree - pollinators)
-- **Arjuna** (medicinal, riparian species near pond)
+- **Arjuna** (medicinal, riparian species - plant at Zone 5 edges)
 
 **Shrubs & Understory:**
 - **Lantana** (butterfly magnet - native varieties only)
@@ -809,11 +826,11 @@ Short connecting paths every 100-150 feet for zone access.
 |----------|-----------|-------|
 | **Housing (Zone 0)** | ₹2,00,000-5,15,625 | Individual house + common house share |
 | **Kitchen Gardens (Zone 1)** | ₹21,500-31,550 | Private + shared garden setup |
-| **Animals & Food Forest (Zone 2)** | ₹13,250-20,750 | Chickens, ducks, fruit trees |
+| **Animals & Food Forest (Zone 2)** | ₹13,250-20,750 | Chickens, ducks, fruit trees, production pond |
 | **Production Zone (Zone 3)** | ₹2,000-3,750 | Orchards, annual crops |
 | **Timber & Windbreak (Zone 4)** | ₹1,500-2,750 | Perimeter planting |
 | **Wilderness (Zone 5)** | ₹612-1,375 | Native trees, nest boxes (minimal!) |
-| **Water Systems** | ₹37,500-62,500 | Swales + pond (shared) |
+| **Water Systems** | ₹32,500-56,500 | Swales (12-14) + Zone 2 production pond (shared) |
 | **Roads & Paths** | ₹7,500-12,500 | Access infrastructure |
 | **TOTAL (excluding housing)** | **₹83,862-1,35,175** | Per family |
 | **TOTAL (including housing)** | **₹2,83,862-6,50,800** | Per family |
@@ -840,22 +857,24 @@ Short connecting paths every 100-150 feet for zone access.
 | Zone | Annual Value | Notes |
 |------|-------------|-------|
 | **Zone 1: Vegetables** | ₹45,000 | 1,500 kg @ ₹30/kg |
-| **Zone 2: Eggs** | ₹38,310-54,750 | 1,277-1,825 eggs/family |
+| **Zone 2: Eggs** | ₹54,000-65,700 | 3,600-4,380 eggs/family (12-15 ducks) |
+| **Zone 2: Fish** | ₹10,000-20,000 | 50-80 kg tilapia, 2 harvests/year |
 | **Zone 2: Fruit** | ₹6,000-12,000 | 200-400 kg @ ₹30/kg |
+| **Zone 2: Water plants** | ₹1,500-4,000 | Azolla, water spinach, lotus |
 | **Zone 2: Moringa** | ₹1,500-3,000 | Leaves, pods |
 | **Zone 3: Fruit & Grains** | ₹8,750-16,250 | Additional production |
 | **Zone 4: Timber (averaged)** | ₹33,333-1,00,000 | Years 10-30 harvests |
 | **Zone 4: Bamboo** | ₹2,500-5,000 | Annual harvest |
 | **Zone 5: Ecosystem Services** | ₹3,750-10,000 | Pollination + pest control (indirect value) |
-| **TOTAL** | **₹1,39,143-2,46,000** | **Per family per year!** |
+| **TOTAL** | **₹1,64,143-2,87,700** | **Per family per year!** |
 
 ### Return on Investment (Excluding Housing)
 
 **Initial Investment:** ₹83,250-1,33,800 per family
 
-**Annual Returns (Year 5+):** ₹1,35,393-2,36,000 per family
+**Annual Returns (Year 5+):** ₹1,60,393-2,77,700 per family
 
-**ROI:** 101-283% annually (Year 5+)
+**ROI:** 120-333% annually (Year 5+)
 
 **Payback Period:** 0.35-0.99 years = **4-12 months!**
 
@@ -884,8 +903,8 @@ Short connecting paths every 100-150 feet for zone access.
 - [ ] **PRIORITY: Plant windbreaks immediately!** (Northern + Western)
 
 **Quarter 2 (Months 4-6):**
-- [ ] Construct 12-14 cascade swales (hire excavator)
-- [ ] Dig pond in SE corner
+- [ ] Construct 12-14 cascade swales (hire excavator or manual)
+- [ ] Dig Zone 2 production pond (245ft from north, SE corner Zone 2B)
 - [ ] Install main water lines from tubewell
 - [ ] Build primary access road (N-S)
 - [ ] Begin house construction (or 2 houses if phased)
@@ -1162,8 +1181,9 @@ Short connecting paths every 100-150 feet for zone access.
 
 **Activities:**
 - Mark north boundary (Zone 0 location)
-- Walk 110 feet south (Swale 1 location)
-- Walk to southern end (pond location)
+- Walk 110 feet south (Swale 1 location - Zone 1/2 border)
+- Walk to 245 feet south (Zone 2 pond location - duck swimming area)
+- Walk to 700 feet south (Zone 5 wilderness boundary)
 - Identify any features not on plan (trees, rocks, slopes)
 - Discuss where each family's private garden would be
 - Imagine daily life on this land

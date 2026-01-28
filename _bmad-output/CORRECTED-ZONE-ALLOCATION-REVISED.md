@@ -135,18 +135,22 @@ SWALE 1 @ 110 ft
 │                                          │
 ├──────────────────────────────────────────┤
 │                                          │
-│  SUB-ZONE 2B: DUCK FORAGE + POND ACCESS │  } 100 ft
-│  (210-310 ft from north)                 │    (N-S)
-│  209 ft × 100 ft = 20,900 sq ft         │
-│                                          │
-│  - Duck forage zones (2-3 rotation)     │
-│    * Zone 1: Western half               │
-│    * Zone 2: Eastern half               │
-│                                          │
-│  - Duck house: SE area (near pond path) │
-│  - Pathway to pond (continues south)    │
-│  - Food forest trees throughout         │
-│  - Guest room: SE corner (optional)     │
+│  SUB-ZONE 2B: DUCK FORAGE + PRODUCTION POND │  } 100 ft
+│  (210-310 ft from north)                     │    (N-S)
+│  209 ft × 100 ft = 20,900 sq ft             │
+│                                              │
+│  - Duck forage zones (2-3 rotation)         │
+│    * Zone 1: Western half                   │
+│    * Zone 2: Eastern half                   │
+│                                              │
+│  - Duck house: SE area (210-230ft)          │
+│  - PRODUCTION POND: SE corner @ 245ft       │
+│    * 30ft diameter, 5ft deep                │
+│    * 35,000 gallons capacity                │
+│    * 50-100ft from duck house (OPTIMAL)     │
+│    * Ducks, fish, water plants, irrigation  │
+│  - Food forest trees throughout             │
+│  - Guest room: SE corner (optional)         │
 │                                          │
 └──────────────────────────────────────────┘
 SWALE 2 @ 310 ft (MOVED SOUTH)
@@ -186,12 +190,18 @@ DEPTH: 200 feet (N-S) - EXPANDED FROM 50 FT
 - **Footprint:** 16 ft × 16 ft + 100 sq ft veranda
 - **FEASIBILITY:** ✓ NOW POSSIBLE (enough space with 200 ft depth)
 
+**Zone 2 Production Pond (NEW - Option 2):**
+- **Fish:** 50-80 kg tilapia/year (2 harvests) = ₹10,000-20,000
+- **Water plants:** Azolla, water spinach, lotus = ₹1,500-4,000
+- **Irrigation:** 35,000 gallons for Zones 2-3 = ₹5,000-10,000 value
+
 **Annual Production Value (Year 5+):**
 - Eggs: ₹57,600-88,540 ✓
 - Fruit (mature): ₹32,000-125,000 ✓
 - Understory: ₹41,000-82,000 ✓
+- Fish + water plants: ₹11,500-24,000 ✓ (NEW)
 - Compost: ₹13,400-24,000 ✓
-- **TOTAL:** ₹144,000-319,540/year ✓ MATCHES ORIGINAL TARGETS!
+- **TOTAL:** ₹155,500-343,540/year ✓ EXCEEDS ORIGINAL TARGETS!
 
 ---
 
