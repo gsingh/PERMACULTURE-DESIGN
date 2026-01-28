@@ -63,16 +63,22 @@ WEST  ┌───────────────────────�
       ├═════════════════════════════┤
       │  🌊 SWALE 3 @ 455 ft        │  MOVED SOUTH
       ├═════════════════════════════┤
+      │  🌊 POND @ 470 ft           │  ← ZONE 3/4 BORDER
+      ├─────────────────────────────┤
       │                             │
       │  ZONE 4: PERIMETER/TIMBER   │
-      │  (455-836 ft from north)    │  } 381 ft (N-S)
-      │                             │    REDUCED
-      │  Area: 79,629 sq ft         │
-      │  = 1.83 acres               │
+      │  (480-700 ft from north)    │  } 220 ft (N-S)
       │                             │
-      │  🌊 POND (SE Corner)        │
-      │  Location: ~750-800 ft      │
+      │  Area: 45,980 sq ft         │
+      │  = 1.05 acres               │
       │                             │
+      ├═════════════════════════════┤
+      │  ZONE 5: WILDERNESS         │
+      │  (700-836 ft from north)    │  } 136 ft (N-S)
+      │                             │    16% of farm
+      │  Area: 28,424 sq ft         │
+      │  = 0.65 acres               │
+      │  (Seasonal wetland may form)│
       └─────────────────────────────┘
                     SOUTH
                       ↓

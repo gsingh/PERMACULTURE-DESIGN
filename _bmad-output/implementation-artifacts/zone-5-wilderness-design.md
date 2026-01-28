@@ -11,20 +11,21 @@
 
 ## EXECUTIVE SUMMARY
 
-**Zone 5 Location**: Lower zones after swale cascade (southern portions of property)  
+**Zone 5 Location**: Southern end of property (700-836 ft from north boundary)  
 **Primary Function**: Wilderness preservation, wildlife sanctuary, native ecosystem regeneration  
-**Dimensions**: 209 feet (E-W) × Variable depth (N-S) - UPDATED FOR ROTATED PROPERTY  
+**Dimensions**: 209 feet (E-W) × 136 feet (N-S) = 0.65 acres (16% of farm)  
 **Management Approach**: Minimal to ZERO intervention after Year 1 establishment  
-**Integration:** Provides ecosystem services to Zones 1-4, includes pond at southern end
+**Integration:** Provides ecosystem services to Zones 1-4, seasonal wetland may form naturally from swale overflow
 
 **Key Features:**
 - Native forest regeneration (indigenous species only)
 - Wildlife sanctuary (birds, small mammals, insects, amphibians)
 - Observation-only zone (no harvesting, no grazing, no mowing)
-- Wetland buffer around pond (natural ecosystem)
+- Seasonal wetland (if forms naturally from swale overflow - not excavated)
 - Sacred wild space (meditation, reflection, children's exploration)
 - Educational laboratory ("What would nature do without us?")
 - Seed bank (native species conservation)
+- 100% hands-off zone (NO managed interfaces, pathways, or ponds)
 
 **Permaculture Principle Embodied:**
 - **"Fair Share"** - giving back to nature, not taking everything
@@ -91,8 +92,9 @@
 
 **5. Hydrological Services:**
 - Deep-rooted natives improve water infiltration
-- Wetland buffer around pond filters nutrients
+- Seasonal wetland (if forms) provides amphibian habitat
 - Maintains groundwater recharge
+- Final infiltration zone for swale cascade overflow
 - **Value:** Improved water quality, reduced erosion
 
 **6. Carbon Sequestration:**
@@ -575,7 +577,7 @@ The hardest part of Zone 5 is **resisting the urge to intervene**.
 **6. NO Animal Grazing:**
 - ❌ NO goats in Zone 5 (they browse everything)
 - ❌ NO chickens (they scratch, disturb soil)
-- ❌ NO ducks (except pond access - see Managed Interface below)
+- ❌ NO ducks (pond relocated to Zone 3/4 border - ducks don't access Zone 5)
 - **Zone 5 is wildlife's zone, not livestock**
 
 **7. NO Planting After Year 1:**
@@ -591,47 +593,29 @@ The hardest part of Zone 5 is **resisting the urge to intervene**.
 
 ---
 
-### Managed Interface: Ducks & Pond
+### Zone 5 Water Features (If Any)
 
-**Challenge:** Zone 2 ducks need pond access (in Zone 5)  
-**Solution:** Designated Duck Pathway (managed corridor)
+**NOTE:** The main production pond has been relocated to the Zone 3/4 border (470ft from north boundary) to avoid compromising Zone 5 wilderness integrity.
 
-**Duck Pathway Protocol:**
+**Zone 5 Seasonal Wetland (Natural Formation):**
 
-```
-ZONE 2B (Duck Area) - 210-310 ft from north
-         ↓
-    Duck Pathway
-    (310-700 ft along eastern edge - managed corridor)
-         ↓
-ZONE 4 (Perimeter) - 455-700 ft
-         ↓
-    Duck Pathway continues
-    (700-750 ft - enters Zone 5)
-         ↓
-POND (750-820 ft - Zone 5)
-    Ducks access pond daily
-```
+If swale overflow naturally accumulates in Zone 5 (especially during heavy monsoons), a seasonal wetland may form on its own. This is ALLOWED and ENCOURAGED as part of natural succession:
 
-**Duck Pathway in Zone 5 (700-750 ft section):**
+**What to allow:**
+- ✅ Natural water pooling in low spots (don't excavate, don't prevent)
+- ✅ Native wetland plants volunteer (cattails, sedges, reeds)
+- ✅ Amphibians colonize (frogs, toads breed in seasonal pools)
+- ✅ Water birds visit during monsoon season
+- ✅ Wetland dries partially or fully in summer (this is natural)
 
-- **Width:** 4-6 ft (duck-friendly, single-file humans)
-- **Management:** 
-  - Mow 2-4 times/year (keep clear for ducks)
-  - Trim overhanging branches
-  - Maintain clear sight lines (predator safety for ducks)
-- **Boundary:** Subtle fencing or vegetation barrier (guide ducks, don't restrict wildlife)
+**What NOT to do:**
+- ❌ Don't excavate a pond (let nature decide depth/size)
+- ❌ Don't manage vegetation around wetland edges
+- ❌ Don't introduce fish or ducks to Zone 5 wetland
+- ❌ Don't use for irrigation (this is wildlife's water)
+- ❌ Don't create pathways to wetland (observe from distance only)
 
-**Pond Edge (Duck Access Zone):**
-
-- **Managed area:** 15-20 ft radius around duck entry point (southeastern pond edge)
-  - Kept clear of dense vegetation (duck entry/exit)
-  - Mowed 4-6 times/year
-- **Wild area:** Rest of pond perimeter (northern, western edges)
-  - NO management (wetland vegetation grows wild)
-  - Frogs, dragonflies, water birds undisturbed
-
-**Result:** Ducks get pond access, Zone 5 wildness mostly intact
+**Result:** Zone 5 remains 100% wild - no compromises, no managed interfaces, no human production activities
 
 ---
 

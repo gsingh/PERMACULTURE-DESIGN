@@ -238,20 +238,32 @@ Spaced 50-60ft apart
 - **Trees**: Mix of fruit trees (mango, jamun, guava) + nitrogen fixers - ~20-25 trees per swale
 - **Community function**: Families can harvest fruit; each family may "adopt" 2-3 swales
 
-#### Swales 6-12 (Production Zones & Pond Feed)
-- **Locations**: 360ft through 710ft (spaced 50-60ft apart)
+#### Swales 6-8 (Zone 3 Production & Pond Feed)
+- **Locations**: 360ft, 410ft, 460ft (spaced 50ft apart)
 - **Length**: 209 feet each
 - **Purpose**: 
-  - Support Zone 3-4 production (orchard, annual crops)
-  - **Lower swales (10-12) feed into pond** at southern end
-  - Deep water infiltration
-  - Lower maintenance perennial zones
+  - Support Zone 3 production (orchard, annual crops)
+  - **Swales 7-8 feed into pond** at Zone 3/4 border (470ft)
+  - Capture water for pond during heavy rains
 - **Special considerations**:
-  - Lower swales (10-12) have inlet channels directing to pond
-  - Can be shallower in lower zones (more infiltration, less runoff)
+  - Swales 7-8 have inlet channels directing overflow to pond
   - Strategic placement around orchard trees
-- **Trees**: Large canopy species, timber trees, bamboo clusters - ~15-20 trees per swale
-- **Production focus**: Lower maintenance, less frequent access needed
+- **Trees**: Medium canopy fruit trees, nitrogen fixers - ~15-20 trees per swale
+- **Production focus**: Annual crops between swales, fruit trees on berms
+
+#### Swales 9-14 (Zone 4-5 Continuation)
+- **Locations**: 510ft through 760ft (spaced 50-60ft apart)
+- **Length**: 209 feet each
+- **Purpose**: 
+  - Support Zone 4 timber production
+  - Continue cascade infiltration below pond
+  - **Final swales (13-14) may create seasonal wetland in Zone 5**
+- **Special considerations**:
+  - Receive overflow from pond (during heavy monsoons)
+  - Can be shallower (less runoff, more infiltration)
+  - Lower maintenance, less frequent access needed
+- **Trees**: Large canopy species, timber trees (Neem, Shisham) - ~15-20 trees per swale
+- **Production focus**: Timber harvest years 10-30
 
 ### KEY CHANGES FROM ORIGINAL PLAN (FOR ROTATED PROPERTY):
 
@@ -260,7 +272,7 @@ Spaced 50-60ft apart
 - ✅ **Swale length**: Now 209 feet (shorter) vs 836 feet (much easier to construct!)
 - ✅ **Number of swales**: Increased from 3-4 swales to 12-14 swales (cascade system)
 - ✅ **Spacing**: 50-60 feet apart down the long property
-- ✅ **Pond location**: Moved to southern end (vs SE corner)
+- ✅ **Pond location**: Zone 3/4 border at 470ft (vs southern end originally)
 - ✅ **Access**: Easier E-W access across narrow width
 
 **Why This Works Better:**

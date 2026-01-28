@@ -113,7 +113,7 @@ Based on the zone allocation for Cluster Village (Option 1):
 
 ### Pond Specifications
 
-**Location:** Southern end, approximately 770-820 ft from north boundary
+**Location:** Zone 3/4 border, approximately 470 ft from north boundary (between Swale 8 and Swale 9)
 
 **Dimensions:**
 - **Diameter at top:** 40-50 feet (circular or oval)
@@ -124,16 +124,48 @@ Based on the zone allocation for Cluster Village (Option 1):
 - **Volume:** 100,000-130,000 gallons (target: 115,000 gallons)
 
 **Pond Design Features:**
-1. **Shallow edge (North side):** 1-2 ft deep, 8-10 ft wide - wildlife drinking area, duck access
-2. **Deep center:** 6-8 ft - prevents total evaporation in summer, allows fish
-3. **Overflow channel:** 6-inch deep spillway on south/east side leading safely off property
-4. **Inlet channel:** Connects from Swale 12-14 (water flows into pond during heavy rain)
-5. **Access ramp:** Gentle slope on one side for maintenance/pump access
+1. **Shallow edge (North side):** 1-2 ft deep, 8-10 ft wide - managed area for duck access, fishing platform
+2. **Deep center:** 6-8 ft - prevents total evaporation in summer, allows fish farming
+3. **South edge (semi-wild):** Gradual slope, native wetland plants, wildlife corridor
+4. **Overflow channel:** 6-inch deep spillway on south side leading to Swale 9, then continues cascade
+5. **Inlet channel:** Connects from Swale 7-8 overflow (water flows into pond during heavy rain)
+6. **Access ramp:** Gentle slope on north side for duck access and maintenance/pump access
 
 **Soil Management:**
 - Excavated soil creates berm AROUND pond (3-4 ft high)
 - Use clay-heavy soil to line pond bottom (if available) for water retention
 - Surplus soil used to build up berms on other swales
+
+**Pond Management Philosophy:**
+
+This pond location at the Zone 3/4 border represents a **compromise between intensive production and wilderness**:
+
+**North Side (Managed - toward Zones 2-3):**
+- Duck access from Zone 2 (260-300ft pathway along eastern edge)
+- Fishing platform for occasional harvest (tilapia, local species)
+- Water plant cultivation (azolla for duck food, limited lotus)
+- Irrigation pump access for Zones 3-4 during dry season
+- Maintained clearing around access area (mowed 2-4 times/year)
+
+**South Side (Semi-Wild - toward Zones 4-5):**
+- Native wetland plants allowed to establish naturally
+- Wildlife corridor (frogs, dragonflies, water birds)
+- Minimal human disturbance (observation only)
+- Natural vegetation on pond edges (unmowed)
+
+**This dual approach:**
+- ✅ Allows duck integration without daily long-distance walks (260ft vs 500ft)
+- ✅ Permits limited fish farming (sustainable harvest, not intensive)
+- ✅ Protects Zone 5 wilderness integrity (no managed interfaces needed)
+- ✅ Creates transition zone teaching opportunity (gradient from managed to wild)
+- ✅ Still provides water storage and irrigation for productive zones
+
+**Duck Pathway Details:**
+- Route: Zone 2 duck house (210ft) → along eastern property edge → pond (470ft)
+- Distance: 260-300ft (moderate, manageable for daily duck walks)
+- Width: 4-6ft (wide enough for ducks + 1-2 people to walk)
+- Maintenance: Mow/clear 3-4 times/year, keep predator sight lines open
+- Protection: Consider low fencing or dense plantings on western side (guide ducks, deter predators)
 
 ### Water Flow System
 
@@ -146,13 +178,13 @@ MONSOON RAIN (450-600mm/year)
         ↓ (Runoff flows south)
    ═══ SWALE 1 (110ft) ═══  ← Captures first flush
         ↓ (Overflow)
-   ═══ SWALE 2 (160ft) ═══
-        ↓ (Overflow)
-   ═══ SWALE 3-11 ═══  ← Cascade system
-        ↓ (Overflow from Swale 11-12)
-      [POND] (770-820ft)
+   ═══ SWALE 2-7 ═══  ← Cascade through Zones 2-3
+        ↓ (Overflow from Swale 7-8)
+      [POND] (470ft - Zone 3/4 border)
         ↓ (Overflow from pond)
-    Safe discharge off property (south boundary)
+   ═══ SWALE 9-14 ═══  ← Continues cascade to Zone 4-5
+        ↓ (Final overflow)
+    Safe discharge off property (south boundary) or Zone 5 seasonal wetland
 ```
 
 **Key Principles:**
