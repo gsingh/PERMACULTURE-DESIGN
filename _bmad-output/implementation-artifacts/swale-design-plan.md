@@ -20,7 +20,7 @@
 | **Spacing** | 50ft apart across 209ft width | **50-60ft apart down 836ft length** | Cascade system |
 | **Total Capacity** | ~152,000 gallons | **~115,000 gallons** | ⬇️ Slightly less |
 | **Total Trees** | 160-200 trees | **120-168 trees** | Similar total |
-| **Pond Location** | SE corner | **Southern end** | Different approach |
+| **Pond Location** | SE corner | **Zone 2B (245ft)** | Integrated with duck house |
 
 ### **Key Advantages of New Design:**
 1. ✅ **Shorter swales = much easier to dig and keep level** (209ft vs 836ft each)
@@ -46,7 +46,7 @@ This document has been **REVISED** to integrate swale placement with the **Clust
 2. **Zone 1 Gardens** (private strips): Immediately south of houses
 3. **Shared Zone 1** (communal gardens): South of private strips
 4. **Swale System**: Begins south of intensive gardens, protects housing from runoff
-5. **Pond Location**: Southeast corner (unchanged, actually enhanced by housing placement)
+5. **Pond Location**: Zone 2B SE corner at 245ft (Option 2 - integrated production pond for ducks/fish)
 
 ---
 
@@ -68,7 +68,7 @@ This document has been **REVISED** to integrate swale placement with the **Clust
 4. **First swale positioned to capture runoff from housing/garden area**
 5. **CRITICAL CHANGE:** Swales are now SHORTER (209ft vs 836ft) but property is DEEPER (836ft vs 209ft)
 6. Swales protect gardens and prevent water logging near houses
-7. Pond placement (southern end) receives water from swale system + benefits from housing microclimate
+7. Pond placement (Zone 2B at 245ft) receives water from Swale 4 overflow + integrated with duck housing for optimal animal welfare
 
 ---
 
@@ -238,30 +238,57 @@ Spaced 50-60ft apart
 - **Trees**: Mix of fruit trees (mango, jamun, guava) + nitrogen fixers - ~20-25 trees per swale
 - **Community function**: Families can harvest fruit; each family may "adopt" 2-3 swales
 
-#### Swales 6-8 (Zone 3 Production & Pond Feed)
+#### Swale 4 (Zone 2 Pond Inlet)
+- **Location**: 260ft from north
+- **Length**: 209 feet
+- **Purpose**: 
+  - Support Zone 2 food forest
+  - **PRIMARY: Feeds Zone 2 production pond** (245ft, SE corner)
+  - Critical for pond water supply during monsoons
+- **Special considerations**:
+  - **Inlet channel** from Swale 4 overflow to pond (15ft channel, 6" deep)
+  - Must maintain clear flow path to pond
+  - Higher maintenance priority (pond water supply depends on this)
+- **Trees**: Food forest species, nitrogen fixers - ~15-20 trees per swale
+- **Production focus**: Fruit trees, integrated with duck forage area
+
+#### Swale 5 (Zone 2/3 Border - Pond Outlet)
+- **Location**: 310ft from north
+- **Length**: 209 feet
+- **Purpose**: 
+  - **Receives overflow from Zone 2 pond** (245ft)
+  - Continues cascade to Zones 3-4
+  - Prevents pond overflow from flooding Zone 2
+- **Special considerations**:
+  - **Outlet channel** from pond to Swale 5 (65ft channel, 6" deep)
+  - Must handle large overflow volumes during heavy monsoons
+  - Slightly wider/deeper than other swales (4-5ft wide, 2-2.5ft deep)
+- **Trees**: Transition species (fruit + timber mix) - ~15-20 trees per swale
+- **Production focus**: Orchards on berms, annual crops between swales
+
+#### Swales 6-8 (Zone 3 Production)
 - **Locations**: 360ft, 410ft, 460ft (spaced 50ft apart)
 - **Length**: 209 feet each
 - **Purpose**: 
-  - Support Zone 3 production (orchard, annual crops)
-  - **Swales 7-8 feed into pond** at Zone 3/4 border (470ft)
-  - Capture water for pond during heavy rains
+  - Support Zone 3 production (orchards, annual crops)
+  - Continue cascade from Zone 2 pond overflow
 - **Special considerations**:
-  - Swales 7-8 have inlet channels directing overflow to pond
   - Strategic placement around orchard trees
+  - Standard swale dimensions (3-4ft wide, 1.5-2ft deep)
 - **Trees**: Medium canopy fruit trees, nitrogen fixers - ~15-20 trees per swale
 - **Production focus**: Annual crops between swales, fruit trees on berms
 
-#### Swales 9-14 (Zone 4-5 Continuation)
+#### Swales 9-14 (Zone 4-5 Cascade & Wetland)
 - **Locations**: 510ft through 760ft (spaced 50-60ft apart)
 - **Length**: 209 feet each
 - **Purpose**: 
   - Support Zone 4 timber production
-  - Continue cascade infiltration below pond
-  - **Final swales (13-14) may create seasonal wetland in Zone 5**
+  - Continue cascade infiltration through lower zones
+  - **Final swales (13-14) may create Zone 5 seasonal wetland naturally**
 - **Special considerations**:
-  - Receive overflow from pond (during heavy monsoons)
-  - Can be shallower (less runoff, more infiltration)
+  - Can be shallower (less runoff this far down, more infiltration)
   - Lower maintenance, less frequent access needed
+  - Swales 13-14 overflow creates natural wetland (NOT excavated)
 - **Trees**: Large canopy species, timber trees (Neem, Shisham) - ~15-20 trees per swale
 - **Production focus**: Timber harvest years 10-30
 
@@ -272,7 +299,7 @@ Spaced 50-60ft apart
 - ✅ **Swale length**: Now 209 feet (shorter) vs 836 feet (much easier to construct!)
 - ✅ **Number of swales**: Increased from 3-4 swales to 12-14 swales (cascade system)
 - ✅ **Spacing**: 50-60 feet apart down the long property
-- ✅ **Pond location**: Zone 3/4 border at 470ft (vs southern end originally)
+- ✅ **Pond location**: Zone 2B SE corner at 245ft (vs Zone 5 southern end originally)
 - ✅ **Access**: Easier E-W access across narrow width
 
 **Why This Works Better:**
@@ -307,17 +334,26 @@ Spaced 50-60ft apart
   - Post-monsoon: Clear spillways, check infiltration
 - **Labor**: Rotate monthly among families (4-6 hours/quarter)
 
-**Swale 2 Maintenance:**
-- **Primary responsibility**: Families 1 & 2 (nearest location)
+**Swale 2-3 Maintenance:**
+- **Primary responsibility**: All 4 families (shared Zone 2 food forest)
 - **Tasks**: 
-  - Tree harvesting (fruit belongs to maintainers)
-  - Inlet channel to pond maintenance
+  - Tree harvesting (fruit shared equally)
+  - General maintenance
   - Spillway management
-- **Labor**: 6-8 hours/quarter
-- **Benefit**: First access to fruit from these trees
+- **Labor**: 4-6 hours/quarter per family (rotated)
 
-**Swale 3 Maintenance:**
-- **Primary responsibility**: Families 3 & 4 (nearest to SE pond)
+**Swale 4 Maintenance (CRITICAL - Pond Inlet):**
+- **Primary responsibility**: All 4 families (pond water supply for everyone)
+- **Tasks**: 
+  - **PRIORITY: Inlet channel to pond** - keep clear of debris
+  - Check overflow capacity before monsoon
+  - Spillway management
+  - Tree harvesting (shared)
+- **Labor**: 6-8 hours/quarter
+- **Importance**: HIGH - Pond water supply depends on this swale
+
+**Swale 5 Maintenance (CRITICAL - Pond Outlet):**
+- **Primary responsibility**: All 4 families (prevents pond overflow flooding)
 - **Tasks**:
   - Main pond inlet management (critical!)
   - Mature tree maintenance
@@ -1203,22 +1239,25 @@ Given your linear layout, adapt zones along N-S axis:
 ## NEXT STEPS
 
 1. ✅ Review this integrated swale + pond plan
-2. ⬜ Decide on pond location (Option 1, 2, or 3)
+2. ✅ Pond location decided: **Option 2 - Zone 2B production pond (245ft)**
 3. ⬜ Get professional contour survey for both swales and pond
 4. ⬜ Select tree species based on local climate/availability
-5. ⬜ Choose pond sealing method (natural, bentonite, or liner)
-6. ⬜ Schedule earthworks for dry season (swales first, then pond)
+5. ⬜ Choose pond sealing method (natural clay or bentonite)
+6. ⬜ Schedule earthworks for dry season (Oct-March ideal)
+   - Swales 1-7 + Zone 2 pond (Year 1 priority)
+   - Optional: Swales 8-12 (Year 2)
 7. ⬜ Source saplings (order 2-3 months before planting)
 8. ⬜ Prepare soil amendments
-9. ⬜ Plan duck/geese housing infrastructure
-10. ⬜ Source initial birds and aquatic plants
-11. ⬜ Begin implementation following monsoon schedule
+9. ⬜ Build duck house 50-100ft from Zone 2 pond (optimal distance)
+10. ⬜ Source ducks (12-15 Khaki Campbell), fish fingerlings (100 tilapia), water plants (azolla, water spinach)
+11. ⬜ Begin implementation following Phase 1 Earthworks plan
 
 ---
 
 **Document Created**: January 1, 2026  
-**Version**: 2.0 (Integrated Swale + Pond + Aquaculture System)  
-**Site**: 4 Acre x 1 Acre - East-West Oriented Land
+**Last Updated**: January 26, 2026
+**Version**: 3.0 (Option 2: Zone 2 Production Pond + Cascade Swale System)  
+**Site**: 1 Acre x 4 Acre (209ft × 836ft) - North-South Oriented Property
 
 ---
 
