@@ -19,7 +19,7 @@
 #   - skipped: Optional/conditional workflow that was skipped
 
 generated: "2026-01-19"
-updated: "2026-01-28"
+updated: "2026-01-31"
 project: "Permaculture-design"
 project_type: "permaculture-farm"
 project_level: "comprehensive"
@@ -66,6 +66,7 @@ workflow_status:
   # PHASE 4: DETAILED SYSTEM DESIGN
   # ============================================
   plant-guilds-design: "_bmad-output/implementation-artifacts/zone-2-3-plant-guilds-design.md"  # ✅ COMPLETED - 8 guild types, 40+ species
+  flowering-nursery-design: "_bmad-output/implementation-artifacts/flowering-plant-nursery-design.md"  # ✅ COMPLETED - Commercial nursery (Phase 1 & 2)
   seed-nursery-plan: "optional"
   composting-system: "recommended"  # Critical for 4-family operation
   energy-systems: "optional"  # Solar, biogas consideration
@@ -75,6 +76,9 @@ workflow_status:
   # PHASE 5: COMMUNITY COORDINATION (4-FAMILY)
   # ============================================
   family-agreements: "_bmad-output/implementation-artifacts/family-agreements-template.md"  # ✅ COMPLETED - Template ready for families to customize
+  consultant-briefing: "_bmad-output/CONSULTANT-BRIEFING-DOCUMENT.md"  # ✅ COMPLETED - 120 pages for agricultural expert review
+  family-review-package: "_bmad-output/FAMILY-REVIEW-PACKAGE.md"  # ✅ COMPLETED - English version
+  family-review-package-odia: "_bmad-output/FAMILY-REVIEW-PACKAGE-ODIA.md"  # ✅ COMPLETED - Odia translation
   labor-sharing-protocol: "required"  # Essential for community success (covered in family agreements)
   financial-tracking: "required"  # Shared budgeting system (covered in family agreements)
   resource-sharing: "recommended"  # Tool library, egg distribution, etc. (covered in family agreements)
@@ -82,7 +86,8 @@ workflow_status:
   # ============================================
   # PHASE 6: IMPLEMENTATION PLANNING
   # ============================================
-  phase-1-earthworks: "required"  # Swale/pond construction planning
+  phase-1-earthworks: "_bmad-output/implementation-artifacts/phase-1-earthworks-implementation-plan.md"  # ✅ COMPLETED - Construction-ready plan
+  pond-relocation-decision: "_bmad-output/POND-RELOCATION-SUMMARY-OPTION-2.md"  # ✅ COMPLETED - Zone 5 → Zone 2B documented
   phase-2-infrastructure: "required"  # Housing, animal infrastructure
   phase-3-planting: "required"  # Tree planting schedules
   phase-4-animal-introduction: "required"  # Animal purchase & introduction
@@ -121,18 +126,19 @@ metadata:
     - "Swale 2: 160 ft from north"
     - "Swale 3-12: Every 50-60ft down property (cascade)"
   swale_length: "209 feet each (shorter but more swales)"
-  pond_location: "Southern end (not SE corner) at ~770-820ft from north"
+  pond_location: "Zone 2B production pond at 245 ft from north (SE corner) - RELOCATED from Zone 5"
+  pond_relocation_reason: "Zone 5 requires zero management, but pond needs daily duck access and fish farming - fundamental contradiction resolved"
   windbreak: 
     - "Northern: 209ft length (SHORTER - ~40 plants)"
     - "Western: 836ft length (LONGER - ~350 plants) - PRIMARY windbreak"
   
   # Zones defined - UPDATED:
-  zone_0: "Houses (4 families, 2×2 cluster arrangement with central hub)"
+  zone_0: "Houses (4 families, 2×2 cluster arrangement with central hub) - 0.19 acres (0-40 ft from north)"
   zone_1: "Kitchen gardens (40-110 ft) - 0.34 acres total: Private strips (52×30ft each) + Shared garden (209×40ft). Production: 1,500 kg/family/year. Investment: ₹21,500-31,550 per family Year 1."
-  zone_2: "Food forest + Animals (110-310 ft) - REDUCED to 0.24 acres, 12-15 chickens, 8-10 ducks"
-  zone_3: "Annual crops + Orchards (310-455 ft) - REDUCED to 0.16 acres"
-  zone_4: "Perimeter/Timber (455-836 ft) - REDUCED to 0.26 acres (~79 trees vs 316)"
-  zone_5: "Distributed along lower zones and southern end"
+  zone_2: "Food forest + Animals (110-310 ft) - 0.96 acres, 110-140 trees, 20-25 chickens, 12-15 ducks, Production Pond at 245 ft (30 ft diameter, 35,000 gallons)"
+  zone_3: "Annual crops + Orchards (310-455 ft) - 0.70 acres (40-50 fruit trees, 0.29 acres annual crops, 32-40 biomass trees)"
+  zone_4: "Perimeter/Timber (455-700 ft) - 1.05 acres, 200-250 trees (eucalyptus, poplar, teak, bamboo)"
+  zone_5: "Wilderness (700-836 ft) - 0.65 acres, seasonal wetland (natural formation), ZERO management"
   
   # Key changes summary:
   rotation_impact:
@@ -145,38 +151,39 @@ metadata:
 
 # Next steps (automatically determined)
 next_workflow:
-  id: "phase-1-earthworks"
-  name: "Phase 1 Earthworks Implementation Plan"
+  id: "phase-2-infrastructure"
+  name: "Phase 2 Infrastructure Implementation Plan"
   agent: "architect"
   status: "required"
-  note: "NOW READY - Family agreements template done, can begin implementation planning"
+  note: "Phase 1 earthworks complete. Next: Housing, animal coops, fencing, irrigation installation."
   
 suggested_next:
-  primary: "Create Phase 1 earthworks implementation plan (phase-1-earthworks) - swale & pond construction"
-  secondary: "Design plant guilds for Zones 2-3 (plant-guilds-design)"
-  tertiary: "Create labor-sharing protocol details (labor-sharing-protocol)"
-  note: "MAJOR MILESTONE - 50% complete! Family agreements template ready. Next: Implementation planning."
+  primary: "Create Phase 2 infrastructure implementation plan (phase-2-infrastructure) - housing, coops, fencing"
+  secondary: "Create Phase 3 planting plan (phase-3-planting) - tree species, timing, care protocols"
+  tertiary: "Create composting system design (composting-system) - critical for 4-family operation"
+  note: "MAJOR MILESTONE - 63% complete! All communication docs ready. Consultant briefing ready for expert review. Next: Continue implementation planning."
 
 # Progress summary - UPDATED
 progress:
-  total_workflows: 38
-  completed: 20
+  total_workflows: 40
+  completed: 25
   updated_for_rotation: 15
   in_progress: 0
-  pending_required: 11
-  pending_recommended: 8
-  pending_optional: 10
-  completion_percentage: "53%"
+  pending_required: 8
+  pending_recommended: 7
+  pending_optional: 9
+  completion_percentage: "63%"
   
-  current_phase: "Phase 5: Community Coordination - STARTED!"
+  current_phase: "Phase 6: Implementation Planning - IN PROGRESS"
   phases_completed: 
     - "Phase 2: Master Planning (100%)"
     - "Phase 3: Zone Planning (100%)"
+    - "Phase 4: Detailed System Design (50% - Plant guilds + Nursery design completed)"
+    - "Phase 5: Community Coordination (100% - All communication docs completed)"
     - "Property Rotation Update (100%)"
   phases_in_progress:
     - "Phase 1: Site Analysis (33%)"
-    - "Phase 4: Detailed System Design (20% - Plant guilds completed)"
-    - "Phase 5: Community Coordination (25% - Family agreements template completed)"
+    - "Phase 6: Implementation Planning (25% - Phase 1 earthworks completed)"
   
   major_updates_completed:
     - "Swale design updated (3 → 12-14 swales)"
@@ -196,3 +203,8 @@ progress:
     - "Family agreements template CREATED (comprehensive 12-section governance)"
     - "Odia translations created (family package + Zone 0)"
     - "Plant guilds design COMPLETED (8 guild types, 40+ species, Zones 2-3)"
+    - "Consultant briefing document CREATED (120 pages, expert-ready)"
+    - "Flowering plant nursery design COMPLETED (commercial + beautification, Phase 1 & 2)"
+    - "Phase 1 earthworks plan COMPLETED (construction-ready, contractor specs)"
+    - "Pond relocation DOCUMENTED (Zone 5 → Zone 2B at 245 ft, critical decision)"
+    - "Family review packages COMPLETED (English + Odia, comprehensive overview)"
