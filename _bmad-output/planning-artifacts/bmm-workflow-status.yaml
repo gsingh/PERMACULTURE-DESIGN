@@ -88,7 +88,7 @@ workflow_status:
   # ============================================
   phase-1-earthworks: "_bmad-output/implementation-artifacts/phase-1-earthworks-implementation-plan.md"  # ✅ COMPLETED - Construction-ready plan
   pond-relocation-decision: "_bmad-output/POND-RELOCATION-SUMMARY-OPTION-2.md"  # ✅ COMPLETED - Zone 5 → Zone 2B documented
-  phase-2-infrastructure: "required"  # Housing, animal infrastructure
+  phase-2-infrastructure: "_bmad-output/implementation-artifacts/phase-2-infrastructure-implementation-plan.md"  # ✅ COMPLETED - Housing, animals, irrigation, utilities
   phase-3-planting: "required"  # Tree planting schedules
   phase-4-animal-introduction: "required"  # Animal purchase & introduction
   
@@ -151,28 +151,28 @@ metadata:
 
 # Next steps (automatically determined)
 next_workflow:
-  id: "phase-2-infrastructure"
-  name: "Phase 2 Infrastructure Implementation Plan"
+  id: "phase-3-planting"
+  name: "Phase 3 Tree Planting Implementation Plan"
   agent: "architect"
   status: "required"
-  note: "Phase 1 earthworks complete. Next: Housing, animal coops, fencing, irrigation installation."
+  note: "Phase 1-2 complete. Next: Tree planting schedules, species procurement, care protocols for 562-760 trees."
   
 suggested_next:
-  primary: "Create Phase 2 infrastructure implementation plan (phase-2-infrastructure) - housing, coops, fencing"
-  secondary: "Create Phase 3 planting plan (phase-3-planting) - tree species, timing, care protocols"
+  primary: "Create Phase 3 tree planting plan (phase-3-planting) - species, timing, spacing, establishment care"
+  secondary: "Create Phase 4 animal introduction plan (phase-4-animal-introduction) - purchase, acclimation, management"
   tertiary: "Create composting system design (composting-system) - critical for 4-family operation"
-  note: "MAJOR MILESTONE - 63% complete! All communication docs ready. Consultant briefing ready for expert review. Next: Continue implementation planning."
+  note: "MAJOR MILESTONE - 65% complete! Phase 1-2 implementation plans ready. Next: Phase 3 planting (monsoon readiness), then Phase 4 animals."
 
 # Progress summary - UPDATED
 progress:
   total_workflows: 40
-  completed: 25
+  completed: 26
   updated_for_rotation: 15
   in_progress: 0
-  pending_required: 8
+  pending_required: 7
   pending_recommended: 7
   pending_optional: 9
-  completion_percentage: "63%"
+  completion_percentage: "65%"
   
   current_phase: "Phase 6: Implementation Planning - IN PROGRESS"
   phases_completed: 
@@ -183,7 +183,7 @@ progress:
     - "Property Rotation Update (100%)"
   phases_in_progress:
     - "Phase 1: Site Analysis (33%)"
-    - "Phase 6: Implementation Planning (25% - Phase 1 earthworks completed)"
+    - "Phase 6: Implementation Planning (50% - Phase 1 & 2 completed, Phase 3-4 remaining)"
   
   major_updates_completed:
     - "Swale design updated (3 → 12-14 swales)"
@@ -208,3 +208,4 @@ progress:
     - "Phase 1 earthworks plan COMPLETED (construction-ready, contractor specs)"
     - "Pond relocation DOCUMENTED (Zone 5 → Zone 2B at 245 ft, critical decision)"
     - "Family review packages COMPLETED (English + Odia, comprehensive overview)"
+    - "Phase 2 infrastructure plan COMPLETED (2,063 lines - housing, animals, irrigation, utilities)"
