@@ -20,7 +20,7 @@ This document provides a comprehensive overview of a **permaculture-based agricu
 - **Climate:** Semi-arid subtropical (40°C+ summers, 5-10°C winters, 450-600mm monsoon)
 - **Soil:** Alkaline (pH 7.5-8.5), recovering from chemical farming legacy
 - **Water:** 1 tubewell with electricity backup
-- **Goals:** Food security, economic viability, ecological regeneration, community resilience
+- **Goals:** Food security, economic viability, ecological regeneration, community resilienceexport
 
 **Current Project Status:**
 - **Design Phase:** 53% complete (20 of 38 workflows)
