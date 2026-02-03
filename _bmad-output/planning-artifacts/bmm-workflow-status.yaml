@@ -89,7 +89,7 @@ workflow_status:
   phase-1-earthworks: "_bmad-output/implementation-artifacts/phase-1-earthworks-implementation-plan.md"  # ✅ COMPLETED - Construction-ready plan
   pond-relocation-decision: "_bmad-output/POND-RELOCATION-SUMMARY-OPTION-2.md"  # ✅ COMPLETED - Zone 5 → Zone 2B documented
   phase-2-infrastructure: "_bmad-output/implementation-artifacts/phase-2-infrastructure-implementation-plan.md"  # ✅ COMPLETED - Housing, animals, irrigation, utilities
-  phase-3-planting: "required"  # Tree planting schedules
+  phase-3-planting: "_bmad-output/implementation-artifacts/phase-3-tree-planting-implementation-plan.md"  # ✅ COMPLETED - 562-760 trees, monsoon strategy
   phase-4-animal-introduction: "required"  # Animal purchase & introduction
   
   # ============================================
@@ -151,28 +151,28 @@ metadata:
 
 # Next steps (automatically determined)
 next_workflow:
-  id: "phase-3-planting"
-  name: "Phase 3 Tree Planting Implementation Plan"
+  id: "phase-4-animal-introduction"
+  name: "Phase 4 Animal Introduction Implementation Plan"
   agent: "architect"
   status: "required"
-  note: "Phase 1-2 complete. Next: Tree planting schedules, species procurement, care protocols for 562-760 trees."
+  note: "Phase 1-3 complete. Next: Animal purchase, acclimation, daily management protocols for chickens, ducks, fish."
   
 suggested_next:
-  primary: "Create Phase 3 tree planting plan (phase-3-planting) - species, timing, spacing, establishment care"
-  secondary: "Create Phase 4 animal introduction plan (phase-4-animal-introduction) - purchase, acclimation, management"
-  tertiary: "Create composting system design (composting-system) - critical for 4-family operation"
-  note: "MAJOR MILESTONE - 65% complete! Phase 1-2 implementation plans ready. Next: Phase 3 planting (monsoon readiness), then Phase 4 animals."
+  primary: "Create Phase 4 animal introduction plan (phase-4-animal-introduction) - chickens, ducks, fish purchase & management"
+  secondary: "Create composting system design (composting-system) - 3-bay system for 10-15 cu yd/year production"
+  tertiary: "Create sprint planning framework (sprint-planning) - break implementation into manageable sprints"
+  note: "MAJOR MILESTONE - 68% complete! All major implementation plans ready (Phases 1-3). Next: Complete Phase 4 animals, then move to execution phase."
 
 # Progress summary - UPDATED
 progress:
   total_workflows: 40
-  completed: 26
+  completed: 27
   updated_for_rotation: 15
   in_progress: 0
-  pending_required: 7
+  pending_required: 6
   pending_recommended: 7
   pending_optional: 9
-  completion_percentage: "65%"
+  completion_percentage: "68%"
   
   current_phase: "Phase 6: Implementation Planning - IN PROGRESS"
   phases_completed: 
@@ -183,7 +183,7 @@ progress:
     - "Property Rotation Update (100%)"
   phases_in_progress:
     - "Phase 1: Site Analysis (33%)"
-    - "Phase 6: Implementation Planning (50% - Phase 1 & 2 completed, Phase 3-4 remaining)"
+    - "Phase 6: Implementation Planning (75% - Phase 1-3 completed, Phase 4 remaining)"
   
   major_updates_completed:
     - "Swale design updated (3 → 12-14 swales)"
@@ -209,3 +209,5 @@ progress:
     - "Pond relocation DOCUMENTED (Zone 5 → Zone 2B at 245 ft, critical decision)"
     - "Family review packages COMPLETED (English + Odia, comprehensive overview)"
     - "Phase 2 infrastructure plan COMPLETED (2,063 lines - housing, animals, irrigation, utilities)"
+    - "CEB water resistance guide CREATED (1,537 lines - critical technical specs for monsoon climate)"
+    - "Phase 3 tree planting plan COMPLETED (1,711 lines - 562-760 trees, monsoon planting strategy)"
