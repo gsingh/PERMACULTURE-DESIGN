@@ -180,35 +180,82 @@ Monday: Next sprint kickoff
 
 ---
 
-#### **Sprint 9-10: Windbreak Planting & Fire Breaks** (4 weeks | June-July)
+#### **Sprint 9: Northern Windbreak Planting (CRITICAL - BEFORE HOUSE CONSTRUCTION)** (2 weeks | June-July)
 - **Goals:**
-  - Plant northern windbreak (209ft, ~40 plants)
-  - Plant western windbreak (836ft, ~350 plants)
-  - Create fire breaks around perimeter
-  - Mulch all windbreak trees
+  - Plant northern windbreak (209ft, ~40 plants) - 3-layer system
+  - CRITICAL: This determines house placement at 65-80ft from north
+  - Must be completed BEFORE house construction begins
+  - Mulch all trees heavily for establishment
 
 - **Team:**
   - Nursery delivery: 1 day
-  - All 4 families: Planting rotation (10 days each)
+  - All 4 families: Planting together (ceremonial first planting!)
   - 2 laborers: Mulching, watering
 
-- **Budget:** ₹35,000-45,000
-  - Trees (390 total): ₹20,000-25,000
-  - Mulch: ₹8,000-12,000
-  - Irrigation support: ₹7,000-8,000
+- **Budget:** ₹3,400-5,700
+  - Trees (40 total): ₹2,400-4,700
+    - 8 tall (Neem, Shisham): ₹600-1,200
+    - 11 medium (Ber, Guava): ₹800-1,500
+    - 21 shrubs (Karonda, Pomegranate): ₹1,000-2,000
+  - Mulch: ₹600-800
+  - Irrigation/watering: ₹400-200
 
 - **Deliverables:**
-  - 390 windbreak trees planted (20ft spacing)
+  - 40 windbreak plants installed (3 rows):
+    - Row 1: 8 tall trees (8m from boundary)
+    - Row 2: 11 medium trees (16m from boundary)
+    - Row 3: 21 shrubs (20m/65ft from boundary)
   - Mulch circles 3ft diameter each tree
-  - Fire break cleared 20ft wide
-  - Drip irrigation installed (critical for establishment)
+  - Protected microclimate zone established at 65-80ft
+  - House positions confirmed BEHIND windbreak
+
+- **Quality Checks:**
+  - Tree spacing verified (8m, 6m, 3m by layer)
+  - Planting depth correct (crown at grade)
+  - Mulch 4-6 inches deep, not touching trunks
+  - All families celebrate first tree planting together!
+  - House cluster locations marked at 65-80ft from north
+
+- **WHY CRITICAL:** This windbreak creates the protected zone where houses will be built. Must be planted FIRST (Month 1) before any construction begins. Trees need immediate establishment during monsoon.
+
+---
+
+#### **Sprint 10: Western Windbreak Phase 1 + Fire Breaks** (2 weeks | July)
+- **Goals:**
+  - Plant Western Windbreak Phase 1: 0-300ft from north (Zone 0-1 protection)
+  - PRIORITY: Protect housing construction site + kitchen gardens
+  - Create fire breaks around perimeter
+  - Install irrigation for new windbreak section
+
+- **Team:**
+  - Nursery delivery: 1 day
+  - All 4 families: Planting rotation (8 days each)
+  - 2 laborers: Mulching, watering, fire break clearing
+
+- **Budget:** ₹9,000-14,300
+  - Trees (125 Phase 1): ₹7,500-12,500
+  - Mulch: ₹1,000-1,300
+  - Fire break: ₹500-500
+
+- **Deliverables:**
+  - 125 windbreak trees planted (western boundary, 0-300ft section)
+  - 3-layer system matching northern windbreak
+  - Mulch circles on all new plantings
+  - Fire break cleared 20ft wide around perimeter
+  - Drip irrigation installed for Phase 1 section
 
 - **Quality Checks:**
   - Tree spacing verified
-  - Planting depth correct (crown at grade)
+  - Planting depth correct
   - Mulch not touching trunks
-  - Irrigation reaches all trees
+  - Irrigation reaches all new trees
   - Fire break cleared to mineral soil
+  - Zone 0-1 protection coverage confirmed
+
+- **PHASING NOTE:** Western windbreak installed in 3 phases over 3 years to manage costs and labor:
+  - **Phase 1 (Year 1, Sprint 10):** 0-300ft - Protects houses + Zone 1 - ₹7.5k-12.5k
+  - **Phase 2 (Year 2, Sprint 36):** 300-600ft - Protects Zone 2-3 - ₹7.5k-12.5k
+  - **Phase 3 (Year 3, Sprint 62):** 600-836ft - Protects Zone 4-5 - ₹5.8k-9.7k
 
 ---
 
@@ -609,6 +656,154 @@ Monday: Next sprint kickoff
   - Fish growth visible (size monitoring)
   - Animal health: No major issues
   - Family workload balanced (2-3 hrs/day per family)
+
+---
+
+## 📅 YEAR 2 SPRINT CALENDAR (Maintenance + Western WB Phase 2)
+
+### Year 2 Overview
+**Focus:** System establishment, crop expansion, Western Windbreak Phase 2  
+**Sprints:** 37-62 (26 sprints)  
+**Budget:** ₹2,50,000-4,00,000 total
+
+---
+
+#### **Sprint 37 (June Year 2): Western Windbreak Phase 2 Installation**
+- **Goals:**
+  - Plant Western WB Phase 2: 300-600ft from north (Zone 2-3 protection)
+  - PRIORITY: Protect food forest, pond, and annual crops
+  - 3-layer system (tall, medium, shrub)
+  - Mulch and establish irrigation
+
+- **Team:**
+  - Nursery delivery: 1 day
+  - All 4 families: Planting together (8 days each)
+  - 2 laborers: Mulching, watering
+
+- **Budget:** ₹8,500-13,800
+  - Trees (125 Phase 2): ₹7,500-12,500
+  - Mulch: ₹800-1,000
+  - Irrigation extension: ₹200-300
+
+- **Deliverables:**
+  - 125 windbreak trees planted (western boundary, 300-600ft section)
+  - Mulch circles on all new plantings
+  - Drip irrigation extended to Phase 2 section
+  - Zone 2-3 protection coverage complete
+
+- **Quality Checks:**
+  - Tree spacing verified (8m, 6m, 3m by layer)
+  - Planting depth correct (crown at grade)
+  - Mulch 4-6 inches deep
+  - Irrigation reaches all new trees
+  - Food forest + annual crop protection confirmed
+
+- **Timing:** June-July (monsoon arrival) for optimal establishment
+
+---
+
+#### **Sprints 38-62: Year 2 Operations**
+**Ongoing maintenance and expansion activities:**
+
+- **Sprints 38-41 (Jul-Aug Year 2):** Food forest expansion, year 1 windbreak maintenance
+- **Sprints 42-45 (Sep-Oct Year 2):** Harvest season, crop planning for year 3
+- **Sprints 46-49 (Nov-Dec Year 2):** Winter planting, animal system optimization
+- **Sprints 50-53 (Jan-Feb Year 3):** Zone 3 annual crops expansion
+- **Sprints 54-57 (Mar-Apr Year 3):** Earthworks maintenance, swale assessment
+- **Sprints 58-62 (May-Jun Year 3):** Prepare for Western WB Phase 3
+
+**Year 2 Windbreak Maintenance:**
+- Year 1 northern WB: Now 1-year old, reducing watering to bi-weekly
+- Year 1 western Phase 1: Now 1-year old, pruning for shape
+- Year 2 western Phase 2: New planting, intensive watering (2-3x/week)
+
+---
+
+## 📅 YEAR 3 SPRINT CALENDAR (Completion + Western WB Phase 3)
+
+### Year 3 Overview
+**Focus:** Complete perimeter protection, full production mode  
+**Sprints:** 63-88 (26 sprints)  
+**Budget:** ₹2,00,000-3,50,000 total
+
+---
+
+#### **Sprint 63 (June Year 3): Western Windbreak Phase 3 Installation - PERIMETER COMPLETE!**
+- **Goals:**
+  - Plant Western WB Phase 3: 600-836ft from north (Zone 4-5 protection)
+  - FINAL SECTION: Complete perimeter windbreak system
+  - 3-layer system (tall, medium, shrub)
+  - Celebrate full property protection! 🎉
+
+- **Team:**
+  - Nursery delivery: 1 day
+  - All 4 families: CELEBRATION PLANTING (everyone together!)
+  - 2 laborers: Mulching, watering
+  - Permaculture consultant invited to celebrate milestone
+
+- **Budget:** ₹6,800-10,750
+  - Trees (100 Phase 3): ₹5,800-9,750
+  - Mulch: ₹700-800
+  - Irrigation extension: ₹300-200
+
+- **Deliverables:**
+  - 100 windbreak trees planted (western boundary, 600-836ft section)
+  - **COMPLETE PERIMETER PROTECTION ACHIEVED!**
+  - Mulch circles on all new plantings
+  - Drip irrigation extended to final section
+  - Zones 4-5 protection complete
+
+- **Quality Checks:**
+  - Tree spacing verified
+  - Planting depth correct
+  - Mulch 4-6 inches deep
+  - Irrigation reaches all new trees
+  - **ALL 4 FAMILIES celebrate together - milestone party!**
+
+- **Celebration:** This sprint marks the completion of the dual windbreak system started in Year 1. All 4 families should celebrate this major milestone - 390 trees planted over 3 years, complete perimeter protection established!
+
+---
+
+#### **Sprints 64-88: Year 3 Operations**
+**Full production and optimization:**
+
+- **Sprints 64-67 (Jul-Aug Year 3):** Full harvest season, value-added product development
+- **Sprints 68-71 (Sep-Oct Year 3):** Animal expansion planning, breeding considerations
+- **Sprints 72-75 (Nov-Dec Year 3):** Zone 5 wilderness assessment, biomass harvest
+- **Sprints 76-79 (Jan-Feb Year 4):** Healing center planning (if applicable)
+- **Sprints 80-83 (Mar-Apr Year 4):** Three-year retrospective and 5-year plan
+- **Sprints 84-88 (May-Jun Year 4):** Guest cottage/workshop space (if planned)
+
+**Year 3 Windbreak Status:**
+- **Northern WB:** 2-3 years old, approaching functional height (8-15ft), minimal watering
+- **Western Phase 1:** 2-3 years old, good protection developing (8-15ft)
+- **Western Phase 2:** 1-2 years old, establishing well (5-10ft)
+- **Western Phase 3:** New planting, intensive care needed
+
+---
+
+### 3-YEAR WINDBREAK SUMMARY
+
+**Total Investment (All Phases):**
+
+| Year | Sprint | Section | Plants | Cost | Per Family |
+|------|--------|---------|--------|------|------------|
+| **1** | 9 | Northern WB (complete) | 40 | ₹3,400-5,700 | ₹850-1,425 |
+| **1** | 10 | Western Phase 1 (0-300ft) | 125 | ₹9,000-14,300 | ₹2,250-3,575 |
+| **2** | 37 | Western Phase 2 (300-600ft) | 125 | ₹8,500-13,800 | ₹2,125-3,450 |
+| **3** | 63 | Western Phase 3 (600-836ft) | 100 | ₹6,800-10,750 | ₹1,700-2,688 |
+| **TOTAL** | | **All windbreaks** | **390** | **₹27,700-44,550** | **₹6,925-11,138** |
+
+**Benefits by Year 3:**
+- **Energy savings:** ₹12,000-21,000 per family (20-35% reduction)
+- **Water savings:** ₹7,500-15,000 per family (30-40% less irrigation)
+- **Crop yield increase:** ₹18,000-36,000 per family (25-35% higher)
+- **Fruit harvest from WBs:** ₹9,000-24,000 per family (Ber, Guava, Pomegranate)
+- **TOTAL ANNUAL BENEFIT (Year 3+):** ₹46,500-96,000 per family per year
+
+**Payback:** 2-3 months to 2.5 months (once Year 1 & 2 windbreaks mature in Year 3)
+
+**10-Year Net Gain (per family):** ₹360,000-850,000 (after subtracting initial ₹7k-11k investment)
 
 ---
 
