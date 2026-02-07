@@ -3,8 +3,24 @@
 ## Kurukshetra, Haryana - 209ft × 40ft Zone
 
 **Date:** January 26, 2026  
+**Revision:** February 7, 2026 - CRITICAL DISTANCE CORRECTION  
 **Status:** DETAILED DESIGN - Ready for construction planning  
 **Housing Option:** Option 1 - Cluster Village (RECOMMENDED)
+
+---
+
+## 🚨 CRITICAL CORRECTION (Feb 7, 2026)
+
+**INCORRECT ORIGINAL:** Houses shown at 5-40 feet from north boundary  
+**CORRECTED:** Houses at **65-80 feet (20-25 meters)** from north boundary
+
+**Why Changed:**
+- 3-layer windbreak system requires 65 feet (20m) depth
+- Houses must be BEHIND windbreak for protection, not in front
+- Original placement would provide NO wind protection
+- Original placement risks foundation damage from tree roots
+
+**All measurements in this document corrected to reflect proper 65-80ft placement.**
 
 ---
 
@@ -22,11 +38,13 @@ This document provides **exact measurements, positioning, and specifications** f
 
 **Total Zone 0 Area:** 209 ft (E-W) × 40 ft (N-S) = **8,360 sq ft (0.19 acres)**
 
-**Location:** 0-40 feet from north boundary
+**Location:** **65-105 feet from north boundary** (CORRECTED - behind windbreak)
+
+**Windbreak Zone:** 0-65 feet (3-layer system protects houses)
 
 **Orientation:** Houses face south for passive solar gain
 
-**Primary Function:** Living spaces for 4 families + central common hub
+**Primary Function:** Living spaces for 4 families + central common hub in protected microclimate
 
 ---
 
@@ -35,46 +53,58 @@ This document provides **exact measurements, positioning, and specifications** f
 ### Overview Diagram with Exact Measurements
 
 ```
-                    NORTH BOUNDARY
+                    NORTH BOUNDARY (0 ft)
                          ↑
            ←──── 209 feet (E-W) ────→
     
     0ft ┌─────────────────────────────────────┐
-        │ 🌳 Windbreak Trees (5-10ft setback) │
+        │ 🌳🌳 3-LAYER WINDBREAK SYSTEM 🌳🌳  │
         │                                     │
-  5ft   ├─────────────────────────────────────┤
+        │ Row 1: Neem, Shisham (Tall 15-25m) │
+ 20ft   │ Row 2: Ber, Guava (Medium 8-12m)   │
+        │ Row 3: Karonda, Pomegranate (Shrubs)│
+        │                                     │
+ 40ft   │     Full windbreak protection       │
+        │     system provides 70-80%          │
+        │     wind reduction                  │
+ 60ft   │                                     │
+        │                                     │
+ 65ft   ├─────────────────────────────────────┤
+        │      PROTECTED MICROCLIMATE ZONE    │
         │                                     │
         │  🏠 HOUSE 1         🏠 HOUSE 2      │
         │  (NW position)      (NE position)   │
-        │                                     │
+ 70ft   │                                     │
         │  800-1,000 sf       800-1,000 sf    │
         │  30×28 ft           30×28 ft        │
- 20ft   │     ↓  ↓  ↓            ↓  ↓  ↓      │
+ 80ft   │     ↓  ↓  ↓            ↓  ↓  ↓      │
         │                                     │
         │   ╔═══════════════════════════╗     │
-        │   ║                           ║     │
-        │   ║   COMMON HUB CENTER       ║     │
+ 85ft   │   ║   COMMON HUB CENTER       ║     │
         │   ║   • Play area             ║     │
         │   ║   • Tool shed             ║     │
- 25ft   │   ║   • Seating/gathering     ║     │
+ 90ft   │   ║   • Seating/gathering     ║     │
         │   ║   • Herb spiral           ║     │
         │   ║                           ║     │
-        │   ╚═══════════════════════════╝     │
+ 95ft   │   ╚═══════════════════════════╝     │
         │     ↑  ↑  ↑            ↑  ↑  ↑      │
         │                                     │
         │  🏠 HOUSE 3         🏠 HOUSE 4      │
-        │  (SW position)      (SE position)   │
- 35ft   │                                     │
+100ft   │  (SW position)      (SE position)   │
+        │                                     │
         │  800-1,000 sf       800-1,000 sf    │
         │  30×28 ft           30×28 ft        │
-        │                                     │
- 40ft   ├─────────────────────────────────────┤
+105ft   │                                     │
+        ├─────────────────────────────────────┤
         │   Transition to Zone 1 (gardens)    │
-        └─────────────────────────────────────┘
+110ft   └─────────────────────────────────────┘
                   SOUTH (to Zone 1)
                          ↓
     
     WEST                                    EAST
+    
+    KEY: Houses at 65-105ft from north boundary
+    in protected zone BEHIND 65ft windbreak
 ```
 
 ---
@@ -180,39 +210,41 @@ This document provides **exact measurements, positioning, and specifications** f
 
 ### House 1 (Northwest Position)
 
-**Coordinates from North Boundary:**
-- **Northwest corner:** 5 ft south, 15 ft east
-- **Northeast corner:** 5 ft south, 45 ft east
-- **Southwest corner:** 33 ft south, 15 ft east
-- **Southeast corner:** 33 ft south, 45 ft east
+**Coordinates from North Boundary (CORRECTED):**
+- **Northwest corner:** 65 ft south, 15 ft east
+- **Northeast corner:** 65 ft south, 45 ft east
+- **Southwest corner:** 93 ft south, 15 ft east
+- **Southeast corner:** 93 ft south, 45 ft east
 
 **Footprint:** 30 ft (E-W) × 28 ft (N-S) = 840 sq ft
 
 **Setbacks:**
-- North: 5 ft (from boundary)
+- North: **65 ft (from boundary) - BEHIND windbreak**
 - West: 15 ft (from property line)
 - East: 7 ft (to common hub center)
-- South: Porch extends to ~36 ft from north
+- South: Porch extends to ~96 ft from north
 
 **Orientation:** Front (south) faces common hub at 20-degree angle
+
+**Protection:** Located in protected microclimate zone behind 65ft windbreak system
 
 ---
 
 ### House 2 (Northeast Position)
 
-**Coordinates from North Boundary:**
-- **Northwest corner:** 5 ft south, 164 ft east
-- **Northeast corner:** 5 ft south, 194 ft east
-- **Southwest corner:** 33 ft south, 164 ft east
-- **Southeast corner:** 33 ft south, 194 ft east
+**Coordinates from North Boundary (CORRECTED):**
+- **Northwest corner:** 65 ft south, 164 ft east
+- **Northeast corner:** 65 ft south, 194 ft east
+- **Southwest corner:** 93 ft south, 164 ft east
+- **Southeast corner:** 93 ft south, 194 ft east
 
 **Footprint:** 30 ft (E-W) × 28 ft (N-S) = 840 sq ft
 
 **Setbacks:**
-- North: 5 ft (from boundary)
+- North: **65 ft (from boundary) - BEHIND windbreak**
 - East: 15 ft (from property line)
 - West: 7 ft (to common hub center)
-- South: Porch extends to ~36 ft from north
+- South: Porch extends to ~96 ft from north (house ends at 93ft + 3ft porch)
 
 **Orientation:** Front (south) faces common hub at 20-degree angle
 
@@ -220,61 +252,67 @@ This document provides **exact measurements, positioning, and specifications** f
 
 ### House 3 (Southwest Position)
 
-**Coordinates from North Boundary:**
-- **Northwest corner:** 12 ft south, 15 ft east
-- **Northeast corner:** 12 ft south, 45 ft east
-- **Southwest corner:** 40 ft south, 15 ft east
-- **Southeast corner:** 40 ft south, 45 ft east
+**Coordinates from North Boundary (CORRECTED):**
+- **Northwest corner:** 97 ft south, 15 ft east
+- **Northeast corner:** 97 ft south, 45 ft east
+- **Southwest corner:** 125 ft south, 15 ft east (transitions to Zone 1)
+- **Southeast corner:** 125 ft south, 45 ft east
 
 **Footprint:** 30 ft (E-W) × 28 ft (N-S) = 840 sq ft
 
 **Setbacks:**
-- North: Faces common hub (7 ft to center)
+- North: Faces common hub (7 ft to center from 85ft line)
 - West: 15 ft (from property line)
 - East: 7 ft (to common hub center)
-- South: 0 ft (edge of Zone 0, transitions to Zone 1)
+- South: **Transitions to Zone 1 at 105 ft from north boundary**
 
 **Orientation:** Front (north/northeast) faces common hub
 
 **Note:** This house has NORTH-FACING main windows toward hub. For passive solar, place large windows on SOUTH wall (rear of house, looking at Zone 1).
 
+**Protection:** Located in protected microclimate zone behind 65ft windbreak system
+
 ---
 
 ### House 4 (Southeast Position)
 
-**Coordinates from North Boundary:**
-- **Northwest corner:** 12 ft south, 164 ft east
-- **Northeast corner:** 12 ft south, 194 ft east
-- **Southwest corner:** 40 ft south, 164 ft east
-- **Southeast corner:** 40 ft south, 194 ft east
+**Coordinates from North Boundary (CORRECTED):**
+- **Northwest corner:** 97 ft south, 164 ft east
+- **Northeast corner:** 97 ft south, 194 ft east
+- **Southwest corner:** 125 ft south, 164 ft east (transitions to Zone 1)
+- **Southeast corner:** 125 ft south, 194 ft east
 
 **Footprint:** 30 ft (E-W) × 28 ft (N-S) = 840 sq ft
 
 **Setbacks:**
-- North: Faces common hub (7 ft to center)
+- North: Faces common hub (7 ft to center from 85ft line)
 - East: 15 ft (from property line)
 - West: 7 ft (to common hub center)
-- South: 0 ft (edge of Zone 0, transitions to Zone 1)
+- South: **Transitions to Zone 1 at 105 ft from north boundary**
 
 **Orientation:** Front (north/northwest) faces common hub
 
 **Note:** This house has NORTH-FACING main windows toward hub. For passive solar, place large windows on SOUTH wall (rear of house, looking at Zone 1).
 
+**Protection:** Located in protected microclimate zone behind 65ft windbreak system
+
 ---
 
 ## COMMON HUB CENTER
 
-### Location & Dimensions
+### Location & Dimensions (CORRECTED)
 
-**Center Point:** 20 ft south from north boundary, 104.5 ft east from west boundary
+**Center Point:** 85 ft south from north boundary, 104.5 ft east from west boundary
 
 **Total Area:** 60 ft (E-W) × 15 ft (N-S) = **900 sq ft**
 
 **Boundaries:**
-- North edge: 12.5 ft from north boundary
-- South edge: 27.5 ft from north boundary
+- North edge: **77.5 ft from north boundary** (between north houses)
+- South edge: **92.5 ft from north boundary** (between south houses)
 - West edge: 74.5 ft from west boundary
 - East edge: 134.5 ft from west boundary
+
+**Protection Zone:** Common hub at 77-92.5ft is in fully protected microclimate behind 65ft windbreak
 
 ---
 
@@ -283,7 +321,7 @@ This document provides **exact measurements, positioning, and specifications** f
 ```
          ←──── 60 feet (E-W) ────→
     
-    12.5ft ┌─────────────────────────────┐  ↑
+    77.5ft ┌─────────────────────────────┐  ↑
            │                             │  │
            │  🎪 CHILDREN'S PLAY AREA    │  │
            │  • Sand pit (8×8 ft)        │  │
@@ -291,13 +329,13 @@ This document provides **exact measurements, positioning, and specifications** f
            │  • Open grass (25×10 ft)    │  10 ft
            │  • Visible from all houses  │  │
            │                             │  │
-    20ft   ├──────────────┬──────────────┤  ↓
+    85ft   ├──────────────┬──────────────┤  ↓
            │              │              │  ↑
            │  🏡 TOOL     │  🌿 HERB     │  │
            │  SHED        │  SPIRAL      │  │
            │  10×10 ft    │  8×8 ft      │  5 ft
            │              │              │  │
-    27.5ft └──────────────┴──────────────┘  ↓
+    92.5ft └──────────────┴──────────────┘  ↓
               WEST         EAST
     
     NORTH ↑                      (Houses 1 & 2 above)
