@@ -4,7 +4,26 @@
 **Location:** 4-acre land, Kurukshetra, Haryana (1 acre E-W × 4 acres N-S - ROTATED)  
 **Climate:** Semi-arid, hot summers (40°C+), cool winters (5-10°C)  
 **Date:** January 1, 2026 - UPDATED FOR ROTATED PROPERTY  
+**Revision:** February 7, 2026 - CRITICAL CORRECTION: House placement distance  
 **Status:** Planning Phase - Strategic Placement Guide
+
+---
+
+## 🚨 CRITICAL CORRECTION (Feb 7, 2026)
+
+**HOUSE PLACEMENT DISTANCE FROM NORTH BOUNDARY:**
+- **CORRECTED:** Houses at **65-80 feet (20-25 meters)** from north boundary
+- **REASON:** Houses must be BEHIND the 3-layer windbreak system, not in front of it
+- **WINDBREAK DEPTH:** 65 feet (20m) for complete 3-layer protection system
+- **PROTECTION ZONE:** Houses in protected microclimate behind windbreak
+
+**Why This Matters:**
+- Windbreak provides 70-80% wind reduction ONLY if houses are behind it
+- Too close = root/moisture damage to foundations
+- Too close = no wind protection benefit
+- Correct spacing = optimal microclimate, safety, and system function
+
+**All diagrams and measurements in this document have been corrected to reflect the proper 65-80ft distance.**
 
 ---
 
@@ -35,33 +54,43 @@ Zone 0 represents the house itself—the heart of your permaculture system. This
 #### **OPTION 1: Cluster Village (RECOMMENDED) - UPDATED FOR NARROW PROPERTY**
 
 ```
-         North (Windbreak)
+         North Boundary (0 ft)
     ┌─────────────────┐ 209ft wide
-    │   🌳🌳 WB 🌳🌳   │ (NARROWER)
-    │                 │
-    │  🏠 F1  🏠 F2   │ Side-by-side
-    │                 │ (fits 209ft)
-    │  [Common Hub]   │ Compact
-    │  • Tools        │
-    │  • Play area    │
+    │ 🌳🌳WINDBREAK🌳🌳│ 0-65ft from north
+    │  3-layer system │ (20m / 65ft deep)
+    │  Row 1: Tall    │ Neem, Shisham
+    │  Row 2: Medium  │ Ber, Guava
+    │  Row 3: Shrubs  │ Karonda
+    ├─────────────────┤ 65-80ft: PROTECTED ZONE
+    │  🏠 F1  🏠 F2   │ Houses: 65-80ft 
+    │                 │ from north boundary
+    │  [Common Hub]   │ (20-25m behind WB)
+    │  • Tools        │ Compact cluster
+    │  • Play area    │ 
     │                 │
     │  🏠 F3  🏠 F4   │ Side-by-side
+    │                 │ (fits 209ft width)
+    ├─────────────────┤ 80-110ft: Zone 1
+    │  ═══ Zone 1 ═══ │ Kitchen gardens
+    │  🥬 🥕 🌿       │ Private + Shared
     │                 │
-    │  ═══ Zone 1 ═══ │ Shared gardens
-    │  🥬 🥕 🌿       │
+    ├─────────────────┤ 110-310ft: Zone 2
+    │  Zone 2: Food   │ Food forest
+    │  🌳 🦆 🐓       │ Animals, pond
     │                 │
-    │  Zone 2: Food   │
-    │  🌳 🦆 🐓       │
-    │                 │
-    │  Swale 1 ═══    │
-    │  Swale 2 ═══    │
+    │  Swale 1 ═══    │ 310-455ft: Zone 3
+    │  Swale 2 ═══    │ Annual crops
     │  Zone 3: Annual │
-    │  Swale 3-12 ═══ │
-    │  Zone 4-5: Deep │
+    │  Swale 3-12 ═══ │ 455-700ft: Zone 4
+    │  Zone 4: Timber │ Perimeter trees
     │                 │
-    │  🌊 Pond (S)    │
+    │  Zone 5: Wild   │ 700-836ft: Zone 5
+    │  🌊 Pond (S)    │ Wilderness
     └─────────────────┘
          South (836ft deep!)
+         
+    KEY DISTANCE: Houses at 65-80ft (20-25m) from 
+    north boundary, BEHIND 65ft windbreak system
 ```
 
 **Advantages (UPDATED):**
@@ -120,14 +149,15 @@ Zone 0 represents the house itself—the heart of your permaculture system. This
 #### **OPTION 3: Linear Co-Housing (East-West Row) - BEST FIT FOR NARROW PROPERTY!**
 
 ```
-    North (Protected by houses + windbreak)
+    North Boundary (0 ft)
     ┌─────────────────┐ 209ft width
-    │  🌳 Windbreak 🌳 │ (PERFECT FIT!)
-    │                 │
-    │ 🏠🏠🏠🏠        │ 4 houses
-    │ F1 F2 F3 F4     │ side-by-side
+    │  🌳 Windbreak 🌳 │ 0-65ft: 3-layer
+    │  3-layer system │ windbreak system
+    ├─────────────────┤ (20m / 65ft deep)
+    │ 🏠🏠🏠🏠        │ 65-80ft: Houses
+    │ F1 F2 F3 F4     │ BEHIND windbreak
     │ │  │  │  │      │ (52ft each)
-    │ ▼  ▼  ▼  ▼      │
+    │ ▼  ▼  ▼  ▼      │ Protected zone
     │ Z1 Z1 Z1 Z1     │ Private strips
     │                 │
     │ ═══ Shared ═══  │ Gardens
@@ -906,40 +936,46 @@ ZONE 4 (Perimeter, Wildlife) - Observation, harvest
 **Specific Layout Recommendation:**
 
 ```
-NORTH (Windbreak - plant Year 1)
+NORTH BOUNDARY (0 ft)
 ┌─────────────────────────────────────┐
-│  🌳🌳🌳🌳🌳 Dense Windbreak 🌳🌳🌳🌳 │
-│                                     │
-│ 🏠Family 1    [Common]    Family 2🏠│
-│   800sf        House        800sf  │
-│              (1500sf)              │
-│              • Kitchen              │
-│              • Dining               │
-│ 🏠Family 3    • Library   Family 4🏠│
-│   800sf       • Guest       800sf  │
+│  🌳🌳🌳 3-LAYER WINDBREAK 🌳🌳🌳   │ 0-65ft
+│  Row 1: Neem, Shisham (tall)       │ (20m deep)
+│  Row 2: Ber, Guava (medium)        │ Protection
+│  Row 3: Karonda, Pomegranate       │ System
+├─────────────────────────────────────┤ 65-80ft
+│ 🏠Family 1    [Common]    Family 2🏠│ PROTECTED
+│   800sf        House        800sf  │ ZONE
+│              (1500sf)              │ Houses 20-25m
+│              • Kitchen              │ from boundary
+│              • Dining               │ (65-80ft)
+│ 🏠Family 3    • Library   Family 4🏠│ BEHIND
+│   800sf       • Guest       800sf  │ windbreak
 │              rooms                  │
-│                                     │
-│        [Children's Village]         │
+├─────────────────────────────────────┤ 80-110ft
+│        [Children's Village]         │ Transition
 │        🎪🎡 Play Area 🤸             │
 │                                     │
 │   🏡 Shared Tool Shed 🔧           │
 │   🐔 Animal Shelter (rotate)        │
-│                                     │
-│ ═══ Private Zone 1 Strips ═════    │
-│  (Each family 100-150 sq meters)   │
-│                                     │
+├─────────────────────────────────────┤ 110-360ft
+│ ═══ Private Zone 1 Strips ═════    │ Zone 1
+│  (Each family 100-150 sq meters)   │ Kitchen
+│                                     │ Gardens
 │ ═══════ SHARED ZONE 1 ═══════     │
 │  Main vegetable production          │
 │  (1500 sq meters communal)         │
+├─────────────────────────────────────┤ 360-700ft
+│      ZONE 2: Food Forest            │ Zones
+│      🌳 Pond 🦆 Orchard 🌳         │ 2-4
+│                                     │ Deep
+│   ZONE 3: Annual crops, swales     │ Production
 │                                     │
-│      ZONE 2: Food Forest            │
-│      🌳 Pond 🦆 Orchard 🌳         │
-│                                     │
-│   ZONE 3: Annual crops, swales     │
-│                                     │
-│ ZONE 4: Perimeter, wilderness      │
+│ ZONE 4: Perimeter, timber, Zone 5  │
 └─────────────────────────────────────┘
-SOUTH (Access Road)
+SOUTH (836ft - Access Road)
+
+CRITICAL: Houses at 65-80ft from north boundary
+provides wind protection and proper spacing
 ```
 
 ### **Individual House Specifications:**
