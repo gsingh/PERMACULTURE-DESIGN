@@ -4,15 +4,25 @@
 **Location:** 4-acre land, Kurukshetra, Haryana (1 acre E-W × 4 acres N-S - ROTATED)  
 **Climate:** Semi-arid, hot summers (40°C+), cool winters (5-10°C)  
 **Date:** January 1, 2026 - UPDATED FOR ROTATED PROPERTY  
-**Revision:** February 7, 2026 - CRITICAL CORRECTION: House placement distance  
-**Status:** Planning Phase - Strategic Placement Guide
+**Revision:** February 11, 2026 - Hub dimensions optimized  
+**Status:** Strategic Placement Guide - See OPTIMIZED DESIGN for final implementation details
 
 ---
 
-## 🚨 CRITICAL CORRECTION (Feb 7, 2026)
+## 🚨 UPDATES & CORRECTIONS
+
+### February 11, 2026 - Hub Dimensions Optimized ✅
+
+**CENTRAL HUB LAYOUT CORRECTED:**
+- **Previous issue:** Original design claimed 30ft+15ft+16ft = 61ft in 46ft hub (impossible!)
+- **Optimized solution:** 20ft+14ft+12ft = 46ft (perfect fit!)
+- **All functions preserved:** Play area (900 sf), utilities (630 sf), gathering (540 sf)
+- **See:** `zone-0-corner-cluster-OPTIMIZED-design.md` for complete buildable specifications
+
+### February 7, 2026 - House Placement Corrected
 
 **HOUSE PLACEMENT DISTANCE FROM NORTH BOUNDARY:**
-- **CORRECTED:** Houses at **65-80 feet (20-25 meters)** from north boundary
+- **CORRECTED:** Houses at **65-145 feet** from north boundary (85ft Zone 0 depth)
 - **REASON:** Houses must be BEHIND the 3-layer windbreak system, not in front of it
 - **WINDBREAK DEPTH:** 65 feet (20m) for complete 3-layer protection system
 - **PROTECTION ZONE:** Houses in protected microclimate behind windbreak
@@ -20,10 +30,7 @@
 **Why This Matters:**
 - Windbreak provides 70-80% wind reduction ONLY if houses are behind it
 - Too close = root/moisture damage to foundations
-- Too close = no wind protection benefit
 - Correct spacing = optimal microclimate, safety, and system function
-
-**All diagrams and measurements in this document have been corrected to reflect the proper 65-80ft distance.**
 
 ---
 
@@ -33,7 +40,15 @@ Zone 0 represents the house itself—the heart of your permaculture system. This
 
 **IMPORTANT UPDATE:** This strategy addresses **FOUR HOUSES for FOUR FAMILIES**—a co-housing permaculture community model. The strategy integrates permaculture design principles including sectors (sun, wind, water, access), energy efficiency, connection to Zone 1, and community design patterns.
 
-**Key Recommendation:** Cluster four houses in a community pattern on the northern/northwestern portion of the property, with individual homes facing south and arranged around shared common areas (community center, shared gardens, children's play areas). This creates private family zones while maximizing shared resources and community resilience.
+**Key Recommendation:** Cluster four houses in a **Corner Cluster with Central Hub** pattern (Option 7 - ADOPTED). Houses positioned at the four corners of Zone 0 with a 2,070 sq ft shared hub in the center. This creates private family zones while maximizing shared resources and community resilience.
+
+**📄 IMPLEMENTATION DOCUMENT:** See `zone-0-corner-cluster-OPTIMIZED-design.md` for:
+- Complete buildable specifications (all measurements verified ✅)
+- Detailed hub layout (mathematically correct dimensions)
+- Individual house specifications (all 4 corners)
+- Construction timeline (16-20 months)
+- Cost breakdown (₹27-41 lakhs total)
+- Ready for contractor handoff
 
 ---
 

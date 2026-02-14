@@ -3,10 +3,11 @@
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
 
 **Date:** January 23, 2026  
-**Revision:** February 10, 2026 - UPDATED for Zone 0 & 1 expansion  
+**Revision:** February 11, 2026 - Zone boundaries updated for optimized Zone 0/1  
 **Status:** CORRECTED - Ready for Implementation  
-**Community Model:** 4-Family Cluster Village (Option 1)  
-**Dimensions:** 209 ft (E-W) × 200 ft (N-S) = 0.96 acres ✓
+**Community Model:** 4-Family Corner Cluster (OPTIMIZED)  
+**Dimensions:** 209 ft (E-W) × 415 ft (N-S) = 1.99 acres ✓  
+**Zone 0 Reference:** See `zone-0-corner-cluster-OPTIMIZED-design.md`
 
 ---
 
@@ -18,19 +19,22 @@
 - **Result:** Same 0.96-acre area, different shape (deeper N-S, narrower E-W)
 - **Production capacity:** MAINTAINED at original levels
 
-## 🔄 FEBRUARY 10, 2026 UPDATE - ZONE BOUNDARY SHIFT
+## 🔄 FEBRUARY 11, 2026 UPDATE - FINAL ZONE BOUNDARIES
 
-**Impact of Zone 0 & Zone 1 Expansion:**
-- **Zone 0 expanded:** 65-150 ft (was 0-40 ft)
-- **Zone 1 expanded:** 150-360 ft (was 40-110 ft)
-- **Zone 2 shifted south:** 360-560 ft (was 110-310 ft) - **+250 ft shift**
-- **Zone 2 area:** UNCHANGED at 0.96 acres
-- **Production capacity:** MAINTAINED at original levels
+**Impact of Optimized Zone 0 & Expanded Zone 1:**
+- **Zone 0 finalized:** 65-150 ft (Corner Cluster + 2,070 sf hub - see OPTIMIZED design doc)
+- **Zone 1 finalized:** 150-285 ft (1.06 acres, TRIPLED production)
+- **Zone 2 updated:** 285-700 ft (1.99 acres) - **EXPANDED from 0.96 acres**
+- **Production capacity:** SIGNIFICANTLY INCREASED
 
-**Key Changes:**
-- ✅ **Shorter pond distance:** 220-420 ft (vs 470-500 ft) - BETTER for ducks!
-- ⚠️ **Longer walk from houses:** 210 ft extra distance for daily animal care
-- 🔄 **Swales repositioned:** Swale 1 @ 360 ft, Swale 2 @ 560 ft
+**Key Improvements:**
+- ✅ **Pond access improved:** 495 ft from houses (was 670-720 ft) - 50% shorter duck walks!
+- ✅ **Food forest area doubled:** 1.99 acres (was 0.96 acres)
+- ✅ **Better integration:** Smoother transition from Zone 1 intensive gardens
+- 🔄 **Swale 1:** @ 285 ft (Zone 1/2 boundary)
+- 🔄 **Swale 2:** @ 700 ft (Zone 2/3 boundary)
+
+**Zone 0 Details:** All housing specifications, hub layout, and construction plans in `zone-0-corner-cluster-OPTIMIZED-design.md`
 
 ---
 

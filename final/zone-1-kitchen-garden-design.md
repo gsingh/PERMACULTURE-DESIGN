@@ -3,11 +3,12 @@
 ## Updated for Rotated Property (209ft E-W × 836ft N-S)
 
 **Date:** January 26, 2026  
-**Revision:** February 10, 2026 - UPDATED for expanded Zone 0  
+**Revision:** February 11, 2026 - Zone 0 hub dimensions optimized  
 **Status:** FINAL DESIGN - Optimized for Narrow Width  
 **Zone Location:** 150-360 ft from north boundary (210 ft depth)  
 **Total Area:** 43,890 sq ft = 1.01 acres  
-**Families:** 4 (Cluster Village - Option 1 RECOMMENDED)
+**Families:** 4 (Corner Cluster with Central Hub - OPTIMIZED DESIGN)  
+**Zone 0 Reference:** See `zone-0-corner-cluster-OPTIMIZED-design.md` for house layout details
 
 ---
 
@@ -22,7 +23,12 @@ Zone 1 is the **most intensively managed zone** of the permaculture design, prov
 
 **Key Design Constraint:** 209ft width means gardens are **narrow but deep** - perfect for north-south orientation and individual family strips.
 
-**IMPORTANT UPDATE (Feb 10, 2026):** With Zone 0 expanded to 65-150 ft, Zone 1 now occupies 150-360 ft from north boundary, providing significantly more growing space (1.01 acres total vs previous 0.34 acres).
+**IMPORTANT UPDATE (Feb 11, 2026):** 
+- Zone 0 finalized: 65-150 ft (Corner Cluster with optimized 2,070 sf hub)
+- Zone 1 location: 150-360 ft from north boundary
+- Total area: **1.01 acres** (TRIPLED from original 0.34 acres!)
+- Production: **3,800 kg/family/year** (2.5x increase)
+- See `zone-0-corner-cluster-OPTIMIZED-design.md` for complete Zone 0 specifications
 
 ---
 

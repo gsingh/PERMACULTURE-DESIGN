@@ -3,9 +3,10 @@
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
 
 **Date:** January 21, 2026  
-**Revision:** February 10, 2026 - UPDATED for upstream zone expansions  
+**Revision:** February 11, 2026 - Final boundaries with optimized Zone 0  
 **Status:** Planning Phase - Design Ready  
-**Community Model:** 4-Family Cluster Village (Option 1)
+**Community Model:** 4-Family Corner Cluster (OPTIMIZED)  
+**Zone 0 Reference:** See `zone-0-corner-cluster-OPTIMIZED-design.md`
 
 ---
 
@@ -15,17 +16,21 @@
 **Primary Function**: Windbreak, timber production, bamboo, wildlife habitat, semi-wild buffer  
 **Scale**: 75 feet (N-S) x 209 feet (E-W) = 15,675 sq ft (0.36 acres)  
 **Design Approach**: Low maintenance, semi-wild, minimal human intervention (1-2 visits/month)  
-**Integration:** Protects entire farm, provides long-term timber, bamboo wealth, transitions to Zone 5 wilderness
+**Integration:** Protects entire farm, provides long-term timber, bamboo wealth, transitions to Zone 5 wilderness  
+**Pond Location**: 780 ft (at Zone 4/5 boundary - serves all zones)
 
-## 🔄 FEBRUARY 10, 2026 UPDATE - ZONE REDEFINED!
+## 🔄 FEBRUARY 11, 2026 UPDATE - FINAL BOUNDARIES
 
-**Zone 4 Redefined with Zone 5 Separation:**
-- **Original (document error):** 195-250 ft = 55 ft depth, 0.26 acres
-- **First revision:** 705-836 ft = 131 ft depth, 0.63 acres
-- **FINAL (with Zone 5 split):** 705-780 ft = **75 ft depth, 0.36 acres**
-- **Result:** 38% LARGER than original - optimal for timber/bamboo production
-- **Zone 5 created:** 780-836 ft (56 ft) = true wilderness zone
-- **Pond position:** Pond @ 780 ft marks boundary between Zone 4 (managed) and Zone 5 (wilderness)
+**Zone 4 Final Location with Complete Farm Integration:**
+- **Zone 0 finalized:** 65-150 ft (Corner Cluster with 2,070 sf optimized hub)
+- **Zone 1 finalized:** 150-360 ft (1.01 acres kitchen gardens - TRIPLED)
+- **Zone 2 finalized:** 360-560 ft (0.96 acres food forest)
+- **Zone 3 finalized:** 560-705 ft (0.70 acres annual crops/orchards)
+- **Zone 4 final:** 705-780 ft = **75 ft depth, 0.36 acres**
+- **Zone 5 final:** 780-836 ft (56 ft) = true wilderness zone
+- **Pond location:** 780 ft (at Zone 4/5 boundary, serves all zones)
+
+**Result:** Timber/bamboo zone with adequate space for production
 
 **Key Features:**
 - Multi-layered windbreak system (3-5 rows deep)

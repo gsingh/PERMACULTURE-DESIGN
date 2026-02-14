@@ -3,32 +3,39 @@
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
 
 **Date:** January 23, 2026  
-**Revision:** February 10, 2026 - UPDATED for zone reorganization  
+**Revision:** February 11, 2026 - Final boundaries with optimized Zone 0  
 **Status:** NEW - Ready for Implementation  
 **Zone 5 Allocation:** 0.27 acres (780-836 ft from north boundary)  
-**Management Philosophy:** ZERO INTERVENTION - Let Nature Lead
+**Management Philosophy:** ZERO INTERVENTION - Let Nature Lead  
+**Zone 0 Reference:** See `zone-0-corner-cluster-OPTIMIZED-design.md`
 
 ---
 
 ## EXECUTIVE SUMMARY
 
 **Zone 5 Location**: Southern end of property (780-836 ft from north boundary)  
-**Primary Function**: Wilderness preservation, wildlife sanctuary, native ecosystem regeneration  
-**Dimensions**: 209 feet (E-W) × 56 feet (N-S) = 0.27 acres (6.8% of farm)  
+**Primary Function**: Wilderness preservation, wildlife sanctuary, native ecosystem regeneration, pond buffer  
+**Dimensions**: 209 feet (E-W) × 56 feet (N-S) = 11,704 sq ft (0.27 acres = 6.8% of farm)  
 **Management Approach**: ABSOLUTE ZERO intervention after initial native seeding  
-**Integration:** Provides ecosystem services to Zones 1-4, pond buffer zone (pond at 780 ft)
+**Integration:** Provides ecosystem services to Zones 1-4, southern boundary buffer, pond watershed  
+**Pond Location:** 780 ft (at Zone 4/5 boundary - northern edge of Zone 5)
 
-## 🔄 FEBRUARY 10, 2026 UPDATE - ZONE REORGANIZATION
+## 🔄 FEBRUARY 11, 2026 UPDATE - FINAL BOUNDARIES
 
-**Zone 5 Redefined for Practical 4-Acre Farm:**
-- **Original concept:** 700-836 ft = 136 ft depth, 0.65 acres (too large for managed farm)
-- **Revised (practical):** 780-836 ft = 56 ft depth, 0.27 acres
-- **Rationale:** 
-  - 4 acres is small for separate wilderness zone
-  - Zone 4 (705-780 ft) provides semi-wild timber/bamboo buffer
-  - Zone 5 (780-836 ft) is TRUE wilderness - pond buffer + southern boundary
-  - 6.8% wilderness = appropriate for intensive 4-acre property
-- **Pond position:** Pond @ 780 ft marks transition from Zone 4 (managed) to Zone 5 (wilderness)
+**Zone 5 Final Location with Complete Farm Integration:**
+- **Zone 0 finalized:** 65-150 ft (Corner Cluster with 2,070 sf optimized hub)
+- **Zone 1 finalized:** 150-360 ft (1.01 acres - TRIPLED kitchen gardens)
+- **Zone 2 finalized:** 360-560 ft (0.96 acres food forest)
+- **Zone 3 finalized:** 560-705 ft (0.70 acres annual crops)
+- **Zone 4 finalized:** 705-780 ft (0.36 acres timber/bamboo)
+- **Zone 5 final:** 780-836 ft = **56 ft depth, 0.27 acres (6.8% of farm)**
+
+**Rationale:** 
+- Practical wilderness size for 4-acre farm (6.8%)
+- Zone 4 provides semi-wild timber buffer (705-780 ft)
+- Zone 5 is TRUE zero-management wilderness
+- Southern boundary protection and wildlife corridor
+- **Pond at 780 ft:** Northern edge of Zone 5, acts as pond buffer/watershed
 
 **Key Features:**
 - Native forest regeneration (indigenous species only)

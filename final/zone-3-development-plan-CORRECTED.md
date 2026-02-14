@@ -3,10 +3,11 @@
 ## 4-Acre Permaculture Farm, Kurukshetra, Haryana
 
 **Date:** January 23, 2026  
-**Revision:** February 10, 2026 - UPDATED for upstream zone expansions  
+**Revision:** February 11, 2026 - Final zone boundaries with optimized Zone 0  
 **Status:** CORRECTED - Ready for Implementation  
-**Community Model:** 4-Family Cluster Village (Option 1)  
-**Dimensions:** 209 ft (E-W) × 145 ft (N-S) = 0.70 acres ✓
+**Community Model:** 4-Family Corner Cluster (OPTIMIZED)  
+**Dimensions:** 209 ft (E-W) × 145 ft (N-S) = 0.70 acres ✓  
+**Zone 0 Reference:** See `zone-0-corner-cluster-OPTIMIZED-design.md`
 
 ---
 
@@ -18,20 +19,22 @@
 - **Result:** Same area (slightly larger!), different shape (deeper N-S, narrower E-W)
 - **Production capacity:** MAINTAINED at original levels ✓
 
-## 🔄 FEBRUARY 10, 2026 UPDATE - ZONE BOUNDARY SHIFT
+## 🔄 FEBRUARY 11, 2026 UPDATE - FINAL ZONE BOUNDARIES
 
-**Impact of Zone 0, 1 & 2 Expansions:**
-- **Zone 0 expanded:** 65-150 ft (was 0-40 ft)
-- **Zone 1 expanded:** 150-360 ft (was 40-110 ft)
-- **Zone 2 shifted:** 360-560 ft (was 110-310 ft)
-- **Zone 3 shifted south:** 560-705 ft (was 310-455 ft) - **+250 ft shift**
-- **Zone 3 area:** UNCHANGED at 0.70 acres
-- **Production capacity:** MAINTAINED at original levels
+**Impact of Optimized Zone 0/1 & Expanded Zone 2:**
+- **Zone 0 finalized:** 65-150 ft (Corner Cluster + 2,070 sf optimized hub)
+- **Zone 1 finalized:** 150-360 ft (1.01 acres - TRIPLED!)
+- **Zone 2 finalized:** 360-560 ft (0.96 acres - food forest)
+- **Zone 3 updated:** 560-705 ft (0.70 acres)
+- **Production capacity:** Optimized for annual crops + orchards
 
-**Key Changes:**
-- ✅ **MUCH closer to pond:** 75-220 ft (vs 325-470 ft) - EXCELLENT for irrigation!
-- ⚠️ **Longer walk from houses:** ~410-495 ft (vs 245-310 ft) - acceptable for weekly visits
-- 🔄 **Swales repositioned:** Swale 2 @ 560 ft, Swale 3 @ 705 ft
+**Key Improvements:**
+- ✅ **Pond proximity:** 780 ft pond location (75-220 ft from Zone 3)
+- ✅ **Perfect for irrigation:** Gravity-fed from pond, short pipe runs
+- ✅ **Better drainage:** Swale at zone boundaries captures runoff
+- 🔄 **Annual crop area:** Intensive production in 0.70 acres
+
+**Zone 0 Details:** Complete specifications in `zone-0-corner-cluster-OPTIMIZED-design.md`
 
 ---
 
